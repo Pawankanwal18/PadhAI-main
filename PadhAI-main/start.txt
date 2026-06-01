@@ -1,0 +1,6 @@
+1. Open terminal in ai projeect
+2. Run: npm install
+3. Add GEMINI_API_KEY in backend/.env
+4. Run backend: npm run backend
+5. Run frontend in another terminal: npm run dev
+6. Open the Vite localhost URL

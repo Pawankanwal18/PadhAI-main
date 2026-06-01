@@ -1,0 +1,30 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+question_predictor.executed.ipynb
+
+# ── Node / Frontend ───────────────────────────────────────────────────────────
+node_modules/
+ai projeect/node_modules/
+ai projeect/dist/
+
+# ── Backend secrets & database ────────────────────────────────────────────────
+.env
+.env.*
+ai projeect/backend/.env
+ai projeect/backend/users.db
+ai projeect/backend/users.db-shm
+ai projeect/backend/users.db-wal
+
+# ── ML model weights ──────────────────────────────────────────────────────────
+saved_model/
+*.safetensors
+*.pt
+*.pth
+
+# ── OS / Editor ───────────────────────────────────────────────────────────────
+.DS_Store
+.vscode/
+Thumbs.db
