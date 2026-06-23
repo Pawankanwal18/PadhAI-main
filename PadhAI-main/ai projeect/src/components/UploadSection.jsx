@@ -7,14 +7,14 @@ import { HiSparkles } from 'react-icons/hi2';
 const pdfStages = [
   { icon: FiUploadCloud, label: 'Uploading PDF',  color: '#3b82f6', pct: 20 },
   { icon: FiFileText,   label: 'OCR Extraction',  color: '#06b6d4', pct: 45 },
-  { icon: FiCpu,        label: 'Gemini AI',        color: '#8b5cf6', pct: 80 },
+  { icon: FiCpu,        label: 'Claude AI',        color: '#8b5cf6', pct: 80 },
   { icon: FiCheckCircle,label: 'Ready!',           color: '#22c55e', pct: 100 },
 ];
 
 const textStages = [
   { icon: FiAlignLeft,  label: 'Reading Text',    color: '#3b82f6', pct: 20 },
   { icon: FiType,       label: 'Parsing Topics',  color: '#06b6d4', pct: 45 },
-  { icon: FiCpu,        label: 'Gemini AI',        color: '#8b5cf6', pct: 80 },
+  { icon: FiCpu,        label: 'Claude AI',        color: '#8b5cf6', pct: 80 },
   { icon: FiCheckCircle,label: 'Ready!',           color: '#22c55e', pct: 100 },
 ];
 
@@ -151,13 +151,13 @@ const UploadSection = () => {
             className="inline-flex items-center gap-2 tag-chip mb-5"
           >
             <FiUploadCloud style={{ color: '#0a0a0a', fontSize: '12px' }} />
-            <span>Smart Upload Engine — Powered by Gemini AI</span>
+            <span>Smart Upload Engine — Powered by Claude AI</span>
           </div>
           <h2 className="font-playfair" style={{ fontSize: 'clamp(2rem, 4vw, 3rem)', fontWeight: 900, color: '#0a0a0a', marginBottom: '12px' }}>
             Upload Your <span style={{ fontStyle: 'italic' }}>Syllabus</span>
           </h2>
           <p className="font-space" style={{ color: '#666', maxWidth: '520px', margin: '0 auto', fontSize: '14px', lineHeight: 1.7 }}>
-            Upload a PDF or paste text — Gemini AI will analyze topics, predict exam questions, and generate a study heatmap.
+            Upload a PDF or image, or paste text — Claude AI will analyze topics, predict exam questions, and generate a study heatmap.
           </p>
         </motion.div>
 

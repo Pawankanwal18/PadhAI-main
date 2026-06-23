@@ -6,7 +6,7 @@ import multer from 'multer';
 import { createRequire } from 'module';
 const require = createRequire(import.meta.url);
 const pdfParse = require('pdf-parse'); // v1.1.1 — exports a plain function
-import { GoogleGenerativeAI } from '@google/generative-ai';
+import Anthropic from '@anthropic-ai/sdk';
 import { readFileSync } from 'fs';
 import db from './db.js';
 
@@ -25,9 +25,11 @@ const JWT_SECRET = 'padhai_bias_secret_2024_do_not_share';
 const IMPORTANT_TOPICS_URL = new URL('../../data/important_topics_3rd_year.csv', import.meta.url);
 const TRAINING_DATASET_URL = new URL('../../data/training-dataset.csv', import.meta.url);
 
-// ── Gemini AI setup — tries models in order until one works ──────────────────
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const MODELS = ['gemini-2.0-flash-lite', 'gemini-1.5-flash', 'gemini-1.5-pro', 'gemini-2.0-flash'];
+// ── Anthropic AI setup ────────────────────────────────────────────────────────
+const client = new Anthropic({
+  apiKey: process.env.ANTHROPIC_API_KEY,
+});
+const MODEL = 'claude-3-5-sonnet-20241022'; // Latest Claude model
 
 const sleep = (ms) => new Promise(r => setTimeout(r, ms));
 const withTimeout = (promise, ms, message) => Promise.race([
@@ -36,34 +38,35 @@ const withTimeout = (promise, ms, message) => Promise.race([
 ]);
 
 async function generateWithFallback(prompt) {
-  let lastError;
-  for (const modelName of MODELS) {
-    try {
-      console.log(`  Trying model: ${modelName}`);
-      const model = genAI.getGenerativeModel({ model: modelName });
-      const result = await model.generateContent(prompt);
-      console.log(`  ✅ Success with: ${modelName}`);
-      return result.response.text();
-    } catch (err) {
-      lastError = err;
-      const is429 = err.message?.includes('429') || err.message?.includes('Too Many Requests') || err.message?.includes('quota');
-      const is404 = err.message?.includes('404') || err.message?.includes('not found');
-      if (is429 || is404) {
-        console.warn(`  ⚠️  ${modelName}: ${is429 ? 'quota exceeded' : 'not found'}, trying next...`);
-        if (is429) await sleep(2000); // brief pause before next model
-        continue;
-      }
-      throw err; // unknown error — rethrow immediately
+  try {
+    console.log(`  Sending to Anthropic Claude (${MODEL})...`);
+    const message = await client.messages.create({
+      model: MODEL,
+      max_tokens: 2048,
+      messages: [
+        {
+          role: 'user',
+          content: prompt,
+        },
+      ],
+    });
+    
+    const responseText = message.content[0].type === 'text' ? message.content[0].text : '';
+    console.log(`  ✅ Success with: ${MODEL}`);
+    return responseText;
+  } catch (err) {
+    console.error(`  ❌ Anthropic error:`, err.message);
+    
+    if (err.status === 429) {
+      throw new Error('Anthropic API rate-limited. Please wait a moment and try again.');
     }
+    
+    if (err.status === 401) {
+      throw new Error('Invalid Anthropic API key. Please check your ANTHROPIC_API_KEY in .env');
+    }
+    
+    throw new Error(`AI Service unavailable: ${err.message}`);
   }
-  // Extract retry seconds from error if available
-  const retryMatch = lastError?.message?.match(/retry in (\d+)/);
-  const waitSecs = retryMatch ? parseInt(retryMatch[1]) : null;
-  throw new Error(
-    waitSecs
-      ? `All AI models are currently rate-limited. Please wait ${waitSecs} seconds and try again.`
-      : 'All AI models are currently unavailable or quota exceeded. Please try again in a few minutes.'
-  );
 }
 
 function parseCsvLine(line) {
@@ -525,8 +528,31 @@ app.use(cors({
 }));
 app.use(express.json());
 
-// ── Multer (memory storage for PDF uploads) ────────────────────────────────────
-const upload = multer({ storage: multer.memoryStorage(), limits: { fileSize: 25 * 1024 * 1024 } });
+// ── Multer (memory storage for PDF and image uploads) ──────────────────────────
+const fileFilter = (req, file, cb) => {
+  const allowedMimes = [
+    'application/pdf',
+    'image/jpeg',
+    'image/png',
+    'image/jpg',
+    'image/webp',
+  ];
+  
+  if (allowedMimes.includes(file.mimetype)) {
+    cb(null, true);
+  } else {
+    cb(new Error(`File type not allowed. Accepted: PDF, JPG, PNG, WebP. Received: ${file.mimetype}`), false);
+  }
+};
+
+const upload = multer({
+  storage: multer.memoryStorage(),
+  fileFilter: fileFilter,
+  limits: {
+    fileSize: 25 * 1024 * 1024, // 25MB
+    files: 1,
+  },
+});
 
 // ── JWT verify middleware ──────────────────────────────────────────────────────
 const requireAuth = (req, res, next) => {
@@ -541,7 +567,7 @@ const requireAuth = (req, res, next) => {
   }
 };
 
-// ── GEMINI PROMPT builder ──────────────────────────────────────────────────────
+// ── AI PROMPT builder (Claude) ─────────────────────────────────────────────────
 function buildPrompt(syllabusText) {
   return `You are an expert academic AI assistant for BIAS (BCA/MCA) students in India.
 Analyze the following syllabus and return a detailed, structured JSON response.
@@ -581,7 +607,28 @@ Return ONLY valid JSON (no markdown, no code blocks) in this exact structure:
 }
 
 // ── ANALYZE SYLLABUS endpoint — supports PDF, image (JPG/PNG), or plain text ──
-app.post('/api/analyze-syllabus', upload.single('pdf'), async (req, res) => {
+app.post('/api/analyze-syllabus', (req, res, next) => {
+  upload.single('pdf')(req, res, (err) => {
+    if (err instanceof multer.MulterError) {
+      if (err.code === 'FILE_TOO_LARGE') {
+        return res.status(400).json({ 
+          error: 'File is too large. Maximum size is 25MB. Please upload a smaller file.' 
+        });
+      }
+      if (err.code === 'LIMIT_FILE_COUNT') {
+        return res.status(400).json({ 
+          error: 'Please upload only one file at a time.' 
+        });
+      }
+      return res.status(400).json({ error: `Upload error: ${err.message}` });
+    } else if (err) {
+      return res.status(400).json({ 
+        error: err.message || 'File upload failed. Please check the file format and size.' 
+      });
+    }
+    next();
+  });
+}, async (req, res) => {
   try {
     let syllabusText = '';
     let usedVision   = false;
@@ -589,23 +636,44 @@ app.post('/api/analyze-syllabus', upload.single('pdf'), async (req, res) => {
     // ── STEP 1: Extract text from the uploaded file or body ──────────────────
     if (req.file) {
       const mime = req.file.mimetype || '';
+      console.log(`  File received: ${req.file.originalname} (${mime}, ${req.file.size} bytes)`);
 
-      // Image: use Gemini Vision OCR
+      // Image: use Anthropic Vision OCR
       if (mime.startsWith('image/')) {
         usedVision = true;
-        console.log('  Image detected — sending to Gemini Vision OCR...');
+        console.log('  Image detected — sending to Anthropic Vision OCR...');
         try {
-          const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
-          const imgPart = { inlineData: { data: req.file.buffer.toString('base64'), mimeType: mime } };
-          const visionResult = await withTimeout(
-            model.generateContent([imgPart, 'Extract all text from this syllabus image. Return only the raw extracted text, preserving structure (units, topics, subtopics). Do not summarize.']),
+          const visionMessage = await withTimeout(
+            client.messages.create({
+              model: MODEL,
+              max_tokens: 4096,
+              messages: [
+                {
+                  role: 'user',
+                  content: [
+                    {
+                      type: 'image',
+                      source: {
+                        type: 'base64',
+                        media_type: mime,
+                        data: req.file.buffer.toString('base64'),
+                      },
+                    },
+                    {
+                      type: 'text',
+                      text: 'Extract all text from this syllabus image. Return only the raw extracted text, preserving structure (units, topics, subtopics). Do not summarize.',
+                    },
+                  ],
+                },
+              ],
+            }),
             30000,
             'Image OCR timed out.'
           );
-          syllabusText = visionResult.response.text().trim();
+          syllabusText = visionMessage.content[0].type === 'text' ? visionMessage.content[0].text.trim() : '';
           if (!syllabusText || syllabusText.length < 20)
             return res.status(400).json({ error: 'Could not read text from this image. Ensure the photo is clear and well-lit, or paste the text manually.' });
-          console.log(`  Extracted ${syllabusText.length} chars from image via Gemini Vision`);
+          console.log(`  Extracted ${syllabusText.length} chars from image via Anthropic Vision`);
         } catch (vErr) {
           return res.status(500).json({ error: 'Image reading failed: ' + vErr.message });
         }
@@ -639,60 +707,60 @@ app.post('/api/analyze-syllabus', upload.single('pdf'), async (req, res) => {
       console.log(`  ✅ Trained dataset match: ${trainedMatch.exactQuestions.length} questions found`);
       return res.json({
         success: true,
-        geminiUsed: false,
+        anthropicUsed: false,
         usedVision,
         trainedModelUsed: true,
         analysis: trainedMatch,
       });
     }
 
-    console.log('  ⚠️  No trained dataset match — trying Gemini AI fallback...');
+    console.log('  ⚠️  No trained dataset match — trying Anthropic AI fallback...');
 
-    // ── STEP 3: FALLBACK — Try Gemini AI ──────────────────────────────────────
+    // ── STEP 3: FALLBACK — Try Anthropic Claude ──────────────────────────────
     let analysis;
-    let geminiUsed = false;
+    let anthropicUsed = false;
 
-    if (process.env.GEMINI_API_KEY) {
+    if (process.env.ANTHROPIC_API_KEY) {
       try {
-        console.log(`  [Step 3] Sending to Gemini AI...`);
+        console.log(`  [Step 3] Sending to Anthropic Claude...`);
         const rawResponse = await withTimeout(
           generateWithFallback(buildPrompt(syllabusText)),
           60000,
-          'Gemini AI took too long.'
+          'Anthropic Claude took too long.'
         );
         const cleaned = rawResponse.replace(/```json\s*/gi, '').replace(/```\s*/g, '').trim();
         let parsed;
         try { parsed = JSON.parse(cleaned); }
         catch { const m = cleaned.match(/{[\s\S]*}/); parsed = m ? JSON.parse(m[0]) : null; }
 
-        if (!parsed) throw new Error('Gemini returned non-JSON response');
+        if (!parsed) throw new Error('Claude returned non-JSON response');
 
         const localQuestions = buildLocalAnalysis(syllabusText);
         analysis = {
           ...parsed,
           exactQuestions: localQuestions.exactQuestions,
-          source: 'gemini-ai',
+          source: 'anthropic-claude',
           inputCharacters: syllabusText.length,
         };
-        geminiUsed = true;
-        console.log('  ✅ Gemini analysis complete');
-      } catch (gErr) {
-        console.warn('  ⚠️  Gemini also failed:', gErr.message);
+        anthropicUsed = true;
+        console.log('  ✅ Claude analysis complete');
+      } catch (aErr) {
+        console.warn('  ⚠️  Claude also failed:', aErr.message);
         // ── STEP 4: FINAL FALLBACK — Not found ──────────────────────────────
         return res.status(200).json({
           success: false,
-          geminiUsed: false,
+          anthropicUsed: false,
           trainedModelUsed: false,
           usedVision,
           notFound: true,
-          error: 'Sorry, no exam questions were found matching this syllabus in our trained BIAS dataset. The Gemini AI fallback also failed. Please try with a more detailed syllabus or paste the topic names directly.',
+          error: 'Sorry, no exam questions were found matching this syllabus in our trained PadhAI dataset. The Anthropic Claude fallback also failed. Please try with a more detailed syllabus or paste the topic names directly.',
         });
       }
     } else {
       // No API key and no trained match → not found
       return res.status(200).json({
         success: false,
-        geminiUsed: false,
+        anthropicUsed: false,
         trainedModelUsed: false,
         usedVision,
         notFound: true,
@@ -700,7 +768,7 @@ app.post('/api/analyze-syllabus', upload.single('pdf'), async (req, res) => {
       });
     }
 
-    return res.json({ success: true, geminiUsed, usedVision, trainedModelUsed: false, analysis });
+    return res.json({ success: true, anthropicUsed, usedVision, trainedModelUsed: false, analysis });
 
   } catch (err) {
     console.error('Analysis error:', err);
@@ -815,10 +883,44 @@ app.put('/api/profile', requireAuth, (req, res) => {
 // ── HEALTH CHECK ──────────────────────────────────────────────────────────────
 app.get('/api/health', (_, res) => res.json({ status: 'ok', time: new Date().toISOString() }));
 
+// ── GLOBAL ERROR HANDLER ──────────────────────────────────────────────────────
+app.use((err, req, res, next) => {
+  console.error('Global error:', err);
+  
+  // Multer errors
+  if (err instanceof multer.MulterError) {
+    if (err.code === 'FILE_TOO_LARGE') {
+      return res.status(400).json({ 
+        error: 'File is too large. Maximum allowed size is 25MB.' 
+      });
+    }
+    if (err.code === 'LIMIT_FILE_COUNT') {
+      return res.status(400).json({ 
+        error: 'Please upload only one file.' 
+      });
+    }
+    return res.status(400).json({ 
+      error: `File upload error: ${err.message}` 
+    });
+  }
+  
+  // Custom file validation errors
+  if (err.message?.includes('File type not allowed')) {
+    return res.status(400).json({ 
+      error: 'Invalid file type. Accepted formats: PDF, JPG, PNG, WebP' 
+    });
+  }
+  
+  // Generic error response
+  res.status(err.status || 500).json({ 
+    error: err.message || 'An error occurred. Please try again.' 
+  });
+});
+
 // ── START ─────────────────────────────────────────────────────────────────────
 app.listen(PORT, () => {
   console.log(`\n✅ PadhAI Backend running on http://localhost:${PORT}`);
-  console.log(`   🤖 Gemini AI: ${process.env.GEMINI_API_KEY ? 'Connected' : '⚠️ API Key Missing'}`);
+  console.log(`   🤖 Anthropic Claude: ${process.env.ANTHROPIC_API_KEY ? 'Connected' : '⚠️ API Key Missing'}`);
   console.log(`   Login: by username + password`);
   console.log(`   Email: @gmail.com only\n`);
 });

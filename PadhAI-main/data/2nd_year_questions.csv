@@ -1,0 +1,678 @@
+year,sample_question_id,normalized_question,question_text,topic,source_file,occurrence_count,first_line
+2nd Year,b4084b27c67c,attempt any two questions,Attempt any two questions. (10 *2=20),TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,3,8858
+2nd Year,013b35f9323a,a explain adt and concrete data structure with examples,a) Explain ADT and Concrete data structure with examples?,DATA STRUCTURE,2nd-year.pdf,2,7626
+2nd Year,694cf33d6e02,a what do you mean by min heap,a) What do you mean by min heap?,DATA STRUCTURE,2nd-year.pdf,2,7650
+2nd Year,fe5d97c050b0,a what do you mean by stack,a) What do you mean by stack?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,2,8110
+2nd Year,1039208e7a85,a what is hashing,a) What is Hashing?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,2,8081
+2nd Year,32e393a6b951,and how are they divided into functions,and how are they divided into functions?,(OSSO 0,2nd-year.pdf,2,3296
+2nd Year,951018921544,and words fields of the address format,and words fields of the address format?,(OSSO 0,2nd-year.pdf,2,3288
+2nd Year,ff14e1c3a6cc,attempt any four questions,Attempt any four questions. (5×4=20),TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,2,8823
+2nd Year,618e82323171,attempt any two parts of the following,Attempt any TWO parts of the following,10X2,2nd-year.pdf,2,8758
+2nd Year,afc9e363696b,b what is b tree,b) What is B-Tree?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,2,8111
+2nd Year,5c4638b5fa7c,bubble sort,Bubble Sort?,DATA STRUCTURE,2nd-year.pdf,2,7632
+2nd Year,703a80dd7bf0,c explain heap sort with example,c) Explain Heap sort with example?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,2,8066
+2nd Year,3660b6fffc10,c how to represent the polynomial using linked list,c) How to represent the polynomial using linked list?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,2,8115
+2nd Year,bfa009ceba4b,c list the various asymptotic notations,c) List the various asymptotic notations?,DATA STRUCTURE,2nd-year.pdf,2,7551
+2nd Year,28eef2bb3cee,c what is circular queue,c) What is circular Queue?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,2,8101
+2nd Year,ea4e6c11f331,circular queue,circular queue?,DATA STRUCTURE,2nd-year.pdf,2,7591
+2nd Year,ea4e6c11f331,circular queue,circular queue?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,2,8102
+2nd Year,55d4dd5f06ad,create a min heap for the following,Create a min heap for the following,DATA STRUCTURE,2nd-year.pdf,2,7650
+2nd Year,ea484037d25f,describe briefly,Describe briefly,(1) TCS/TIT-401/2800/8,2nd-year.pdf,2,3096
+2nd Year,f057205ec555,describe its significance,Describe its significance,(OSSO 0,2nd-year.pdf,2,3253
+2nd Year,72f16ec1c459,discuss bus transfer,Discuss Bus transfer.,TCS /TIT- 401,2nd-year.pdf,2,3066
+2nd Year,f4f9c49ff24a,discuss ieee standard for floating point number xoca lewan juo ni belli ed of of lo,Discuss IEEE standard for floating point number. Xoca lewan juo ni belli ed of of lo,(1) TCS/TIT-401/2800/8,2nd-year.pdf,2,3089
+2nd Year,ddd1dd6f637e,discuss its operating principle,Discuss its operating principle.,(OSSO 0,2nd-year.pdf,2,3251
+2nd Year,bed6140ec0cb,e what is circular queue,e) What is circular Queue?,DATA STRUCTURE,2nd-year.pdf,2,7590
+2nd Year,47e4134fb742,evilsle,evilsle?: (i),(OSSO 0,2nd-year.pdf,2,3294
+2nd Year,c3499c272973,example,example?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,2,8111
+2nd Year,f7c1380a0d71,explain,Explain.,Q4.,2nd-year.pdf,2,5311
+2nd Year,f7c1380a0d71,explain,Explain.,ST021_005 | 103.170.7,2nd-year.pdf,2,1724
+2nd Year,ae29afd5151b,explain all stack operations with,Explain all stack operations with,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,2,8110
+2nd Year,bb37aef61d1e,explain big oh notations along,Explain Big Oh notations along,DATA STRUCTURE,2nd-year.pdf,2,7551
+2nd Year,930e012f81a4,explain division method to compute the hash,Explain division method to compute the hash,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,2,8081
+2nd Year,b56e4087d112,explain how,Explain how,DATA STRUCTURE,2nd-year.pdf,2,7632
+2nd Year,3891f9da0be2,explain logical shift,"Explain logical shift,",TCS /TIT- 401,2nd-year.pdf,2,3044
+2nd Year,c6c405ecbc66,explain matrix and linked list representation,Explain matrix and linked list representation,DATA STRUCTURE,2nd-year.pdf,2,7612
+2nd Year,1767b3ef6bd4,explain the need of memory hierarchy with the help of a block diagram,(a) Explain the need of memory hierarchy with the help of a block diagram?,(OSSO 0,2nd-year.pdf,2,3265
+2nd Year,26db8b130c4d,explain the role played by it,Explain the role played by it.,(1) TCS/TIT-401/2800/8,2nd-year.pdf,2,3106
+2nd Year,236057092819,explain with suitable example,Explain with suitable example.,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,2,2357
+2nd Year,4e1ac18c9e64,f what is queue,f) What is queue?,DATA STRUCTURE,2nd-year.pdf,2,7591
+2nd Year,ed95797c4049,f what is stack,f) What is stack?,DATA STRUCTURE,2nd-year.pdf,2,7562
+2nd Year,0cdfb8d6e92e,helasms a noe what do you mean by control unit,helasms2 A) (veolonyos ngisimmoin!) noe! @ (a) What do you mean by Control unit?,(1) TCS/TIT-401/2800/8,2nd-year.pdf,2,3095
+2nd Year,0b064373fb4d,how,How,-X-,2nd-year.pdf,2,3363
+2nd Year,41aef8539250,how it is different from selection sort,How it is different from Selection Sort?,DATA STRUCTURE,2nd-year.pdf,2,7632
+2nd Year,150cb0225349,how many bits are there in the tag index block,"How many bits are there in the tag, index, block,",(OSSO 0,2nd-year.pdf,2,3286
+2nd Year,45df6d02ccad,information at one place,information at one place?,(OSSO 0,2nd-year.pdf,2,3268
+2nd Year,f820e82d7753,lgexebni es diwxobal,1912lgexebni es diwxobal (vi),(OSSO 0,2nd-year.pdf,2,3296
+2nd Year,2953108b9c5d,of successive iterations,of successive iterations?,(OSSO 0,2nd-year.pdf,2,3329
+2nd Year,fe05bcdcdc49,one,one?,-X-,2nd-year.pdf,2,3381
+2nd Year,81f72a0dd81e,s non titi t,008S1 NON-TITI 29T,81.008S1 NON-TITI 29T,2nd-year.pdf,2,3144
+2nd Year,92504616ed59,sequence,Sequence?,(1) TCS/TIT-401/2800/8,2nd-year.pdf,2,3106
+2nd Year,2fbbc6ce1634,sibbe,sibbe,(OSSO 0,2nd-year.pdf,2,3268
+2nd Year,0d5fffe42bcf,steps b what is graph,steps. b) (i) What is Graph?,DATA STRUCTURE,2nd-year.pdf,2,7612
+2nd Year,534e8c894772,t o,T.O.,P.T.O.,2nd-year.pdf,2,4791
+2nd Year,c95ee47689a0,tech,Tech. (Information Technology) (4TH Semester),TCS /TIT- 401,2nd-year.pdf,2,3005
+2nd Year,ff934450b61c,the address field has,The address field has,81.008S1 NON-TITI 29T,2nd-year.pdf,2,3205
+2nd Year,e374107a51a3,viomem ni blows gnino,viomem ni blows gnino?,TCS /TIT- 401,2nd-year.pdf,2,3072
+2nd Year,240f1cf32996,what do you mean by inter register transfer,(c) What do you mean by inter-register transfer?,TCS /TIT- 401,2nd-year.pdf,2,3064
+2nd Year,333a556c0917,what do you mean by threaded binary tree,What do you mean by Threaded Binary Tree?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,2,8064
+2nd Year,918c71279c0a,what is an interrupt,(ii) What is an interrupt?,(OSSO 0,2nd-year.pdf,2,3253
+2nd Year,4270e807060a,what is dma scheme of data transfer,What is DMA scheme of data transfer?,(OSSO 0,2nd-year.pdf,2,3249
+2nd Year,e7f1bedb8f8f,what is shift micro operation,(a) What is shift micro operation?,TCS /TIT- 401,2nd-year.pdf,2,3044
+2nd Year,e0f9eb6d17ac,what is the,What is the,(OSSO 0,2nd-year.pdf,2,3265
+2nd Year,4e57a2c724b0,why it is known as fifo,Why it is known as FIFO?,DATA STRUCTURE,2nd-year.pdf,2,7591
+2nd Year,e7e580b2b345,why it is known as lifo,Why it is known as LIFO?,DATA STRUCTURE,2nd-year.pdf,2,7562
+2nd Year,deae0e93e6ec,write a c code to insert an element in,Write a C code to insert an element in,DATA STRUCTURE,2nd-year.pdf,2,7590
+2nd Year,deae0e93e6ec,write a c code to insert an element in,Write a C code to insert an element in,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,2,8101
+2nd Year,e2d28adbf884,write a c program,Write a C program,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,2,8115
+2nd Year,ac288a286cd8,write algorithm of push and,Write algorithm of PUSH and,DATA STRUCTURE,2nd-year.pdf,2,7562
+2nd Year,6ce5f8b9db75,write an,Write an,DATA STRUCTURE,2nd-year.pdf,2,7591
+2nd Year,8755a5ad96b2,write the various properties of b tree,Write the various properties of B- Tree.,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,2,8111
+2nd Year,86f7e437faa5,a,A,172-A,2nd-year.pdf,1,3796
+2nd Year,86f7e437faa5,a,a),UNIT V,2nd-year.pdf,1,6088
+2nd Year,fd7086d6e394,a aa,>a | Aa,☐ Q0,2nd-year.pdf,1,4787
+2nd Year,224fae39d8d5,a bi ows,801 (ii) {a'bi≥ 1ows,DS-1071],2nd-year.pdf,1,5611
+2nd Year,2083215ecf8f,a d converter poson are what are its main advantages and disadvantages,A/D converter. Poson are 2109007 What are its main advantages and disadvantages?,G3949,2nd-year.pdf,1,2952
+2nd Year,d40c3bc4ad93,a discuss the major security challenges faced by wireless technology,a) Discuss the major security challenges faced by wireless technology?,CST006_005 | 103.170.70.207,2nd-year.pdf,1,7468
+2nd Year,81b05b3b5fc2,a what are the major costs of cybercrime for organizations,a) What are the major costs of cybercrime for organizations?,CST0,2nd-year.pdf,1,7375
+2nd Year,4819f7d6ceaa,a what do you understand by quality of service,a) (i) What do you understand by Quality of Service?,CST021_005 |,2nd-year.pdf,1,1762
+2nd Year,a3549a292160,a what is a flip flop,a) What is a flip-flop?,= AC + B��,2nd-year.pdf,1,9280
+2nd Year,0b976267b93c,a what is addressing mode,a) What is addressing mode?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2385
+2nd Year,bb127a73f422,a what is cache coherence,a). What is cache coherence?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2404
+2nd Year,715becfbe5d4,a what is cyber forensics,a) What is cyber forensics?,CST0,2nd-year.pdf,1,7361
+2nd Year,715becfbe5d4,a what is cyber forensics,a) What is cyber forensics?,CYBER SECURITY,2nd-year.pdf,1,7267
+2nd Year,b5c4bc0d0e07,a what is rom,a) What is ROM?,= AC + B��,2nd-year.pdf,1,9308
+2nd Year,2d6bb6bbf155,a what is rtl,a) What is RTL?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2347
+2nd Year,b7b8756af251,a what is the difference between snooping and spoofing,a) What is the difference between snooping and spoofing?,CST006_005 | 103.170.70.207,2nd-year.pdf,1,7448
+2nd Year,db1224ce4f29,a what is the importance of cyber security regulations and laws,a) What is the importance of cyber security regulations and laws?,CYBER SECURITY,2nd-year.pdf,1,7302
+2nd Year,fa975396fda2,a what is transaction,a) What is Transaction?,TCS-404/1880/4,2nd-year.pdf,1,3984
+2nd Year,e0c9035898dd,aa,>Aa,☐ Q0,2nd-year.pdf,1,4777
+2nd Year,2388c6e3df7e,aaa b c,>aaA|B|C,☐ Q0,2nd-year.pdf,1,4772
+2nd Year,314b63d63cc1,ab aab,> AB | aaB,☐ Q0,2nd-year.pdf,1,4785
+2nd Year,1ada123cb030,account which ones are exported,account. Which ones are exported?,"(SEM. IV) EXAMINATION, 2012 UNIX & SHELL PROGRAMMING",2nd-year.pdf,1,7108
+2nd Year,78a696b3192a,admin what do you understand by the term dbms explain with a suitable diagram,admin (A) What do you understand by the term DBMS explain with a suitable diagram?,5X4,2nd-year.pdf,1,8704
+2nd Year,3bac21d8be5e,advantages disadvantages,advantages & disadvantages?,Q4.,2nd-year.pdf,1,4952
+2nd Year,9a53b0819e7b,algorithm,algorithm?,COMPUTER ORGANIZATION,2nd-year.pdf,1,1836
+2nd Year,f12522613125,algorithm what are firewalls,algorithm.  (ii) What are firewalls?,CST021_005 |,2nd-year.pdf,1,1777
+2nd Year,798a181871b3,also beer explain the concept,"Also, 3200 beer explain the concept",DS-1068],2nd-year.pdf,1,6692
+2nd Year,44e499f73919,also describe collision resolution techniques with,Also describe collision resolution techniques with,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8442
+2nd Year,e57ac059c3ad,also discuss the von neumann bottleneck,"Also, discuss the Von Neumann bottleneck.",SECTION A,2nd-year.pdf,1,2038
+2nd Year,2bd91698f7c8,amendments,amendments?,CST0,2nd-year.pdf,1,7409
+2nd Year,098f0f62d0fe,an array,an array?,UNIT - IV,2nd-year.pdf,1,6824
+2nd Year,e5c7f5ce1247,and diagram c what is stack organization,and diagram. c) What is stack organization?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2350
+2nd Year,2021ca417e68,and find the moments about the mean and measure the kurtosis,36 and 10.88.Find  the moments about the mean and measure the kurtosis.,MATHEMATICS III/IV,2nd-year.pdf,1,720
+2nd Year,ad2384feebd7,and st,and st,G3949,2nd-year.pdf,1,2919
+2nd Year,1b992db01de0,answer any two parts of the following,170.70.207 | 18/06/2025 12Answer any two parts of the following. (10x2= 20),ST021_005 | 103.170.7,2nd-year.pdf,1,1733
+2nd Year,1b992db01de0,answer any two parts of the following,170.70.207 | 18/06/202Answer any two parts of the following. (10x2= 20),CST021_005 |,2nd-year.pdf,1,1760
+2nd Year,1b992db01de0,answer any two parts of the following,170.70.207 | 2Answer any two parts of the following.,CST0,2nd-year.pdf,1,7366
+2nd Year,92545cf62ceb,answer any two parts of the following a what is a flip flop,Answer any two parts of the following. (10x2= 20) a) (i) What is a flip-flop?,DIGITAL ELECTRONICS,2nd-year.pdf,1,9510
+2nd Year,b7d392a5fd39,arbitration process used for dma,arbitration process used for DMA?,COMPUTER ORGANIZATION,2nd-year.pdf,1,1825
+2nd Year,ed74347a0912,array for representation of binary tree,array for representation of binary tree?,UNIT - V,2nd-year.pdf,1,6917
+2nd Year,2a485a2f5abb,asbb aab,>aSbb | aab.,Q4.,2nd-year.pdf,1,4844
+2nd Year,a2cbdf8c0511,asic design,ASIC design?,TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8986
+2nd Year,055456c884f1,asynchronous data transfer,asynchronous data transfer.?,[P.T.O.],2nd-year.pdf,1,1883
+2nd Year,bba2a95df024,asynchronous i o techniques,& asynchronous I/O techniques?,BEET-404/BITT-404,2nd-year.pdf,1,4906
+2nd Year,9791cee1c552,at x y z,001 at x = y=z=1.,STATISTICAL TECHNIQUES,2nd-year.pdf,1,770
+2nd Year,eff23463dd3b,attempt any four parts of the following,Attempt any FOUR parts of the following,5X4,2nd-year.pdf,1,8716
+2nd Year,eff23463dd3b,attempt any four parts of the following,Attempt any FOUR parts of the following.,NOTE:,2nd-year.pdf,1,8698
+2nd Year,7c41fdc5869d,attempt any four questions trigiera no pinqui eo a to laskontoy ent,6 89 Attempt any four questions: trigiera & no pinqui eo a to laskontoy enT,COMPUTER BASED NUMERICAL STATISTICAL,2nd-year.pdf,1,1386
+2nd Year,618e82323171,attempt any two parts of the following,Attempt any TWO parts of the following,5X4,2nd-year.pdf,1,8738
+2nd Year,0bbfa2d128d8,average access time of the notourani system considering only memory read cycles,average access time of the notourani system considering only memory read cycles?,DS-1067],2nd-year.pdf,1,6376
+2nd Year,e9d71f5ee7c9,b,> b,☐ Q0,2nd-year.pdf,1,4789
+2nd Year,5049ac89bd7c,b draw all possible binary tree with nodes c what is searching,b) Draw all possible binary Tree with 3 nodes ( 10 marks) c) What is searching?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8277
+2nd Year,f385915efdc3,b evaluate the indian national cyber security policy,b) Evaluate the Indian National Cyber Security Policy.,CST0,2nd-year.pdf,1,7409
+2nd Year,254436e982eb,b explain hashing,b) Explain hashing?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8442
+2nd Year,27a207217110,b how can you trace the mindset of hackers cyber criminals,b) How can you trace the mindset of hackers & cyber criminals?,CST006_005 | 103.170.70.207,2nd-year.pdf,1,7479
+2nd Year,e4d607747b72,b in quick sort how pivot is chosen,b) In quick sort how pivot is chosen?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8304
+2nd Year,d14fb9b9892e,b what are cyber threats,b) What are Cyber threats?,CYBER SECURITY,2nd-year.pdf,1,7258
+2nd Year,cf63be6a4460,b what are different routing algorithms,b) What are different routing algorithms?,CST021_005 |,2nd-year.pdf,1,1756
+2nd Year,db5ba3f228d8,b what are the special techniques for forensics auditing,b) What are the special techniques for forensics auditing?,CST006_005 | 103.170.70.207,2nd-year.pdf,1,7460
+2nd Year,27e17cb91b3d,b what is a view,b) What is a view?,TCS-404/1880/4,2nd-year.pdf,1,3990
+2nd Year,b0dfb53aede8,b what is auxiliary memory,b) What is auxiliary memory?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2365
+2nd Year,d7a92d28825c,b what is direct memory access,b) What is Direct Memory Access?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2379
+2nd Year,36c8220d6647,b what is graph,b) What is graph?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8290
+2nd Year,c835c75d0dc0,b what is hardwired control,b) What is hardwired control?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2406
+2nd Year,4a29b73ef128,b what is osi model,b) What is OSI model?,ST021_005 | 103.170.7,2nd-year.pdf,1,1728
+2nd Year,a368213e62de,b why are nand and nor gates called universal gates,b) Why are NAND and NOR gates called universal gates?,DIGITAL ELECTRONICS,2nd-year.pdf,1,9488
+2nd Year,4e6af97aa467,begheep of of separate chaining what do you mean by open addressing v,begheep of of separate chaining. What do you mean by open addressing?v,RU1474 [10×2=20],2nd-year.pdf,1,7997
+2nd Year,c59f19460a28,better than binary tree,better than binary tree?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8312
+2nd Year,4530a5d898f4,between integration testing and system testing,between integration testing and system testing?,P.T.O.,2nd-year.pdf,1,5197
+2nd Year,80e8e69fb2d8,bom benstab en terw example,bom benstab en terw example?,II. DML,2nd-year.pdf,1,3959
+2nd Year,cd1394b67d39,briefly describe the techniques that prevent congestion,Briefly describe the techniques that prevent congestion.,CST021_005 |,2nd-year.pdf,1,1769
+2nd Year,52af09baad66,briefly explain any one interrupt priority scheme,Briefly explain any one interrupt priority scheme.,MEESHONT [P.T.O.],2nd-year.pdf,1,2078
+2nd Year,f1ea198c74fc,briefly explain them,Briefly explain them.,Q4.,2nd-year.pdf,1,5309
+2nd Year,4334effa4acf,by taking a suitable,By taking a suitable,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2530
+2nd Year,05b8ebd0adb4,by the term logic family,by the term logic family?,DIGITAL ELECTRONICS,2nd-year.pdf,1,9524
+2nd Year,48521bfc8e4c,c define hashing how do collisions happen during hashing,c) Define Hashing. How do collisions happen during hashing?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8293
+2nd Year,cda1671e6d83,c show the result of inserting the keys,c) Show the result of inserting the keys.,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8334
+2nd Year,edc06f6931d3,c w when is a transaction said to be deadlocked,c) w When is a transaction said to be deadlocked?,TCS-404/1880/4,2nd-year.pdf,1,3996
+2nd Year,2f8f409a735c,c what are the features of emitter coupled logic logic family,c) What are the features of Emitter Coupled Logic (ECL) logic family?,DIGITAL ELECTRONICS,2nd-year.pdf,1,9533
+2nd Year,0a8199f2f8b9,c what are the motives behind attackers conducting cyberattacks,c) What are the motives behind attackers conducting cyberattacks?,CYBER SECURITY,2nd-year.pdf,1,7260
+2nd Year,50246967a21f,c what do you mean by confidentiality and explain its threats,c) What do you mean by confidentiality and explain its threats?,CST006_005 | 103.170.70.207,2nd-year.pdf,1,7452
+2nd Year,04f3699f087f,c what is congestion,c) What is congestion?,CST021_005 |,2nd-year.pdf,1,1769
+2nd Year,116f098bddbf,c what is magnitude comparator,c) What is magnitude comparator?,DIGITAL ELECTRONICS,2nd-year.pdf,1,9504
+2nd Year,4a31d6297de1,c what is multiplexer,c) What is multiplexer?,= AC + B��,2nd-year.pdf,1,9270
+2nd Year,8d1de7d8f759,c what is multiprocessor,c) What is multiprocessor?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2367
+2nd Year,04a3b6ca28eb,c what is the it act of,c) What is the IT Act of 2008?,CST006_005 | 103.170.70.207,2nd-year.pdf,1,7498
+2nd Year,598aaf6ecd21,c what is transistor transistor togic,c) What is Transistor Transistor Togic (TTL)?,= AC + B��,2nd-year.pdf,1,9313
+2nd Year,0e1696a21112,c why a number of addressing mode is needed,c) Why a number of addressing mode is needed?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2530
+2nd Year,280b7dbcfb14,can it be eliminated completely,Can it be eliminated completely?,UNIT - IV,2nd-year.pdf,1,6855
+2nd Year,20bae82a5bd3,candidate key and super key with example,candidate key and super key with example?,172-A,2nd-year.pdf,1,3839
+2nd Year,6b6efb9b042c,ccd,>cCD,☐ Q0,2nd-year.pdf,1,4779
+2nd Year,b82b40b84a2f,chart,Chart?,Q 1.,2nd-year.pdf,1,5117
+2nd Year,89e10773c335,cmm,CMM?,P.T.O.,2nd-year.pdf,1,5214
+2nd Year,fc2b303f25ec,combinational circuits,Combinational Circuits?,= AC + B��,2nd-year.pdf,1,9304
+2nd Year,21dc770cdd42,compare the architecture of risc cisc,Compare the architecture of RISC & CISC?,BEET-404/BITT-404,2nd-year.pdf,1,4925
+2nd Year,508d86113726,concurrent execution,concurrent execution?,"G = A CD, E→ AH",2nd-year.pdf,1,6714
+2nd Year,e6768f3e7e1d,consider the following set f of,Consider the following set F of,Q4.,2nd-year.pdf,1,8575
+2nd Year,52ea4485eaa6,consider the sti asmo following,Consider the sti asmo following,DS-1068],2nd-year.pdf,1,6684
+2nd Year,ffe3c976ce46,construct a bit alu with proper diagram,Construct a 32 bit ALU with proper diagram?,Q4.,2nd-year.pdf,1,4948
+2nd Year,203f73ca1d76,construct the truth table for a p r,"Construct, the truth table for [(p->q)A(q->r)]-> [p->r]",TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8852
+2nd Year,498ec00521b5,control what benefit does rigorous two phase locking provide,control. What benefit does rigorous two- phase locking provide?,DS-1067],2nd-year.pdf,1,6434
+2nd Year,db54476654fa,corus mis what do you mean by canonical cover,Corus (c) mis What do you mean by canonical cover?,DS-1068],2nd-year.pdf,1,6684
+2nd Year,1cb861815546,cpu when both request a memory transfer,CPU when 915 both request a memory transfer?,510 M,2nd-year.pdf,1,6358
+2nd Year,8a80212c90d5,crucial in investigations,crucial in  investigations?,CYBER SECURITY,2nd-year.pdf,1,7270
+2nd Year,6fb4f40cc688,d what is memory hierarchy,d) What is memory hierarchy?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2353
+2nd Year,8be05dd671c3,d what is program control,d) What is program control?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2369
+2nd Year,6d613a1ee01e,database,database?,Q1.,2nd-year.pdf,1,8494
+2nd Year,25ed735750c5,dba,DBA?,DBA?,2nd-year.pdf,1,3856
+2nd Year,388ad1c312a4,dd,>dd,☐ Q0,2nd-year.pdf,1,4781
+2nd Year,7da0c9cbe9b3,ddl and dml,DDL and DML?,DS-1068],2nd-year.pdf,1,6591
+2nd Year,19d2a2b528b9,deadlock occur,deadlock occur?,"G = A CD, E→ AH",2nd-year.pdf,1,6723
+2nd Year,a22c6a976d98,define,(c) Define,Q 1.,2nd-year.pdf,1,5117
+2nd Year,6058e459a4a8,define a null value,Define a NULL value?,TCS-404/1880/4,2nd-year.pdf,1,3882
+2nd Year,176771716fd3,define doubly linked list write a program to print out the elements of a singly od nedonu linked list,Define Doubly Linked List. Write a program to print out the elements of a singly Od nedonu linked list.,B.TECH. (SEMESTER-III) HASSO,2nd-year.pdf,1,7876
+2nd Year,61d5de5314ed,define e r diagram draw e r diagram with customer loan and payment sets,"Define E-R Diagram. Draw E-R diagram with Customer, Loan and Payment sets.",Q2.,2nd-year.pdf,1,8510
+2nd Year,3c3ac6c35d48,define each briefly,define each briefly.,Q4.,2nd-year.pdf,1,5321
+2nd Year,40d34d65b5f8,define exception and explain two of its kinds,Define exception and explain two of its kinds.,(VI,2nd-year.pdf,1,2108
+2nd Year,e9ae2274779b,define inf and nf,Define INF and 2NF.,DS-1068],2nd-year.pdf,1,6680
+2nd Year,12b9f41e2d9e,define relational algebra operation cross product,Define Relational Algebra Operation Cross product,Q2.,2nd-year.pdf,1,8520
+2nd Year,aed2e02ef5f0,define simple graph directed graph cyclic and acyclic graphs,"Define simple graph, directed graph,cyclic and acyclic graphs.","III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8290
+2nd Year,cebdfd932c61,define strobe,Define strobe,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2461
+2nd Year,1cbe08eae71f,define synchronization,Define synchronization.,CST007,2nd-year.pdf,1,2278
+2nd Year,2116cbac22c2,define the cache memory along with its significance,Define the cache memory along with its significance.,SECTION B,2nd-year.pdf,1,2056
+2nd Year,3e9a3735c2b2,define the following,Define the following:,(VI,2nd-year.pdf,1,2116
+2nd Year,3e9a3735c2b2,define the following,Define the following:,Q 1.,2nd-year.pdf,1,5121
+2nd Year,62661286b223,define the term interrupt exception fault and trap list the four major processing units in an microprocessor and describe the function of each onsdw viiteul stubosong sonam nesvied sisimeniftia attempt any two parts of the following om draw typical minimum mode configuration and explain function of two signals used in minimum mode describe memory mapped with suitable example sovho state its advantage over mapped,"Define the term interrupt, exception, fault, and trap. List the four major processing units in an 80286 microprocessor and describe the function of each. onsdw Viiteul stubosong Sonam nesvied sisimeniftia Attempt any Two parts of the following om 10×2=20 (a) Draw typical 8086 minimum mode configuration and explain function of two signals used in minimum mode. (b) Describe memory mapped 1/0 with suitable example. sovho State its advantage over 1/0 mapped 1/0.",VOM,2nd-year.pdf,1,2866
+2nd Year,33e11faad602,define various control,Define various control,(7.5X2),2nd-year.pdf,1,1126
+2nd Year,0c53ef831070,degree is how many number of leaf nodes in the binary tree,degree 2  is 10. How many number of leaf nodes in the binary tree?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8420
+2nd Year,e2fedeb36263,dequeue evaluate the value of s q,dequeue();  Evaluate the value of s + q?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8391
+2nd Year,dbc3503fab01,describe,Describe,Q 1.,2nd-year.pdf,1,5174
+2nd Year,ea484037d25f,describe briefly,Describe briefly,DS-1067],2nd-year.pdf,1,6323
+2nd Year,6b00346979bf,describe different level of cmm in detail,Describe different level of CMM in detail.,P.T.O.,2nd-year.pdf,1,5214
+2nd Year,515670181244,describe following characteristics of logic families,Describe following characteristics of logic families-,BLOH 00:50 T,2nd-year.pdf,1,9150
+2nd Year,0513ba3a09ed,describe how unix is more secured than other,Describe how UNIX is more secured than other,"(SEM. IV) EXAMINATION, 2012 UNIX & SHELL PROGRAMMING",2nd-year.pdf,1,7022
+2nd Year,80f5777d6b25,describe library functions and system calls with an example,Describe Library functions and system calls with an example.,(OS =AX2),2nd-year.pdf,1,7164
+2nd Year,cc14a885e9c8,describe of different type of,Describe of Different type of,Q 1.,2nd-year.pdf,1,5168
+2nd Year,f48740cc6208,describe sdram and ddr sd ram operations for data transfer between main,Describe SDRAM and DDR SD RAM operations for data transfer between main,[P.T.O.],2nd-year.pdf,1,1889
+2nd Year,58b5464c6321,describe some applications of finite a nwob deautomater theory in real life s minimize the states in the dfa depicted in the following diagram,2(e) Describe some applications of finite A nwob deautomater theory in real life. s) Minimize the states in the dfa depicted in the following diagram.,БУБЕН ID,2nd-year.pdf,1,5504
+2nd Year,c9bb3fae77d8,describe the different addressing modes in,Describe the different addressing modes in 8086.,MICROPROCESSORS,2nd-year.pdf,1,4123
+2nd Year,6d92c9593256,describe the following tools troff nroff tbi dbx and adb,"Describe the following tools troff, nroff, tbi, Dbx, and Adb",(OS =AX2),2nd-year.pdf,1,7162
+2nd Year,a0d24f14baf0,describe the hs microinstruction format,Describe the 00hs microinstruction format.,DS-1067],2nd-year.pdf,1,6327
+2nd Year,e0495156c9bf,describe the maximum number of unique opcodes possible for every addressing mode,describe the  maximum number of unique opcodes possible for every addressing mode.,CST007,2nd-year.pdf,1,2219
+2nd Year,15ea50e97b7f,describe the storage structure of array also,Describe the storage structure of Array. Also,B.TECH. (SEMESTER-III) HASSO,2nd-year.pdf,1,7902
+2nd Year,356a9fc2327e,describe three major methodologies for sqa in detail what is,Describe three major methodologies for SQA in detail. (b) What is,P.T.O.,2nd-year.pdf,1,5213
+2nd Year,f55aaefc3491,design a fa that accepts strings containing exactly four,Design a FA that accepts strings containing exactly four,BEET-405/BITT-405,2nd-year.pdf,1,4688
+2nd Year,644f8f52e0e5,design and implement j k flip flop,Design and implement J-K flip-flop.,= AC + B��,2nd-year.pdf,1,9280
+2nd Year,f0aeb65fd28b,design arithmetic logic shift unit that will perform different arithmetic logic an shift operation,"5 (b) Design Arithmetic Logic Shift unit that will perform different arithmetic, logic an shift operation..",COMPUTER ORGANIZATION,2nd-year.pdf,1,6253
+2nd Year,2458526a7a19,design gate level implementation of,Design gate level implementation of,DIGITAL ELECTRONICS,2nd-year.pdf,1,9501
+2nd Year,3b4354be4702,design multiplexer,Design 4:1 multiplexer.,= AC + B��,2nd-year.pdf,1,9270
+2nd Year,f955cca5b8ba,design to line decoder with nand gates,Design 2 to 4-line decoder with NAND gates.,COMPUTER ORGANIZATION,2nd-year.pdf,1,1850
+2nd Year,d279a1ff318b,different from csma ca protocol,different from CSMA/CA  protocol?,ST021_005 | 103.170.7,2nd-year.pdf,1,1743
+2nd Year,9f5534a8ca11,different from dhcp,different from DHCP?,CST021_005 |,2nd-year.pdf,1,1751
+2nd Year,4e058cba30e5,differentiate,Differentiate,II. DML,2nd-year.pdf,1,3964
+2nd Year,8d12e30a95ad,differentiate asymptotic notations with their suitable graphs,Differentiate asymptotic notations with their suitable graphs.,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8372
+2nd Year,afb38bfd1d20,differentiate b w sdet test engineer and developer,"Differentiate b/w SDET,Test engineer and developer.",P.T.O.,2nd-year.pdf,1,5192
+2nd Year,558e6d16f808,differentiate between active and passive attacks with examples c design a basic security model for a small enterprise network,Differentiate between active and passive attacks with examples. c) Design a basic security model for a small enterprise network.,"EVEN SEMESTER EXAMINATION, 2024 – 25",2nd-year.pdf,1,7352
+2nd Year,046ef75590cb,differentiate between algebraic and,Differentiate between algebraic and,UNIT - I,2nd-year.pdf,1,5733
+2nd Year,26cd5cddc5a0,differentiate between data type and data structures,Differentiate between data type and data structures.,B.TECH. (SEMESTER-III) HASSO,2nd-year.pdf,1,7868
+2nd Year,2eaf6d6c74c0,differentiate between dfa and nfa using two,Differentiate between DFA and NFA using two,TCS-403,2nd-year.pdf,1,4271
+2nd Year,7222fa635bf7,differentiate between immediate direct and register addressing modes,"Differentiate between Immediate, Direct, and Register Addressing modes.",TCS-405 // 1720,2nd-year.pdf,1,4139
+2nd Year,39fcbf4511b6,differentiate between macro procedure justify where micro is suitable than procedure with example,"Differentiate between macro& procedure, justify where micro is suitable than procedure with example.",G3949,2nd-year.pdf,1,2942
+2nd Year,bece02447890,differentiate between malloc and calloc,Differentiate between malloc() and calloc().,UNIT - I,2nd-year.pdf,1,6789
+2nd Year,bd5ce5712395,differentiate between micro operation and macro operation with an example,Differentiate between Micro operation and Macro Operation with an example.,[P.T.O.],2nd-year.pdf,1,1895
+2nd Year,51e0ac607462,differentiate between moore machine and mealy machine by taking a suitable example design nfa to recognize the following sets of string abc abd and string abc abd and aacd assume the alphabet is a b c d,"Differentiate between Moore machine and Mealy machine by taking a suitable example. Design NFA to recognize the following sets of String: abc, abd, and string: abc, abd, and aacd. Assume the alphabet is {a,b,c,d}",DS-1071],2nd-year.pdf,1,5582
+2nd Year,fbebda904cdd,differentiate between tautology and contradiction,Differentiate between tautology and contradiction.,TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8874
+2nd Year,414c40a5cbd2,differentiate between the working of static and dynamic memory also discuss the difference between sram and dram,Differentiate between the working of static and dynamic memory. Also discuss the difference between SRAM and DRAM.,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2568
+2nd Year,4661abe94cdf,differentiate between write through and write back mechanism,Differentiate between write-through and write-back mechanism.,SECTION B,2nd-year.pdf,1,2058
+2nd Year,7af6b393044f,differentiate micro programmed control and hardwired control,Differentiate Micro programmed control and Hardwired control.,[P.T.O.],2nd-year.pdf,1,1903
+2nd Year,991008354206,differentiate the processors and explain,Differentiate the processors 8087 and 8089. Explain,FSTSW CHECK -ANSWER,2nd-year.pdf,1,2975
+2nd Year,bf0ea9da7276,discuss all mapping,Discuss all mapping,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2380
+2nd Year,95d63dc0874c,discuss any five key differences between subroutine and interrupt service routines,Discuss any five key differences between subroutine and interrupt service routines.,TCS-401/2360,2nd-year.pdf,1,1983
+2nd Year,c86c56d220ea,discuss burst transfer cycle stealing and dma,"Discuss burst transfer, cycle stealing and DMA","EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2524
+2nd Year,72f16ec1c459,discuss bus transfer,Discuss Bus transfer.,COMPUTER ORGANIZATION,2nd-year.pdf,1,6251
+2nd Year,926022782dcc,discuss different types of hazards,Discuss different types of Hazards.,Y=A+B+C,2nd-year.pdf,1,9168
+2nd Year,c3eb4cf5f8db,discuss displacement addressing mode,Discuss displacement addressing mode,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2385
+2nd Year,a9fc6e6f627b,discuss five botsiboad aggregate functions with a suitable example,Discuss five botsiboad aggregate functions with a suitable example.,(OS,2nd-year.pdf,1,6643
+2nd Year,9e4b936b35fe,discuss in detail about ttl and ecl logic families,Discuss in detail about TTL and ECL logic families.,BLOH 00:50 T,2nd-year.pdf,1,9146
+2nd Year,29ef3d5b3c07,discuss its functionality with,Discuss its functionality with,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2379
+2nd Year,1ff339f5f1be,discuss its historical background,Discuss its historical background.,CYBER SECURITY,2nd-year.pdf,1,7267
+2nd Year,64651893ed40,discuss loss less join decomposition and loss join decomposition,Discuss loss less join decomposition and loss join decomposition.,Q4.,2nd-year.pdf,1,8585
+2nd Year,d0e90a08e15c,discuss lossless join and dependency preservation properties of a decomposition,Discuss lossless join and dependency preservation properties of a decomposition.,DS-1068],2nd-year.pdf,1,6700
+2nd Year,ddd632d2fd0e,discuss objectives of using structure flowcharts,Discuss Objectives of Using Structure Flowcharts.,Q 1.,2nd-year.pdf,1,5173
+2nd Year,cf056502e023,discuss stirling s formula along,Discuss Stirling's formula along,COMPU,2nd-year.pdf,1,1668
+2nd Year,aeb7a8790f23,discuss the advantages disadvantages and applications of,"Discuss the advantages, disadvantages, and applications of",[P.T.O.],2nd-year.pdf,1,1926
+2nd Year,11eaaeb2f61b,discuss the candidate key primary key super key composite key and alternate key,"Discuss the candidate key, primary key, super key, composite key and alternate key.",DS-1068],2nd-year.pdf,1,6601
+2nd Year,1eca243a32b5,discuss the concept and implementation of virtual memory also describe a suitable scheme for translation from logical address to physical address,Discuss the concept and implementation of virtual memory. Also describe a suitable scheme for translation from logical address to physical address.,DS-1067],2nd-year.pdf,1,6410
+2nd Year,73076bbeba62,discuss the objectives and,Discuss the objectives and,[P.T.O.],2nd-year.pdf,1,1416
+2nd Year,b0254dee59ed,discuss the relative merits,Discuss the relative merits,UNIT - I,2nd-year.pdf,1,6793
+2nd Year,00e02bbceca9,discuss the selection projection and join operator of,"Discuss the selection, projection and join operator of",(OS,2nd-year.pdf,1,6633
+2nd Year,77d48e2d1023,discuss the wait die and wound wait in detail,Discuss the wait-die and wound-wait in detail.,"G = A CD, E→ AH",2nd-year.pdf,1,6723
+2nd Year,d383501c65e1,discuss their use in sub routines,Discuss their use in sub-routines.,COMPUTER ORGANIZATION,2nd-year.pdf,1,1821
+2nd Year,dfe07596538f,discuss timestamp smena no ordering,Discuss timestamp- smena no ordering,DS-1067],2nd-year.pdf,1,6439
+2nd Year,7bffb4167696,discuss various,Discuss various,Q 1.,2nd-year.pdf,1,5139
+2nd Year,deb5cc83e921,discuss various types of pipeline hazards,(a) Discuss various types of pipeline hazards?,BEET-404/BITT-404,2nd-year.pdf,1,4914
+2nd Year,a838482d9599,discuss your understanding of stack memory,Discuss your understanding of stack memory.,SECTION A,2nd-year.pdf,1,2042
+2nd Year,b0d561beebce,do you mean by balance factor of a node in avl tree,do you mean by balance factor of a node in AVL tree?,RU1474 [10×2=20],2nd-year.pdf,1,7994
+2nd Year,f0e1ab1dd746,down automaton and turing machine,Down Automaton and Turing Machine?,TCS-403,2nd-year.pdf,1,4253
+2nd Year,71578f0c48ca,draw and describe the bus architecture for a digital computer,Draw and describe the bus architecture for a digital computer.,SECTION A,2nd-year.pdf,1,2030
+2nd Year,534a973e40e3,draw logic diagram for d t r r,Draw logic diagram for “D3.T4: R1 R2,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2347
+2nd Year,fbe8f1da1f04,draw the block diagram of a dma controller and explain its functioning,Draw the block diagram of a DMA controller and explain its functioning?,TCS-401/2360,2nd-year.pdf,1,1981
+2nd Year,e29da78a0b82,draw the logic gate implementation of bit,Draw the logic gate implementation of 4-bit,DIGITAL ELECTRONICS,2nd-year.pdf,1,9504
+2nd Year,c8b2026f3c0e,draw the register organization of and explain application of each register,Draw the register organization of 8086 and explain application of each register?,MICROPROCESSORS,2nd-year.pdf,1,4090
+2nd Year,64985e86f1a8,e what do you mean asynchronous data transfer,e) What do you mean asynchronous data transfer?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2461
+2nd Year,92c47601aee5,e what is pipelining,e) What is pipelining?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2355
+2nd Year,534f927e09e8,e what is prefetching in architecture,e) What is prefetching in architecture?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2371
+2nd Year,6851b3982dec,elements,elements?,TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8840
+2nd Year,f7c1380a0d71,explain,Explain,TCS-404/1880/4,2nd-year.pdf,1,3990
+2nd Year,f7c1380a0d71,explain,"Explain,",510 M,2nd-year.pdf,1,6358
+2nd Year,f7c1380a0d71,explain,Explain.,DS-1068],2nd-year.pdf,1,6591
+2nd Year,f7c1380a0d71,explain,Explain.,UNIT - V,2nd-year.pdf,1,6917
+2nd Year,f7c1380a0d71,explain,Explain:600,"(SEM. IV) EXAMINATION, 2012 UNIX & SHELL PROGRAMMING",2nd-year.pdf,1,7125
+2nd Year,2a06291d0b87,explain acid properties with diagram explain concurrency control based on time stamp ordering,Explain ACID Properties with diagram. (c) Explain concurrency control based on time- stamp ordering.,BECT-402/BITT-402,2nd-year.pdf,1,5030
+2nd Year,94d39e7a43b3,explain advantages and disadvantages of,Explain advantages and disadvantages of,172-A,2nd-year.pdf,1,3823
+2nd Year,6f0a7ff66623,explain all types of addressing modes,Explain all types of addressing modes,Q4.,2nd-year.pdf,1,4958
+2nd Year,7bd14e026996,explain and write the c function as well,explain and write the C function as well.,UNIT - IV,2nd-year.pdf,1,6857
+2nd Year,29f72063554c,explain any two in detail,Explain any two in detail.,(OS =AX2),2nd-year.pdf,1,7206
+2nd Year,279ac574ac1f,explain any two undecidable problems,Explain any two undecidable problems.,T→ T*F/F,2nd-year.pdf,1,4639
+2nd Year,b394ca45255f,explain common framework of memory,Explain common framework of memory,Q4.,2nd-year.pdf,1,4963
+2nd Year,f004fafb4e78,explain deferred and immediate,Explain deferred and immediate,DS-1067],2nd-year.pdf,1,6443
+2nd Year,88eb87ee975f,explain different functional units of a digital computer with neat sketch,Explain different functional units of a digital computer with neat sketch?,[P.T.O.],2nd-year.pdf,1,1924
+2nd Year,0d181920610d,explain different methods used for,Explain different methods used for,[P.T.O.],2nd-year.pdf,1,1881
+2nd Year,c8725b78c4b9,explain different types of hash function with example explain radix sort with,Explain Different types of Hash Function with example. Explain Radix Sort with,RU1474 [10×2=20],2nd-year.pdf,1,7977
+2nd Year,d876a406439a,explain different types of mappings from main memory,Explain different types of mappings from main memory,COMPUTER ORGANIZATION,2nd-year.pdf,1,1865
+2nd Year,6406398831fa,explain different types of rom,Explain different types of ROM.,= AC + B��,2nd-year.pdf,1,9308
+2nd Year,683570053ccf,explain different ways to represent,Explain different ways to represent,[P.T.O.],2nd-year.pdf,1,1885
+2nd Year,a646e4a484fa,explain explain the query processing,Explain (e) Explain the Query Processing,BECT-402/BITT-402,2nd-year.pdf,1,5024
+2nd Year,d028e0f3d6f2,explain general register organization stack organization with proper diagram,(a) Explain general register organization & stack organization with proper diagram?,Q4.,2nd-year.pdf,1,4947
+2nd Year,668cd0b2b06a,explain how does it work,Explain how does it work?,Q4.,2nd-year.pdf,1,4948
+2nd Year,2a096650a35e,explain how interrupts are handled in a system,Explain how interrupts are handled in a system?,BEET-404/BITT-404,2nd-year.pdf,1,4936
+2nd Year,d8d7ca3a25d1,explain inorder preorder and postorder traversal operation on binary tree with example construct a tree for the given inorder and postorder traversals inorder,"Explain Inorder, Preorder and Postorder Traversal operation on Binary tree with example. Construct a tree for the given inorder and postorder traversals. Inorder:",RU1474 [10×2=20],2nd-year.pdf,1,7942
+2nd Year,43ebc680152a,explain it s phases,Explain it's phases?,BEET-404/BITT-404,2nd-year.pdf,1,4908
+2nd Year,7719af0adf2f,explain it with proper diagram,Explain it with proper diagram?,BEET-404/BITT-404,2nd-year.pdf,1,4932
+2nd Year,2610069d02e3,explain its importance in cybercrime,Explain its importance in cybercrime,CST0,2nd-year.pdf,1,7361
+2nd Year,0c2f11494293,explain linear linked list implementation of stack and queue,Explain linear linked list implementation of stack and queue.,RU1474 [10×2=20],2nd-year.pdf,1,7989
+2nd Year,214e936a47b4,explain load and store operations,(c) Explain load and store operations?,BEET-404/BITT-404,2nd-year.pdf,1,4906
+2nd Year,d3e58dae2a5c,explain mounting of a file system in unix when is unmounting a file system not possible explain the utility provided by the unix for managing and tracking to files suppose we want to check a c program for syntax and data type errors which unix utility can be used to display messages that point out possible problems explain the procedures to use this utility,"Explain mounting of a file system in UNIX. When is unmounting a file system not possible? (c) Explain the utility provided by the UNIX for managing and tracking to files. Suppose we want to check a C program for syntax and data type errors. Which UNIX utility can be used to display messages that point out, possible problems? Explain the procedures to use this utility.",(OS =AX2),2nd-year.pdf,1,7145
+2nd Year,409877c8ffca,explain multi bus organization,Explain multi bus organization?,BEET-404/BITT-404,2nd-year.pdf,1,4926
+2nd Year,8fcd49c5f3fa,explain necessary conditions for deadlock and methods for,Explain necessary conditions for deadlock and methods for,Q5.,2nd-year.pdf,1,8634
+2nd Year,312cccd4fe15,explain nf with insertion,"Explain 2NF with insertion,",II. DML,2nd-year.pdf,1,3955
+2nd Year,f394819e9dac,explain operation ttl nand,Explain operation TTL NAND,= AC + B��,2nd-year.pdf,1,9313
+2nd Year,c1a359c634fc,explain pigeonhole principle if books are to be kept in shelves show that there,"Explain Pigeonhole principle. If 9 books are to be kept in 4 shelves, show that there",TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8827
+2nd Year,ae89155bbbac,explain pumping lemma for context free language with suitable example,Explain pumping lemma for context free language with suitable example.,T→ T* F/F,2nd-year.pdf,1,4653
+2nd Year,e53b96880b36,explain synchronous,(b) Explain synchronous,BEET-404/BITT-404,2nd-year.pdf,1,4905
+2nd Year,fe50ed333af1,explain the,Explain the,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8293
+2nd Year,8ceb295cacae,explain the advantages and the needs,Explain the advantages and the needs.,Q2.,2nd-year.pdf,1,8530
+2nd Year,590ebc1350b7,explain the architecture of i o processor,Explain the architecture of I/O Processor 8089?,TCS-405 // 1720,2nd-year.pdf,1,4193
+2nd Year,d524901eab7d,explain the architecture of numeric processor,Explain the architecture of Numeric Processor 8087?,TCS-405 // 1720,2nd-year.pdf,1,4189
+2nd Year,9246d2f266fc,explain the bit flag register in,Explain the 16 bit flag register in 8086.,TCS-405 // 1720,2nd-year.pdf,1,4159
+2nd Year,86cc0f79e2a8,explain the concept of mapping constraints,Explain the concept of mapping constraints.,Q1.,2nd-year.pdf,1,8488
+2nd Year,524ae316f3e2,explain the concept of virtual memory,Explain the concept of virtual memory?,BEET-404/BITT-404,2nd-year.pdf,1,4937
+2nd Year,58c59d76cc91,explain the database management system,Explain the database management system,172-A,2nd-year.pdf,1,3847
+2nd Year,f6daadaf9d6c,explain the design flow process suitable for asic,Explain the design flow process suitable for ASIC. (10 marks),TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8986
+2nd Year,f8f6d017c934,explain the difference between a weak and a strong entity set,Explain the difference between a weak and a strong entity set.,Q1.,2nd-year.pdf,1,8504
+2nd Year,8f9f0555ff9f,explain the different,Explain the different,CST021_005 |,2nd-year.pdf,1,1777
+2nd Year,2746478a0020,explain the different type of normalization techniques in,Explain the different type of normalization techniques in,10X2,2nd-year.pdf,1,8742
+2nd Year,b9f70ae36e2a,explain the distinctions among the term primary key,"Explain the distinctions among the term primary key,",172-A,2nd-year.pdf,1,3837
+2nd Year,b2dd648c4d3c,explain the distinctions among the terms primary key candidate key and super,"Explain the distinctions among the terms primary key, candidate key and super",Q1.,2nd-year.pdf,1,8498
+2nd Year,af09d692a8ad,explain the following algorithm of a circular linked list inset the node at the,Explain the following algorithm of a circular linked list. (a) inset the node at the,B.TECH. (SEMESTER-III) HASSO,2nd-year.pdf,1,7898
+2nd Year,6971c55d16c9,explain the general bus operation with block diagram,Explain the General Bus Operation with Block Diagram.,TCS-405 // 1720,2nd-year.pdf,1,4149
+2nd Year,513864d6bce9,explain the general capabilities of shift registers,Explain the general capabilities of shift registers.,COMPUTER ORGANIZATION,2nd-year.pdf,1,1860
+2nd Year,2a025cb92ba9,explain the importance of ascii code,explain the importance of ASCII code?,COMPUTER ORGANIZATION,2nd-year.pdf,1,1830
+2nd Year,0f33fb4df35f,explain the interfacing of a d converter d a converters,Explain the interfacing of A/D Converter & D/A Converters?,TCS-405 // 1720,2nd-year.pdf,1,4185
+2nd Year,eff17235128b,explain the interfacing with internal architecture of pio and interfacing with internal block diagram of,Explain the Interfacing 8086 with internal architecture of 8255 PIO and Interfacing 8086 with internal block diagram of 8279.,TCS-405 // 1720,2nd-year.pdf,1,4170
+2nd Year,b3bc2f638fba,explain the interfacing with internal block diagram of and interfacing with internal architecture of usart,Explain the Interfacing 8086 with internal block diagram of 8253 and Interfacing 8086 with internal architecture of 8251 USART.,TCS-405 // 1720,2nd-year.pdf,1,4173
+2nd Year,32ab611fde9f,explain the maximum mode with read cycle timing diagrams,Explain the Maximum Mode with Read Cycle Timing Diagrams.,MICROPROCESSORS,2nd-year.pdf,1,4114
+2nd Year,83bfb7495f79,explain the memory representation of graph and diagraph,Explain the memory  representation of graph and diagraph,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8291
+2nd Year,187693246cbf,explain the memory segmentation in,Explain the memory segmentation in 8086?,MICROPROCESSORS,2nd-year.pdf,1,4131
+2nd Year,a111b95bd6c4,explain the microprocessor evolution types,Explain the microprocessor evolution & types,MICROPROCESSORS,2nd-year.pdf,1,4094
+2nd Year,31b53e1b381f,explain the multiplication of positive numbers using array multiplier with a neat,Explain the multiplication of positive numbers using array multiplier with a neat,[P.T.O.],2nd-year.pdf,1,1952
+2nd Year,ccc502d2d0b6,explain the parallel i o interface with a block diagram,Explain the parallel I/O interface with a block diagram.,TCS-401_TIT-401/2380,2nd-year.pdf,1,2163
+2nd Year,a6516240c102,explain the primary clustering and secondary index suitable,"Explain the primary, clustering and secondary index suitable",UNIT - V,2nd-year.pdf,1,6896
+2nd Year,c0c70c0e2978,explain the problem of cache coherence and how it can be removed also give a suitable example,Explain the problem of cache coherence and how it can be removed. Also give a suitable example.,CST007,2nd-year.pdf,1,2304
+2nd Year,775b8b4c7b0c,explain the procedure to insert a new node in the beginning end of the list,Explain the procedure to insert a new node in the (a) Beginning (b) End of the list,B.TECH. (SEMESTER-III) HASSO,2nd-year.pdf,1,7885
+2nd Year,360f5fae5252,explain the procedure to multiply two n bit numbers using hardware and booth,Explain the procedure to multiply Two N bit numbers using hardware and booth,COMPUTER ORGANIZATION,2nd-year.pdf,1,1834
+2nd Year,a76c2fb66b5d,explain the properties of the transaction explain the,Explain the properties of the transaction. Explain the,Q4.,2nd-year.pdf,1,8601
+2nd Year,bed2e90ae90c,explain the purpose of include files in unix,Explain the purpose of include files in UNIX.,"(SEM. IV) EXAMINATION, 2012 UNIX & SHELL PROGRAMMING",2nd-year.pdf,1,7037
+2nd Year,bfec20399d9f,explain the read and write operations in associative memory,Explain the READ and WRITE operations in Associative Memory.,TCS-401/2360,2nd-year.pdf,1,1974
+2nd Year,a6c8a25b6080,explain the role of file descriptors file table and incode table in unix file system,"Explain the role of File descriptors, File table and Incode table in Unix File System.","(SEM. IV) EXAMINATION, 2012 UNIX & SHELL PROGRAMMING",2nd-year.pdf,1,7043
+2nd Year,a271c7bc0243,explain the terms instruction type and instruction format,(e) Explain the terms instruction type and instruction format?,BEET-404/BITT-404,2nd-year.pdf,1,4910
+2nd Year,d9f68c502d2b,explain the various types of unix shells and their,Explain the various types of UNIX shells and their,(OS =AX2),2nd-year.pdf,1,7186
+2nd Year,d11947f1d5c3,explain three tier architecture of dbms in details,Explain three tier architecture of DBMS in details.,Q1.,2nd-year.pdf,1,8484
+2nd Year,bfb86361d7ab,explain three types of buses,Explain three types of buses?,BEET-404/BITT-404,2nd-year.pdf,1,4905
+2nd Year,71aa9ae7cd2e,explain timestamp based concurrency control protocol,Explain Timestamp Based Concurrency Control Protocol.,Q5.,2nd-year.pdf,1,8630
+2nd Year,0f330d27ec3e,explain two phase locking and its types,Explain two phase locking and its types.,Q5.,2nd-year.pdf,1,8625
+2nd Year,4b95d0455330,explain types of constraints with a suitable,Explain types of constraints with a suitable,Q2.,2nd-year.pdf,1,8540
+2nd Year,c582370b89c5,explain various deadlock handling techniques,Explain various deadlock handling techniques.,10 X 2,2nd-year.pdf,1,8792
+2nd Year,3cf63ff06a13,explain various quality of,Explain various Quality of,CST021_005 |,2nd-year.pdf,1,1762
+2nd Year,85cc501d4e6e,explain various types of array in detail,Explain Various types of Array in detail.,B.TECH. (SEMESTER-III) HASSO,2nd-year.pdf,1,7904
+2nd Year,3ebfcaabce17,explain what is horizontal vertical micro programmed control unit,(c) Explain what is horizontal & vertical micro programmed control unit?,Q4.,2nd-year.pdf,1,4950
+2nd Year,7dbd54f8d1d8,explain why nf is a normal form more desirable than bcnf,Explain why 4NF is a normal form more desirable than BCNF.,Q4.,2nd-year.pdf,1,8564
+2nd Year,138e9d6d5740,explain with,Explain with,UNIT - I,2nd-year.pdf,1,6783
+2nd Year,2d98d58ee987,explain with a suitable example,Explain with a suitable example.,THEORY OF AUTOMATA,2nd-year.pdf,1,5450
+2nd Year,e6dca4b122a4,explain with an example consider the postorder and,Explain with an 10 example. Consider the postorder and,UNIT - V,2nd-year.pdf,1,6887
+2nd Year,bc64a3493180,explain with an example loo werexplain the task,Explain with an example. loo(c) werExplain the task,"(SEM. IV) EXAMINATION, 2012 UNIX & SHELL PROGRAMMING",2nd-year.pdf,1,7069
+2nd Year,5188eccd3883,explain with example,Explain  with example.,= AC + B��,2nd-year.pdf,1,9304
+2nd Year,5188eccd3883,explain with example,Explain with example.,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2355
+2nd Year,5188eccd3883,explain with example,Explain with example.,UNIT - I,2nd-year.pdf,1,6787
+2nd Year,69ce5a98a203,explain with example how insertion sort is different,Explain with example. How insertion sort is different,UNIT - IV,2nd-year.pdf,1,6855
+2nd Year,31510f168dd3,explain with examples,Explain with  examples.,CYBER SECURITY,2nd-year.pdf,1,7261
+2nd Year,b562a7152966,explain with its importance,Explain with its importance.,Q4.,2nd-year.pdf,1,5069
+2nd Year,6d6fbdb1b6ea,explain with some examples,Explain with some examples?,[P.T.O.],2nd-year.pdf,1,1911
+2nd Year,d3e7764e094a,explain with suitable,Explain with suitable,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2350
+2nd Year,423f373c5585,explain with suitable example and,Explain with suitable example and,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2406
+2nd Year,d10c3e26d28b,explain with suitable example per jedsricis,Explain with suitable example.per (10) jedsricis,PP.P,2nd-year.pdf,1,4523
+2nd Year,1750d7900772,explain with suitable example what are,Explain with suitable example. What are,Q2.,2nd-year.pdf,1,8534
+2nd Year,51f1beb8a9c5,f d,"F(w,x,y,z)=(0,1,2,3,7,8,10) d(w,x,y,z)= [(5,6,11,15)?",COMPUTER ORGANIZATION,2nd-year.pdf,1,1844
+2nd Year,50676f1d9b69,f what is instruction cycle,f) What is instruction cycle?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2357
+2nd Year,4cd369280794,f what is interrupt,f) What is interrupt?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2373
+2nd Year,a76562952f8e,find all the partitions corresponding to a set of four elements draw the diagram of,Find all the partitions corresponding to a set of four elements. Draw the diagram of,TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8894
+2nd Year,f5db43e41507,find any two candidate key of r,Find any two candidate key of R,"CD, ABC -> E, C->A}",2nd-year.pdf,1,3907
+2nd Year,5c51d66a9397,find the name of supplier who supply yellow parts,Find the name of supplier who supply yellow parts.,"CATALOG (SUPPLIER_ID, PART_ID, COST)",2nd-year.pdf,1,3929
+2nd Year,549259768df4,find the total salary of each company,Find the Total salary of each company,TCS-404/1880/4,2nd-year.pdf,1,3894
+2nd Year,c7f74206c496,flip flop,flip-flop?,TEC-302,2nd-year.pdf,1,2653
+2nd Year,b2e3f1741552,for any set a b prove that p p np,"For any Set A & B, Prove that P (ANB) = P(A) NP(B)",TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8825
+2nd Year,91cb2977d70d,from selection sort,from selection sort?,UNIT - IV,2nd-year.pdf,1,6856
+2nd Year,945f389437f7,gate c how does programmable logic devices differ from fpga,gate (10 marks) c) How does Programmable logic devices differ from FPGA?,TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8974
+2nd Year,fa9f22e62229,give,Give,Q4.,2nd-year.pdf,1,8613
+2nd Year,cf9a230f06b0,give example of each,Give example of each?,BEET-404/BITT-404,2nd-year.pdf,1,4928
+2nd Year,92a0f6bd652a,give the complexity of quick sort and merge,Give the complexity of quick sort and merge,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8304
+2nd Year,9603f9814bc8,give the control sequence for the execution of instruction add r,"Give the control sequence for the execution of instruction ADD (R3), R1.",(VI,2nd-year.pdf,1,2112
+2nd Year,4f8cf86d3dac,give the linked list,Give the linked list,UNIT - IV,2nd-year.pdf,1,6846
+2nd Year,947c2782b3e2,give two examples,Give two examples,Q4.,2nd-year.pdf,1,5323
+2nd Year,105f7743b976,give various architectural classification schemes also discuss the flynn s and feng s classification in detail,Give various architectural classification schemes. Also discuss the Flynn's and Feng's classification in detail.,DS-1067],2nd-year.pdf,1,6419
+2nd Year,ff59e8b97955,hierarchy,hierarchy?,Q4.,2nd-year.pdf,1,4965
+2nd Year,076a31522245,homogeneous or heterogeneous,homogeneous or heterogeneous?,UNIT - I,2nd-year.pdf,1,6787
+2nd Year,b75561b11038,how address translation is performed,How address translation is performed?,BEET-404/BITT-404,2nd-year.pdf,1,4937
+2nd Year,420194db121b,how architecture handles it,How architecture handles it?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2373
+2nd Year,532a8e811949,how assemblers macro differ from procedure,How assemblers MACRO differ from procedure?,TCS-405 // 1720,2nd-year.pdf,1,4178
+2nd Year,056a0743eaae,how binary search,How binary search,UNIT - IV,2nd-year.pdf,1,6830
+2nd Year,ac3801f7428d,how can it be created,How can it be created?,TCS-404/1880/4,2nd-year.pdf,1,3990
+2nd Year,ba49cc7b8cc7,how can we ensure harmony in self,(a) How can we ensure harmony in self ('I')?,BHUT-401,2nd-year.pdf,1,5277
+2nd Year,553127234170,how can we ensure right utilization of the body,(c) How can we ensure right utilization of the body?,BHUT-401,2nd-year.pdf,1,5281
+2nd Year,1f647ee8906f,how can we perform insertion and deletion in d eque represented as d eque,"(b) How can we perform insertion and deletion in D-eque, represented as D-eque?",UNIT - IV,2nd-year.pdf,1,6837
+2nd Year,cf2692c5bcc7,how do you retrieve null,How do you retrieve null,TCS-404/1880/4,2nd-year.pdf,1,3882
+2nd Year,dd301f38d884,how does an differentiate between an op code and instruction data,How does an8086 differentiate between an op code and instruction data?,MICROPROCESSORS,2nd-year.pdf,1,4088
+2nd Year,89786eca1724,how does it compare,How does it compare,DS-1067],2nd-year.pdf,1,6434
+2nd Year,8e491d1db6f1,how does it lead to mutual happiness,How does it lead to mutual happiness?,BHUT-401,2nd-year.pdf,1,5290
+2nd Year,5203f5e48ce6,how is interfaced to,how 8087 is interfaced to 8086.,FSTSW CHECK -ANSWER,2nd-year.pdf,1,2977
+2nd Year,dcfd8f38bcd5,how is the flow charting technique useful for software development,How is the flow charting technique useful for software development?,Q 1.,2nd-year.pdf,1,5117
+2nd Year,a9480216d4ba,how is view defined,How is view defined?,Q2.,2nd-year.pdf,1,8534
+2nd Year,72917eefd7df,how it can be represented in computer memory,How it can be represented in computer memory?,UNIT - V,2nd-year.pdf,1,6933
+2nd Year,372f03c89699,how it is different from iteration,How it is different from iteration?,UNIT - I,2nd-year.pdf,1,6800
+2nd Year,ad19c2fb5687,how it is different from linear and binary search,How it is different from linear and binary search?,UNIT - IV,2nd-year.pdf,1,6854
+2nd Year,20b358af87c5,how it is different from linear queue,How it is different 10 from linear queue?,UNIT - IV,2nd-year.pdf,1,6846
+2nd Year,8df5ae620edc,how it is different from other types of files list the various,How it is different from other 10 types of files. List the various,UNIT - V,2nd-year.pdf,1,6899
+2nd Year,6e938ecbb5ab,how many bits are there in each of tag set and word field,"How many bits are there in each of TAG, SET and WORD field?",DS-1067],2nd-year.pdf,1,6402
+2nd Year,01308b2d4580,how many bits are there in the main memory address,How many bits are there in the main memory address?,DS-1067],2nd-year.pdf,1,6398
+2nd Year,09dd12881b2c,how many memory chips are required to obtain a memory,How many 256*8 memory chips are required to obtain a 2048*8 memory?.,TEC-302/920,2nd-year.pdf,1,9185
+2nd Year,6735ab789cd1,how many of the input minterms are included in each of these functions and how many are not what are the minterm expressions for the two functions simplify both functions using the theorems of boolean algebra,how many of the input minterms are included in each of these functions and how many are not? What are the minterm expressions for the two functions? Simplify both functions using the theorems of Boolean algebra.,TEC-302,2nd-year.pdf,1,2701
+2nd Year,703e7d6325fd,how many one one functions are there from a set with m elements to one with n,How many one-one functions are there from a set with m elements to one with n,TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8838
+2nd Year,379eecb93ee7,how memory x,How memory x2,G3949,2nd-year.pdf,1,2918
+2nd Year,37363fc1024b,how recovery,How recovery,TCS-404/1880/4,2nd-year.pdf,1,4015
+2nd Year,9dd192f059c2,how searching for a number in sorted list affects the execution time,How searching for a number in sorted list affects the execution time?,UNIT - IV,2nd-year.pdf,1,6830
+2nd Year,05899e309705,how the concept of pipeline is implemented effectively in a computer system,(c) How the concept of pipeline is implemented effectively in a computer system?,Q4.,2nd-year.pdf,1,4967
+2nd Year,9579ed8fade8,how they are different from assertions discuss nismo,"How they are different from Assertions, discuss. nismo",(OS,2nd-year.pdf,1,6631
+2nd Year,688621df8abe,i how many words are there in the address space,i. How many words are there in the address space?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2502
+2nd Year,4fd7bfac8475,if is a group then prove that a b where a be g,"If (G, *) is a group then prove that (a * b)-1 = a1 * b-1 where a, be G",TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8856
+2nd Year,ee4cffec68c4,ii how many words are there in the memory space,ii. How many words are there in the memory space?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2504
+2nd Year,cd876901b52d,ii what is the normal form of r,II. What is the normal form of R?,"CD, ABC -> E, C->A}",2nd-year.pdf,1,3909
+2nd Year,b0382cce3bd9,in any boolean algebra show that a ab db b,In any Boolean algebra show that a = 0 <=> ab' + db. = b.,TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8898
+2nd Year,dfbe0ea95293,in the system,in the  system?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2508
+2nd Year,e09674c04bae,inserted,inserted?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8438
+2nd Year,c4a003fbbebf,interface two k eproms and two,Interface two 4k*8 EPROMS and two,TCS-405 // 1720,2nd-year.pdf,1,4178
+2nd Year,798627d230d5,internet goverance,Internet Goverance?,CST006_005 | 103.170.70.207,2nd-year.pdf,1,7498
+2nd Year,b47f363e2b43,is,Is,CST006_005 | 103.170.70.207,2nd-year.pdf,1,7479
+2nd Year,bf2fb7ac4cd6,is different from linear search,is different from linear search?,UNIT - IV,2nd-year.pdf,1,6831
+2nd Year,3c1500e642c7,is x y x y a binary operation over the set of natural numbers is it commutative,"Is x*y=x-y, a binary operation over the set of natural numbers. Is it commutative",TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8868
+2nd Year,6c5522ca8af8,it,it?,BEET-404/BITT-404,2nd-year.pdf,1,4915
+2nd Year,6e2a6b79db87,jadi,JADI,JADITBITAT? JADI,2nd-year.pdf,1,1426
+2nd Year,34826ea2a4c4,jaditbitat,JADITBITAT?,JADITBITAT? JADI,2nd-year.pdf,1,1426
+2nd Year,3d7a034a83cb,justify,Justify,"CD, ABC -> E, C->A}",2nd-year.pdf,1,3909
+2nd Year,6fb3a6d1fe69,justify your answer with,Justify your answer with,DIGITAL ELECTRONICS,2nd-year.pdf,1,9488
+2nd Year,846af5a4b797,lattices distributive,lattices distributive?,TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8879
+2nd Year,90efd4013020,let a and r define r to be,"Let A = {1, 2, 3, 4} and R = {(2, 1), (2, 3), (3, 2), (3, 3), (2, 2), (4, 2)}. Define R+ to be",TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8881
+2nd Year,920a1a1c96eb,let a z the set of positive integers and let r e ax ai a divides b is r is,"Let A= Z+, the set of positive integers, and let R = {(a, b) E AX AI a divides b}. Is R is",TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8831
+2nd Year,390210d21573,list and,List and,Q4.,2nd-year.pdf,1,5319
+2nd Year,a5574df4da47,list and discuss acid,List and discuss ACID,TCS-404/1880/4,2nd-year.pdf,1,3984
+2nd Year,e095e66ed604,list and explain dml statements with suitable example,(f) List and explain DML statements with suitable example?,[P.T.O.],2nd-year.pdf,1,8550
+2nd Year,98a65d757222,list and explain various types of joins,List and explain various types of joins.,Q2.,2nd-year.pdf,1,8526
+2nd Year,6ec4bcf0815a,list the sequence of events that occur when one turn on the computer,List the sequence of events that occur when one turn on the computer.,(OS =AX2),2nd-year.pdf,1,7200
+2nd Year,5d7e2349c074,list those professors who teach more than one section of the same course,List those professors who teach more than one section of the same course/,(OS,2nd-year.pdf,1,6624
+2nd Year,a75cb6e57420,list various locking techniques for concurrency control what is transaction,(a) List various locking techniques for concurrency control. (b) What is transaction?,BECT-402/BITT-402,2nd-year.pdf,1,5029
+2nd Year,9e9349d62e4e,list various normalization techniques,List various normalization techniques.,Q4.,2nd-year.pdf,1,8562
+2nd Year,ed9dc242f16b,machine what is the difference between mealy and moore machines,Machine. What is the difference between Mealy and Moore machines?,TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8957
+2nd Year,2d80405b58f6,memory transfer,memory transfer?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2524
+2nd Year,c454bbfdc125,message authentication and confidentiality,message  authentication and confidentiality?,CST006_005 | 103.170.70.207,2nd-year.pdf,1,7470
+2nd Year,94748349317a,name four types of cyber threats,Name four types of cyber threats.,CYBER SECURITY,2nd-year.pdf,1,7258
+2nd Year,e53552b708e6,numbers in ascending order stol what is memory segmentation,numbers in ascending order. stol What is memory segmentation?,G3949,2nd-year.pdf,1,2918
+2nd Year,016515127df1,o im then come back to vi again u,OиIM then come back to vi again?U,"(SEM. IV) EXAMINATION, 2012 UNIX & SHELL PROGRAMMING",2nd-year.pdf,1,7095
+2nd Year,f6d794ec98ce,od,od),PAPER ID:1051,2nd-year.pdf,1,2823
+2nd Year,c824f0ab2d35,od no what do you mean by timestamps,od (b) no What do you mean by timestamps?,DS-1067],2nd-year.pdf,1,6439
+2nd Year,cbcb0a0e947e,of network architecture,of network architecture?,ST021_005 | 103.170.7,2nd-year.pdf,1,1724
+2nd Year,5384871b2f83,of these three is the best approximation,of these three is the best approximation?,COMPUTER BASED NUMERICAL STATISTICAL,2nd-year.pdf,1,1402
+2nd Year,b7514af0999d,participating constraints,participating constraints?,172-A,2nd-year.pdf,1,3843
+2nd Year,6327e3b6cca8,proper examples,proper examples?,Q4.,2nd-year.pdf,1,4961
+2nd Year,464c1601fc38,prove that a n,Prove that A-(BUC) = (A-B) N (A-C).,TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8836
+2nd Year,6d8477390b7e,prove that by mathematical induction that n n is divisible by for each,Prove that by mathematical induction that 6n+2+72n+1 is divisible by 43 for each,TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8890
+2nd Year,6de003615d2d,reference to digital integrated circuits,reference to digital integrated circuits (ICs)?,DIGITAL ELECTRONICS,2nd-year.pdf,1,9525
+2nd Year,3a7d89c60d08,register value after an arithmetic shift right,register value after  an arithmetic shift right?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2456
+2nd Year,4432d55c405e,repeat arq over go back n arq protocol,Repeat ARQ over Go Back-N ARQ protocol?,ST021_005 | 103.170.7,2nd-year.pdf,1,1746
+2nd Year,b3b11b24af49,s bege in what does kill do,S: Bege (b) in What does kill $! Do?,"(SEM. IV) EXAMINATION, 2012 UNIX & SHELL PROGRAMMING",2nd-year.pdf,1,7069
+2nd Year,110861e2c84b,segmentation is achieved in the microprocessor,segmentation is achieved in the 8086 microprocessor?,G3949,2nd-year.pdf,1,2919
+2nd Year,c0c07a8023de,sequential circuit,sequential  circuit?,= AC + B��,2nd-year.pdf,1,9301
+2nd Year,9fb29051f221,show,Show,DIGITAL ELECTRONICS,2nd-year.pdf,1,9510
+2nd Year,2439580aaf6b,show that is a tautology,Show that (p A q) --4 (p V q) is a tautology.,TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8854
+2nd Year,c34fc8c1a1fa,show that the set of n natural numbers is a semi group under the operation x y,Show that the set of N Natural numbers is a semi group under the operation x*y =,TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8848
+2nd Year,14747f910c80,signed integers,signed integers?,[P.T.O.],2nd-year.pdf,1,1887
+2nd Year,301531eb550b,sisivite modification techniques for recovery,Sisivite modification techniques for recovery?,TCS-404/1880/4,2nd-year.pdf,1,4015
+2nd Year,42c93c7b3f0c,snitsa,snitsa,DS-1067],2nd-year.pdf,1,6435
+2nd Year,3373a0b58078,software crisis what are the possible solution for present software crisis,software crisis. What are the possible solution for present software crisis?,Q 1.,2nd-year.pdf,1,5118
+2nd Year,715c9bf05364,space is required for program,space is required for  program?,CST007,2nd-year.pdf,1,2228
+2nd Year,db1dfd45b163,sql,SQL?,(OS,2nd-year.pdf,1,6643
+2nd Year,9f82d7c81429,standard ways of traversing a graph,standard ways of traversing a graph?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8300
+2nd Year,16be3431a1a2,starting from the initial,Starting from the initial,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2456
+2nd Year,aa4a5f8125f2,state,State,810587180-20T-,2nd-year.pdf,1,4383
+2nd Year,aa4a5f8125f2,state,State,P.T.O.,2nd-year.pdf,1,4801
+2nd Year,aa4a5f8125f2,state,State,T→ T*F/F,2nd-year.pdf,1,4576
+2nd Year,aa4a5f8125f2,state,state,TCS-403/1820/6,2nd-year.pdf,1,4303
+2nd Year,394d3d52bc53,state advantages of memory segmentation,State advantages of memory segmentation..,G3949,2nd-year.pdf,1,2923
+2nd Year,cfdb745e9797,state different file organizations and discuss the advantages and disadvantages,State different File Organizations and discuss the advantages and disadvantages,RU1474 [10×2=20],2nd-year.pdf,1,7948
+2nd Year,8886104d3289,state the differences between instruction pipeline and arithmetic pipeline ta,State the differences between instruction-pipeline and arithmetic-pipeline. Ta,MEESHONT [P.T.O.],2nd-year.pdf,1,2074
+2nd Year,47348dc415bc,state the differences between serial and parallel transmission,State the differences between serial and parallel transmission.,SECTION A,2nd-year.pdf,1,2034
+2nd Year,f738fa5bf720,state whether the dependency is preserved or not in this decomposition,state whether the dependency is preserved or not in this decomposition.,10X2,2nd-year.pdf,1,8756
+2nd Year,8871533404fb,suggest a solution to solve it,Suggest a solution to solve it?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2404
+2nd Year,5d3cbbce6d69,suitable diagram c what is cache memory,suitable diagram c) What is cache memory?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2380
+2nd Year,7085f4b5a4d6,suppose we need a dataword of at least bits,Suppose we need a dataword of at least 7 bits.,ST021_005 | 103.170.7,2nd-year.pdf,1,1739
+2nd Year,3c5e819a5d8b,tcs gniwollo,TCS-405 gniwollo?,PAPER ID:1051,2nd-year.pdf,1,2823
+2nd Year,c95ee47689a0,tech,TECH,B.TECH,2nd-year.pdf,1,4062
+2nd Year,c95ee47689a0,tech,TECH (SEMESTER-IV),B.TECH (SEMESTER-IV),2nd-year.pdf,1,1792
+2nd Year,c95ee47689a0,tech,TECH. (ECE/CSE/IT) (SEMESTER-IV),B. TECH. (ECE/CSE/IT) (SEMESTER-IV),2nd-year.pdf,1,1995
+2nd Year,c95ee47689a0,tech,TECH. (SEMESTER-III),B.TECH. (SEMESTER-III),2nd-year.pdf,1,744
+2nd Year,c95ee47689a0,tech,TECH. (SEMESTER-IV),B.TECH. (SEMESTER-IV),2nd-year.pdf,1,8464
+2nd Year,c95ee47689a0,tech,TECH.(CS/IT)(SEMESTER-III),B.TECH.(CS/IT)(SEMESTER-III),2nd-year.pdf,1,1331
+2nd Year,c95ee47689a0,tech,Tech.,PAPER ID : 1068,2nd-year.pdf,1,6505
+2nd Year,c95ee47689a0,tech,Tech.,TCS-302/TCS-305,2nd-year.pdf,1,5682
+2nd Year,c95ee47689a0,tech,Tech.,TCS-402/TIT-402,2nd-year.pdf,1,6989
+2nd Year,c95ee47689a0,tech,Tech.,TCS-403,2nd-year.pdf,1,5426
+2nd Year,c95ee47689a0,tech,Tech.,TEC-302,2nd-year.pdf,1,2585
+2nd Year,3098b5239cfd,tech b,TECH. (SEMESTER-III)b,TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,9013
+2nd Year,b9e3fcb19654,tech computer science engineering examination database management system,"Tech. Computer Science Engineering (4TH Semester) Examination, 2015 Database Management System",172-A,2nd-year.pdf,1,3804
+2nd Year,b18ad65a08d9,tech d w,Tech. d'W,TCS-303,2nd-year.pdf,1,6757
+2nd Year,d444336b2b60,tech hasso,TECH. (SEMESTER-III) HASSO,B.TECH. (SEMESTER-III) HASSO,2nd-year.pdf,1,7844
+2nd Year,5cd672afc1f9,tech iii semester examination dec computer based numerical technique,Tech III Semester Examination Dec 2014 Computer Based Numerical Technique,TCS 305,2nd-year.pdf,1,1017
+2nd Year,f37fb8e2fa23,tech nd yr e ce cs e,Tech. 2nd Yr- E&CE/CS&E,"ODD SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,9217
+2nd Year,33de19d3a23b,tech uqlub examination,"Tech. (Computer Science Engineering) uqlub (4TH Semester) Examination, 2015",TCS-403,2nd-year.pdf,1,4231
+2nd Year,b714cf2eff1c,tech vom,Tech. VOM,PAPER ID:1051,2nd-year.pdf,1,2833
+2nd Year,7836e59e21c0,the advantages of views,the advantages of views?,Q2.,2nd-year.pdf,1,8536
+2nd Year,e8470b63fb9c,there of x into xx and xxx,there of x28 into xx and xxx ?,THEORY OF AUTOMATA,2nd-year.pdf,1,5456
+2nd Year,84b8b42fc173,this means how many different factorizations are,This means : How many different factorizations are,THEORY OF AUTOMATA,2nd-year.pdf,1,5455
+2nd Year,4374aaee247f,to,to,DS-1067],2nd-year.pdf,1,6388
+2nd Year,ae581f3053f4,trace the algorithm to delete the nodes from the tree,"Trace the algorithm to delete the nodes 25,75,44 from the tree.",B.TECH. (SEMESTER-III) HASSO,2nd-year.pdf,1,7908
+2nd Year,80655da8d80a,tree,tree?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8334
+2nd Year,0d850d1fb8c4,triggers,Triggers?,(OS,2nd-year.pdf,1,6631
+2nd Year,dc61cb953092,tsnt rice what do you understand by ambiguous grammar,tsnt rice) What do you understand by ambiguous grammar?,TCS-403,2nd-year.pdf,1,4277
+2nd Year,295f08018ca8,types of white box testing,types of white box testing?,Q 1.,2nd-year.pdf,1,5180
+2nd Year,d13bbbd92b83,unix,UNIX?,(OS =AX2),2nd-year.pdf,1,7206
+2nd Year,ba004e982b3f,use quantifiers to express the statement there is a woman who has taken a flight,"Use quantifiers to express the statement ""There is a woman who has taken a flight",TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8844
+2nd Year,2a1e2f47b171,use the network architecture knowledge to compare,Use the network architecture knowledge to compare,ST021_005 | 103.170.7,2nd-year.pdf,1,1728
+2nd Year,24a79b07eb84,using a multiplexer b what are decoders,using a multiplexer.  b) What are decoders?,DIGITAL ELECTRONICS,2nd-year.pdf,1,9501
+2nd Year,f32b67c7e263,value,value?,BHUT-401,2nd-year.pdf,1,5297
+2nd Year,680ab6bc22cd,values from the database,values from the database?,TCS-404/1880/4,2nd-year.pdf,1,3884
+2nd Year,43f45cb6ad27,we attempt any four questions from the following,We' Attempt any four questions from the following:,DIGITAL ELECTRONICS AND DESIGN ASPECTS,2nd-year.pdf,1,9034
+2nd Year,3332cd268144,we want to find the root p can we use po,(b) We want to find the root p = 3/2 can we use Po=3 ?,UNIT - I,2nd-year.pdf,1,5766
+2nd Year,a110e6b9a361,what,What,RU1474 [10×2=20],2nd-year.pdf,1,7993
+2nd Year,56cb7a51d2e5,what are circular queue and priority queue,What are Circular Queue and Priority Queue?,B.TECH. (SEMESTER-III) HASSO,2nd-year.pdf,1,7916
+2nd Year,112a86d72e7a,what are distributed database,(b) What are distributed database?,Q4.,2nd-year.pdf,1,5069
+2nd Year,8bd0a8044fce,what are its advantages and disadvantages over,What are its advantages and disadvantages over,UNIT - IV,2nd-year.pdf,1,6823
+2nd Year,b7cc818d63c7,what are its types,What are its types?,Q4.,2nd-year.pdf,1,8613
+2nd Year,f6586ef374b2,what are the categories of avl rotations,What are the categories of AVL rotations?,RU1474 [10×2=20],2nd-year.pdf,1,7993
+2nd Year,253d24a255b3,what are the difference between the,What are the difference between the,UNIT V,2nd-year.pdf,1,6096
+2nd Year,44abb59d3c23,what are the different types of integrity constraints,(d) What are the different types of integrity constraints?,BECT-402/BITT-402,2nd-year.pdf,1,5012
+2nd Year,3d352a246fe4,what are the disadvantages of using an,What are the disadvantages of using an,UNIT - V,2nd-year.pdf,1,6907
+2nd Year,298201530aa6,what are the efficiency and through put of this pipelined processor meri,What are the efficiency and through put of this pipelined processor?meri,UNIT V,2nd-year.pdf,1,6184
+2nd Year,4dde9687e8d2,what are the four orders of nature,(a) What are the four orders of nature?,Q4.,2nd-year.pdf,1,5309
+2nd Year,83cba5ab7a28,what are the implications of value based living at all four levels of living,(c) What are the implications of value based living at all four levels of living?,Q4.,2nd-year.pdf,1,5327
+2nd Year,27f223a88d2a,what are the input and output of system design,(a) What are the input and output of system design?,Q 1.,2nd-year.pdf,1,5168
+2nd Year,1249822b3bed,what are the natural characteristics of human order,(b) What are the natural characteristics (swabhava) of human order?,Q4.,2nd-year.pdf,1,5311
+2nd Year,5229b9e75407,what are the priority interrupts,What are the priority interrupts?,MEESHONT [P.T.O.],2nd-year.pdf,1,2078
+2nd Year,48726edd7a6e,what are the programs needed to achieve the comprehensive human goal,(a) What are the programs needed to achieve the comprehensive human goal?,Q4.,2nd-year.pdf,1,5319
+2nd Year,20def8aa6096,what are the responsibilities of a,What are the responsibilities of a,172-A,2nd-year.pdf,1,3854
+2nd Year,0e2b46514166,what are the statistical quality control techniques,What are the statistical quality control techniques?,[P.T.O.],2nd-year.pdf,1,1416
+2nd Year,1c678f37e8f3,what are the various ways t represent a stack in memory,(e) What are the various ways t represent a stack in memory?,UNIT - I,2nd-year.pdf,1,6793
+2nd Year,ca092270f2a8,what are triggers,What are triggers?,Q2.,2nd-year.pdf,1,8530
+2nd Year,c7267fa6d02b,what are views,What are views?,Q2.,2nd-year.pdf,1,8534
+2nd Year,f5f06d013339,what do you mean by addressing modes,(a) What do you mean by addressing modes?,Q4.,2nd-year.pdf,1,4958
+2nd Year,28a24535ee74,what do you mean by array,What do you mean by Array?,B.TECH. (SEMESTER-III) HASSO,2nd-year.pdf,1,7902
+2nd Year,e200b9ec4ee0,what do you mean by balanced trees,What do you mean by balanced trees?,RU1474 [10×2=20],2nd-year.pdf,1,7993
+2nd Year,7f09e442107a,what do you mean by buses,(a) What do you mean by buses?,BEET-404/BITT-404,2nd-year.pdf,1,4905
+2nd Year,188aaef3044d,what do you mean by canonical cover,What do you mean by Canonical Cover?,Q4.,2nd-year.pdf,1,8575
+2nd Year,25f52bd53462,what do you mean by deadlock,(c) What do you mean by deadlock?,"G = A CD, E→ AH",2nd-year.pdf,1,6722
+2nd Year,61d4d58afa54,what do you mean by direct indirect addressing modes,(e) What do you mean by direct & indirect addressing modes?,BEET-404/BITT-404,2nd-year.pdf,1,4928
+2nd Year,5d6d8d0d931c,what do you mean by halting problem of turing,What do you mean by halting problem of turing,TCS-403/1820/6,2nd-year.pdf,1,4350
+2nd Year,240f1cf32996,what do you mean by inter register transfer,What do you mean by inter-register transfer?,COMPUTER ORGANIZATION,2nd-year.pdf,1,6251
+2nd Year,699eb24c978f,what do you mean by interrupts,(b) What do you mean by interrupts?,BEET-404/BITT-404,2nd-year.pdf,1,4936
+2nd Year,300fa6a9c8c0,what do you mean by log based recovery,(c) What do you mean by log-based recovery?,DS-1067],2nd-year.pdf,1,6443
+2nd Year,c8fc92d3b4a9,what do you mean by multi valued dependency,What do you mean by multi-valued dependency?,DS-1068],2nd-year.pdf,1,6692
+2nd Year,61b089535dc6,what do you mean by natural join,What do you mean by Natural join?,II. DML,2nd-year.pdf,1,3964
+2nd Year,75ac4ea6b053,what do you mean by normalization,What do you mean by normalization?,Q4.,2nd-year.pdf,1,8562
+2nd Year,a0fe9a64b3c4,what do you mean by polling explain,(b) What do you mean by polling explain,BEET-404/BITT-404,2nd-year.pdf,1,4914
+2nd Year,adf064097c9e,what do you mean by risc cisc,(c) What do you mean by RISC & CISC?,BEET-404/BITT-404,2nd-year.pdf,1,4925
+2nd Year,201a66186d1a,what do you mean by schedule in the context of concurrent execution of transections in rdbms what is serializable schedule discuss the various types of serializability with a suitable example,What do you mean by schedule in the context of concurrent execution of transections in RDBMS? What is serializable schedule? Discuss the various types of serializability with a suitable example.,"G = A CD, E→ AH",2nd-year.pdf,1,6718
+2nd Year,1db587916e02,what do you mean by separate chaining,(c) What do you mean by separate chaining?,RU1474 [10×2=20],2nd-year.pdf,1,7996
+2nd Year,e8d8c4ab3e6b,what do you mean by turing machine,What do you mean by Turing Machine?,PP.P,2nd-year.pdf,1,4523
+2nd Year,0293b4cfe393,what do you mean database language and interfaces,What do you mean database language and interfaces?,DS-1068],2nd-year.pdf,1,6590
+2nd Year,0412e30d122f,what do you understand by competence in professional ethics,(b) What do you understand by competence in professional ethics?,Q4.,2nd-year.pdf,1,5323
+2nd Year,0b7a3913d6f3,what do you understand by concurrency control,(B) What do you understand by concurrency control?,10 X 2,2nd-year.pdf,1,8789
+2nd Year,2de5f6bb3fd4,what do you understand by join statement,What do you understand by join statement?,BECT-402/BITT-402,2nd-year.pdf,1,5024
+2nd Year,72e704828450,what do you understand by linked list,What do you understand by linked list?,UNIT - IV,2nd-year.pdf,1,6823
+2nd Year,bc3b6f5077f2,what do you understand by software project estimation,(b) What do you understand by software project estimation?,Q 1.,2nd-year.pdf,1,5139
+2nd Year,1d095709cf40,what do you understand by space and time complexity of an algorithm,What do you understand by space and time complexity of an algorithm?,UNIT - I,2nd-year.pdf,1,6783
+2nd Year,5c174920ead1,what do you understand by stack frames,What do you understand by stack frames?,COMPUTER ORGANIZATION,2nd-year.pdf,1,1821
+2nd Year,ab1c426c4263,what do you understand by stirling s formula,What do you understand by Stirling's formula?,COMPU,2nd-year.pdf,1,1668
+2nd Year,696a84f41bbc,what do you understand by the term peripheral,What do you understand by the term peripheral?,[P.T.O.],2nd-year.pdf,1,1911
+2nd Year,aa665724fdd4,what does memory hierarchy represent,(b) What does memory hierarchy represent?,Q4.,2nd-year.pdf,1,4963
+2nd Year,74f124c06613,what is a constraint in database,What is a constraint in database?,Q2.,2nd-year.pdf,1,8540
+2nd Year,93619cf6b859,what is a finite automata,(a) What is a Finite Automata?,BEET-405/BITT-405,2nd-year.pdf,1,4688
+2nd Year,8cd1e95311e7,what is a generalized transition graph,(a) What is a generalized transition graph ?,THEORY OF AUTOMATA,2nd-year.pdf,1,5450
+2nd Year,2ba7708f839a,what is a serializable schedule,What is a serializable schedule?,Q4.,2nd-year.pdf,1,8613
+2nd Year,26d25d910c6a,what is a transaction,(a) What is a Transaction?,Q4.,2nd-year.pdf,1,8601
+2nd Year,4b654940b40a,what is a von neumann architecture,What is a Von Neumann architecture?,SECTION A,2nd-year.pdf,1,2038
+2nd Year,fa4df552fe9d,what is asynchronous data transfer,What is Asynchronous data transfer?,[P.T.O.],2nd-year.pdf,1,1881
+2nd Year,83aac82d7867,what is binary search tree,What is Binary Search Tree?,UNIT - V,2nd-year.pdf,1,6887
+2nd Year,f04bdaf49693,what is bus,What is bus?,SECTION A,2nd-year.pdf,1,2030
+2nd Year,6b801d3a6909,what is cache memory,What is Cache memory?,COMPUTER ORGANIZATION,2nd-year.pdf,1,1865
+2nd Year,88a5ba205258,what is circular queue,What is circular queue?,UNIT - IV,2nd-year.pdf,1,6846
+2nd Year,1524e4fc8ae6,what is collision,What is collision?,UNIT - IV,2nd-year.pdf,1,6854
+2nd Year,fb7a81479db5,what is complemented lattice and bounded lattice show that lattice is distributive,What is complemented lattice and bounded Lattice? Show that lattice is distributive,TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8864
+2nd Year,96872fde13e8,what is deadlock,(C) What is deadlock?,10 X 2,2nd-year.pdf,1,8792
+2nd Year,96872fde13e8,what is deadlock,What is deadlock?,Q5.,2nd-year.pdf,1,8634
+2nd Year,58b8baf2f010,what is decidability,What is decidability?,T→ T*F/F,2nd-year.pdf,1,4639
+2nd Year,c3068cb8f680,what is decoder,What is decoder?,COMPUTER ORGANIZATION,2nd-year.pdf,1,1850
+2nd Year,d6946e0693ce,what is dma,(a) What is DMA?,BEET-404/BITT-404,2nd-year.pdf,1,4932
+2nd Year,5227ba1eeb5f,what is dynamic memory allocation,What is dynamic memory allocation?,UNIT - I,2nd-year.pdf,1,6789
+2nd Year,3af837d25c37,what is fixed point representation of integers,What is fixed point representation of integers?,[P.T.O.],2nd-year.pdf,1,1885
+2nd Year,47de3171d3d9,what is hashing,What is hashing?,UNIT - IV,2nd-year.pdf,1,6854
+2nd Year,a6bee6344d7a,what is indexing,What is indexing?,UNIT - V,2nd-year.pdf,1,6896
+2nd Year,64f9d8db9abc,what is instruction cycle,(d) What is instruction cycle?,BEET-404/BITT-404,2nd-year.pdf,1,4908
+2nd Year,e4dbcc3e3aae,what is join,What is join?,Q2.,2nd-year.pdf,1,8526
+2nd Year,b9669e24c5dc,what is justice,(a) What is justice?,BHUT-401,2nd-year.pdf,1,5290
+2nd Year,45bb007b600c,what is locking,What is locking?,Q5.,2nd-year.pdf,1,8625
+2nd Year,5a6682863630,what is meant by hasse diagram draw the hasse diagram of relation r on a,What is meant by Hasse Diagram? Draw the Hasse diagram of relation R on A,TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8860
+2nd Year,5083c0d284e4,what is meant by hazard in a logic network,What is meant by Hazard in a logic network?,Y=A+B+C,2nd-year.pdf,1,9168
+2nd Year,7646e4f16f2b,what is microinstruction,What is microinstruction?,DS-1067],2nd-year.pdf,1,6327
+2nd Year,f48bdc34630d,what is normalization,(A) What is Normalization?,10X2,2nd-year.pdf,1,8742
+2nd Year,f48bdc34630d,what is normalization,What is normalization?,II. DML,2nd-year.pdf,1,3955
+2nd Year,f152a650f065,what is piggybacking,(ii) What is piggybacking?,ST021_005 | 103.170.7,2nd-year.pdf,1,1739
+2nd Year,c6b1dea9ecc9,what is race around condition and how it is overcome,What is race around condition and how it is overcome?,TEC-302,2nd-year.pdf,1,2657
+2nd Year,8dd739c3623b,what is recursion,What is recursion?,UNIT - I,2nd-year.pdf,1,6800
+2nd Year,107831266282,what is relational algebra,What is Relational Algebra?,Q2.,2nd-year.pdf,1,8520
+2nd Year,8dfe6b5239fa,what is serializability,What is serializability?,Q4.,2nd-year.pdf,1,8613
+2nd Year,5daa12156332,what is shift register,What is shift register?,COMPUTER ORGANIZATION,2nd-year.pdf,1,1860
+2nd Year,ea1f9d024bee,what is software testing,(a) What is software testing?,P.T.O.,2nd-year.pdf,1,5192
+2nd Year,82276d7ba155,what is sqa,(a) What is SQA?,P.T.O.,2nd-year.pdf,1,5213
+2nd Year,0e29a6d5d6e5,what is statistical quality control,(a) What is statistical quality control?,(7.5X2),2nd-year.pdf,1,1126
+2nd Year,205f6f231b78,what is structured chart,(b) What is structured chart?,Q 1.,2nd-year.pdf,1,5173
+2nd Year,ed743e8116a8,what is test plan and contents available in a test plan,(b) What is Test Plan and contents available in a Test Plan?,P.T.O.,2nd-year.pdf,1,5194
+2nd Year,83c0f2be58d8,what is text file,(b) What is text file?,UNIT - V,2nd-year.pdf,1,6899
+2nd Year,1953e38efe60,what is th,What is th,DS-1068],2nd-year.pdf,1,6678
+2nd Year,10f5aced3b31,what is the average access time of the girls gnieu system for both read and write requests,What is the average access time of the girls gnieu system for both read and write requests?,DS-1067],2nd-year.pdf,1,6377
+2nd Year,01ed8dc0288b,what is the data structure,What is the data structure?,B.TECH. (SEMESTER-III) HASSO,2nd-year.pdf,1,7868
+2nd Year,3a98b2044ca4,what is the difference,What is the difference,P.T.O.,2nd-year.pdf,1,5194
+2nd Year,c860217fdfb1,what is the difference between,What is the difference between,DS-1068],2nd-year.pdf,1,6590
+2nd Year,5c48a93e8c62,what is the difference between a near far procedure,What is the difference between a near & far procedure?,MICROPROCESSORS,2nd-year.pdf,1,4127
+2nd Year,d4d0016aad92,what is the difference between a stack and an array,(ii) What is the difference between a Stack and an Array?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8314
+2nd Year,928f9d932683,what is the difference between animal consciousness and human consciousness,(d) What is the difference between animal consciousness and human consciousness?,BHUT-401,2nd-year.pdf,1,5273
+2nd Year,45d5b78c196c,what is the difference between shutdown and halt,What is the difference between shutdown and halt.,(OS =AX2),2nd-year.pdf,1,7143
+2nd Year,01522fa05156,what is the difference between specialization and generalization with respect to,What is the difference between specialization and generalization with respect to,Q1.,2nd-year.pdf,1,8492
+2nd Year,f84a29ca8536,what is the hit ratio taking into consideration,What is the hit ratio taking into consideration,DS-1067],2nd-year.pdf,1,6384
+2nd Year,62c57453c2e8,what is the impact of the cache on overall performance of the computer,What is the impact of the cache on overall performance of the computer?.,[P.T.O.],2nd-year.pdf,1,1907
+2nd Year,20de2defa40a,what is the significance of normalization of the database,What is the significance of normalization of the database?,DS-1068],2nd-year.pdf,1,6680
+2nd Year,1dd10f0deba4,what is the significance of the logic family with,What is the significance of the logic family  with,DIGITAL ELECTRONICS,2nd-year.pdf,1,9524
+2nd Year,66127faa3b9b,what is the threaded binary tree,What is the threaded binary tree?,UNIT - V,2nd-year.pdf,1,6933
+2nd Year,8a996527eb0b,what is two phase locking and its,What is two phase locking and its,10 X 2,2nd-year.pdf,1,8789
+2nd Year,333dc135adeb,what is virtual memory,What is virtual memory?,SECTION D,2nd-year.pdf,1,2143
+2nd Year,333dc135adeb,what is virtual memory,What is virtual memory?,[P.T.O.],2nd-year.pdf,1,1958
+2nd Year,741467b5d879,what is white box testing and explain in brief all,What is white box testing and explain in brief all,Q 1.,2nd-year.pdf,1,5179
+2nd Year,ba6960888367,what will happen if the bisection method is used with the function f tan and the interval is and,"What will happen if the bisection method is used with the function f(x) = tan (x) (x is radians) and the interval is [3, 4] and [1, 3].",UNIT - I,2nd-year.pdf,1,5739
+2nd Year,ebb85fe0d0ee,when are the various conditions under which,When are the various conditions under which,"G = A CD, E→ AH",2nd-year.pdf,1,6722
+2nd Year,6360075388d3,when is a functional dependency said to be trivial,When is a functional dependency said to be trivial?,II. DML,2nd-year.pdf,1,3961
+2nd Year,7c97c772f05a,which of the two lattices for m and are complemented are these,"Which of the two lattices (S,,,, D) for m = 30 and 45 are complemented? Are these",TCS-301 (CSE) - DISCRETE STRUCTURES,2nd-year.pdf,1,8876
+2nd Year,2090b7d587e3,which searching technique is best and why,Which searching technique is best and why?,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8278
+2nd Year,f4490590d450,which sorting algorithm will work best if the list is already sorted,"Which sorting algorithm will work best if the list is already sorted,",UNIT - IV,2nd-year.pdf,1,6856
+2nd Year,eb94f4b614aa,which type of i o devices are interfaced through dma explain the bus,Which type of I/O devices are interfaced through DMA? Explain the Bus-,COMPUTER ORGANIZATION,2nd-year.pdf,1,1823
+2nd Year,28a9c6cc63fb,who is a dba,Who is a DBA?,172-A,2nd-year.pdf,1,3854
+2nd Year,10cff4034ced,why,Why?,UNIT - I,2nd-year.pdf,1,5766
+2nd Year,a74fcca0aa38,why it s needed,Why it’s needed?,"EVEN SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,2353
+2nd Year,734b27e39b15,why they are needed,Why they are needed?,CST021_005 |,2nd-year.pdf,1,1777
+2nd Year,22443517b335,will you ensure that,will you ensure that?,"(SEM. IV) EXAMINATION, 2012 UNIX & SHELL PROGRAMMING",2nd-year.pdf,1,7110
+2nd Year,963c6168a879,with a diagram explain how virtual memory address is,"With a diagram, explain how virtual memory address is",SECTION D,2nd-year.pdf,1,2143
+2nd Year,0e5f6403d84b,with a neat and clean diagram explain the internal organization of a m x dynamic,"With a neat and clean diagram, explain the internal organization of a 2M x * dynamic",(VI,2nd-year.pdf,1,2089
+2nd Year,64f05b281c2f,with older forms of two phase locking,with older forms of two-phase locking?,DS-1067],2nd-year.pdf,1,6435
+2nd Year,0c303466efe4,with the,With the,DIGITAL ELECTRONICS,2nd-year.pdf,1,9533
+2nd Year,211db53f4147,with the help of neat sketch explain the method of,With the help of neat sketch explain the method of,[P.T.O.],2nd-year.pdf,1,1958
+2nd Year,6c0191022a7c,woll do the write cycles,woll do the write cycles?,DS-1067],2nd-year.pdf,1,6388
+2nd Year,e1d0c6c1c29e,write,Write,Q4.,2nd-year.pdf,1,4967
+2nd Year,e1d0c6c1c29e,write,Write,UNIT - IV,2nd-year.pdf,1,6837
+2nd Year,ecd8d8038223,write a algorithm to,Write a Algorithm to,"III SEMESTER EXAMINATION, 2023 – 24",2nd-year.pdf,1,8278
+2nd Year,1d44a1d0217c,write a function for binary search,Write a function for binary search.,UNIT - IV,2nd-year.pdf,1,6831
+2nd Year,99f795a6bb24,write a program to reverse a singly linked list,`Write a program to reverse a singly linked list.,UNIT - IV,2nd-year.pdf,1,6824
+2nd Year,ae658e7ebd7b,write a recursive function to find,Write a recursive function to find,UNIT - I,2nd-year.pdf,1,6800
+2nd Year,062c1e11afa7,write an algorithm to insert and,Write an algorithm to insert and,B.TECH. (SEMESTER-III) HASSO,2nd-year.pdf,1,7916
+2nd Year,8361fcc46b2d,write down its,Write down its,Q4.,2nd-year.pdf,1,4950
+2nd Year,ab92d918730d,write some applications of asynchronous,Write some applications of asynchronous,= AC + B��,2nd-year.pdf,1,9301
+2nd Year,179f24a7cce9,write the advantage and disadvantage,Write the advantage and disadvantage,RU1474 [10×2=20],2nd-year.pdf,1,7996
+2nd Year,041f7cd49497,write the implementation of shortest,Write the implementation of shortest,CST021_005 |,2nd-year.pdf,1,1756
+2nd Year,68b8fa225891,written as the product of words in s,written as the product of words in S?,THEORY OF AUTOMATA,2nd-year.pdf,1,5455
+2nd Year,76ca85f27cfa,xa sonsups,xa sonsups?,COMPUTER ORGANIZATION,2nd-year.pdf,1,6240
+2nd Year,86a8c3decd28,your answer,your answer?,5X4,2nd-year.pdf,1,8728
