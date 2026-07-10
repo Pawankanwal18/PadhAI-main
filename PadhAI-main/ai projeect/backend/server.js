@@ -9,6 +9,8 @@ const pdfParse = require('pdf-parse'); // v1.1.1 — exports a plain function
 import Anthropic from '@anthropic-ai/sdk';
 import { readFileSync } from 'fs';
 import db from './db.js';
+import { ragBridge } from './ragBridge.js';
+import ragRoutes from './ragRoutes.js';
 
 // ── Load .env manually (no dotenv package needed in ESM) ──────────────────────
 try {
@@ -567,10 +569,19 @@ const requireAuth = (req, res, next) => {
   }
 };
 
-// ── AI PROMPT builder (Claude) ─────────────────────────────────────────────────
+// ── AI PROMPT builder (Claude) with RAG Enhancement ──────────────────────────
 function buildPrompt(syllabusText) {
+  // Get RAG context for enhanced question generation
+  let ragContext = '';
+  if (ragBridge.initialized && syllabusText.length > 0) {
+    const contextPrompt = ragBridge.buildContextPrompt(syllabusText);
+    ragContext = contextPrompt;
+  }
+
   return `You are an expert academic AI assistant for BIAS (BCA/MCA) students in India.
 Analyze the following syllabus and return a detailed, structured JSON response.
+
+${ragContext ? `KNOWLEDGE BASE CONTEXT (for reference):\n${ragContext}\n\n` : ''}
 
 SYLLABUS TEXT:
 """
@@ -705,12 +716,55 @@ app.post('/api/analyze-syllabus', (req, res, next) => {
 
     if (trainedMatch) {
       console.log(`  ✅ Trained dataset match: ${trainedMatch.exactQuestions.length} questions found`);
+      
+      // Also use RAG to find 30 most important + repeated questions
+      let ragMatches = [];
+      let topImportantRepeated = [];
+      
+      if (ragBridge.initialized) {
+        const extractedTopics = trainedMatch.topPredictions
+          .slice(0, 3)
+          .map(t => t.topic)
+          .join(' ');
+        
+        // Get comprehensive search results
+        ragMatches = ragBridge.comprehensiveSearch({
+          keywords: extractedTopics,
+          limit: 30
+        });
+        
+        // Get top 30 most important + repeated questions for each topic
+        for (const topicItem of trainedMatch.topPredictions.slice(0, 3)) {
+          const importantRepeated = ragBridge.getTop30ImportantRepeated(topicItem.topic, 10);
+          topImportantRepeated.push(...importantRepeated);
+        }
+        
+        // Remove duplicates and limit to 30
+        const seen = new Set();
+        topImportantRepeated = topImportantRepeated.filter(q => {
+          const key = q.question_text.toLowerCase();
+          if (seen.has(key)) return false;
+          seen.add(key);
+          return true;
+        }).slice(0, 30);
+        
+        console.log(`  📚 RAG found ${ragMatches.length} matching questions and ${topImportantRepeated.length} important + repeated questions`);
+      }
+
       return res.json({
         success: true,
         anthropicUsed: false,
         usedVision,
         trainedModelUsed: true,
         analysis: trainedMatch,
+        ragMatches: {
+          totalFound: ragMatches.length,
+          questions: ragMatches
+        },
+        topImportantRepeated: {
+          totalFound: topImportantRepeated.length,
+          questions: topImportantRepeated
+        }
       });
     }
 
@@ -736,17 +790,65 @@ app.post('/api/analyze-syllabus', (req, res, next) => {
         if (!parsed) throw new Error('Claude returned non-JSON response');
 
         const localQuestions = buildLocalAnalysis(syllabusText);
+        
+        // Use RAG to find up to 30 matching questions
+        let ragMatches = [];
+        if (ragBridge.initialized) {
+          const topTopics = parsed.topPredictions
+            ?.slice(0, 5)
+            ?.map(t => t.topic)
+            .join(' ') || syllabusText.substring(0, 500);
+          ragMatches = ragBridge.comprehensiveSearch({
+            keywords: topTopics,
+            limit: 30
+          });
+          console.log(`  📚 RAG found ${ragMatches.length} matching questions`);
+        }
+        
         analysis = {
           ...parsed,
           exactQuestions: localQuestions.exactQuestions,
           source: 'anthropic-claude',
           inputCharacters: syllabusText.length,
+          ragMatches: {
+            totalFound: ragMatches.length,
+            questions: ragMatches
+          }
         };
         anthropicUsed = true;
         console.log('  ✅ Claude analysis complete');
       } catch (aErr) {
         console.warn('  ⚠️  Claude also failed:', aErr.message);
-        // ── STEP 4: FINAL FALLBACK — Not found ──────────────────────────────
+        
+        // ── STEP 4: Try RAG as fallback ──────────────────────────────
+        if (ragBridge.initialized) {
+          console.log('  [Step 4] Trying RAG as fallback...');
+          try {
+            const ragFallback = ragBridge.comprehensiveSearch({
+              keywords: syllabusText.substring(0, 500),
+              limit: 30
+            });
+            
+            if (ragFallback.length > 0) {
+              console.log(`  ✅ RAG fallback found ${ragFallback.length} questions`);
+              return res.status(200).json({
+                success: true,
+                anthropicUsed: false,
+                trainedModelUsed: false,
+                usedVision,
+                notFound: false,
+                source: 'rag-fallback',
+                message: 'Questions found using RAG system',
+                matchingQuestions: ragFallback,
+                totalMatches: ragFallback.length
+              });
+            }
+          } catch (ragErr) {
+            console.warn('  ⚠️  RAG fallback also failed:', ragErr.message);
+          }
+        }
+        
+        // ── STEP 5: FINAL FALLBACK — Not found ──────────────────────────────
         return res.status(200).json({
           success: false,
           anthropicUsed: false,
@@ -918,9 +1020,13 @@ app.use((err, req, res, next) => {
 });
 
 // ── START ─────────────────────────────────────────────────────────────────────
+// Register RAG routes
+app.use('/api', ragRoutes);
+
 app.listen(PORT, () => {
   console.log(`\n✅ PadhAI Backend running on http://localhost:${PORT}`);
   console.log(`   🤖 Anthropic Claude: ${process.env.ANTHROPIC_API_KEY ? 'Connected' : '⚠️ API Key Missing'}`);
+  console.log(`   📚 RAG System: ${ragBridge.initialized ? 'Ready' : 'Initializing'}`);
   console.log(`   Login: by username + password`);
   console.log(`   Email: @gmail.com only\n`);
 });

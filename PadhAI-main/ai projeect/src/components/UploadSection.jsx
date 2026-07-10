@@ -416,6 +416,77 @@ const UploadSection = () => {
                   </div>
                 )}
 
+                {/* Top 30 Important + Repeated Questions */}
+                {result.topImportantRepeated?.questions?.length > 0 && (
+                  <div>
+                    <h4 className="font-space font-semibold" style={{ color: '#0a0a0a', fontSize: '14px', marginBottom: '12px', display: 'flex', alignItems: 'center', gap: '8px' }}>
+                      <span style={{ display: 'inline-flex', alignItems: 'center', justifyContent: 'center', width: '24px', height: '24px', borderRadius: '50%', background: 'linear-gradient(135deg, #f59e0b, #ef4444)', color: '#fff', fontWeight: 'bold', fontSize: '12px' }}>⭐</span>
+                      30 Most Important & Repeated Questions
+                    </h4>
+                    <p className="font-space" style={{ fontSize: '12px', color: '#666', marginBottom: '12px' }}>
+                      These are the questions that appear most frequently in past papers. Focus on these topics for your exam preparation!
+                    </p>
+                    <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '12px', maxHeight: '800px', overflowY: 'auto', paddingRight: '4px' }}>
+                      {result.topImportantRepeated.questions.slice(0, 30).map((q, i) => (
+                        <motion.div
+                          key={i}
+                          initial={{ opacity: 0, y: 10 }}
+                          animate={{ opacity: 1, y: 0 }}
+                          transition={{ delay: i * 0.02 }}
+                          style={{
+                            background: 'linear-gradient(135deg, rgba(34,197,94,0.05), rgba(16,185,129,0.05))',
+                            border: '1px solid rgba(34,197,94,0.2)',
+                            borderRadius: '12px',
+                            padding: '14px',
+                            display: 'flex',
+                            flexDirection: 'column',
+                            gap: '8px'
+                          }}
+                        >
+                          {/* Rank & Importance */}
+                          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                            <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                              <span className="font-orbitron font-bold" style={{ fontSize: '14px', color: '#22c55e', background: 'rgba(34,197,94,0.15)', padding: '2px 8px', borderRadius: '100px' }}>#{q.importanceRank}</span>
+                              <span className="font-space" style={{ fontSize: '11px', fontWeight: 600, color: q.occurrence_count >= 5 ? '#ef4444' : q.occurrence_count >= 3 ? '#f59e0b' : '#3b82f6', background: q.occurrence_count >= 5 ? 'rgba(239,68,68,0.1)' : q.occurrence_count >= 3 ? 'rgba(245,158,11,0.1)' : 'rgba(59,130,246,0.1)', padding: '2px 8px', borderRadius: '4px' }}>
+                                {q.importance}
+                              </span>
+                            </div>
+                            <span className="font-space font-bold" style={{ fontSize: '12px', color: '#06b6d4' }}>{q.likelihood}% likely</span>
+                          </div>
+
+                          {/* Question Text */}
+                          <p className="font-space" style={{ color: '#0a0a0a', fontSize: '12px', lineHeight: 1.6, margin: 0 }}>
+                            {q.question_text?.substring(0, 120)}...
+                          </p>
+
+                          {/* Metadata Tags */}
+                          <div style={{ display: 'flex', gap: '6px', flexWrap: 'wrap' }}>
+                            <span className="font-space" style={{ fontSize: '10px', color: '#3b82f6', background: 'rgba(59,130,246,0.08)', border: '1px solid rgba(59,130,246,0.2)', padding: '2px 8px', borderRadius: '100px' }}>{q.topic}</span>
+                            <span className="font-space" style={{ fontSize: '10px', color: '#666', background: '#f5f5f5', border: '1px solid #e8e8e8', padding: '2px 8px', borderRadius: '100px' }}>{q.difficulty}</span>
+                            <span className="font-space" style={{ fontSize: '10px', color: '#22c55e', background: 'rgba(34,197,94,0.08)', border: '1px solid rgba(34,197,94,0.2)', padding: '2px 8px', borderRadius: '100px' }}>Freq: {q.occurrence_count}x</span>
+                          </div>
+
+                          {/* Frequency Score Bar */}
+                          <div style={{ marginTop: '4px' }}>
+                            <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '2px' }}>
+                              <span className="font-space" style={{ fontSize: '9px', color: '#999' }}>Frequency Score</span>
+                              <span className="font-orbitron font-bold" style={{ fontSize: '10px', color: '#22c55e' }}>{q.frequencyScore}%</span>
+                            </div>
+                            <div style={{ height: '3px', background: '#e8e8e8', borderRadius: '2px', overflow: 'hidden' }}>
+                              <motion.div
+                                style={{ height: '100%', background: 'linear-gradient(90deg, #22c55e, #10b981)', borderRadius: '2px' }}
+                                initial={{ width: 0 }}
+                                animate={{ width: `${q.frequencyScore}%` }}
+                                transition={{ duration: 0.6, delay: i * 0.02 }}
+                              />
+                            </div>
+                          </div>
+                        </motion.div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
                 {/* Units */}
                 {result.units?.length > 0 && (
                   <div>
