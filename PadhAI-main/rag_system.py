@@ -17,14 +17,14 @@ try:
     HAS_EMBEDDINGS = True
 except ImportError:
     HAS_EMBEDDINGS = False
-    print("⚠️  sentence-transformers not installed. Install with: pip install sentence-transformers")
+    print("Warning: sentence-transformers not installed. Install with: pip install sentence-transformers")
 
 try:
     from sklearn.metrics.pairwise import cosine_similarity
     HAS_SKLEARN = True
 except ImportError:
     HAS_SKLEARN = False
-    print("⚠️  scikit-learn not installed. Install with: pip install scikit-learn")
+    print("Warning: scikit-learn not installed. Install with: pip install scikit-learn")
 
 
 class RAGSystem:
@@ -43,7 +43,7 @@ class RAGSystem:
         self.vector_store = {}
         
         if HAS_EMBEDDINGS:
-            print("📚 Loading embedding model...")
+            print("Loading embedding model...")
             self.embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
         
         self.questions_data = []
@@ -53,13 +53,25 @@ class RAGSystem:
     def load_datasets(self) -> bool:
         """Load training and topics datasets"""
         try:
-            # Load training dataset
-            training_file = self.data_dir / "training-dataset.csv"
-            if training_file.exists():
-                with open(training_file, 'r', encoding='utf-8') as f:
-                    reader = csv.DictReader(f)
-                    self.questions_data = list(reader)
-                print(f"✅ Loaded {len(self.questions_data)} questions")
+            # Load training datasets for all 4 years
+            csv_files = [
+                "1st_year_questions.csv",
+                "2nd_year_questions.csv",
+                "3rd_year_questions.csv",
+                "4th_year_questions.csv"
+            ]
+            questions = []
+            for filename in csv_files:
+                filepath = self.data_dir / filename
+                if filepath.exists():
+                    with open(filepath, 'r', encoding='utf-8') as f:
+                        reader = csv.DictReader(f)
+                        rows = list(reader)
+                        questions.extend(rows)
+                        print(f"Loaded {len(rows)} questions from {filename}")
+            
+            self.questions_data = questions
+            print(f"Loaded total {len(self.questions_data)} questions across all years")
             
             # Load important topics
             topics_file = self.data_dir / "important_topics_3rd_year.csv"
@@ -67,11 +79,11 @@ class RAGSystem:
                 with open(topics_file, 'r', encoding='utf-8') as f:
                     reader = csv.DictReader(f)
                     self.topics_data = list(reader)
-                print(f"✅ Loaded {len(self.topics_data)} topics")
+                print(f"Loaded {len(self.topics_data)} topics")
             
             return len(self.questions_data) > 0
         except Exception as e:
-            print(f"❌ Error loading datasets: {e}")
+            print(f"Error loading datasets: {e}")
             return False
     
     def optimize_dataset(self) -> List[Dict]:
@@ -82,7 +94,7 @@ class RAGSystem:
         - Categorizing by difficulty
         - Enriching metadata
         """
-        print("\n🔄 Optimizing dataset...")
+        print("\nOptimizing dataset...")
         
         seen_questions = set()
         optimized = []
@@ -117,16 +129,16 @@ class RAGSystem:
             optimized.append(enriched_item)
         
         self.optimized_dataset = optimized
-        print(f"✅ Optimized dataset: {len(optimized)} unique questions")
+        print(f"Optimized dataset: {len(optimized)} unique questions")
         return optimized
     
     def generate_embeddings(self) -> bool:
         """Generate embeddings for all questions"""
         if not HAS_EMBEDDINGS or not self.embedding_model:
-            print("⚠️  Embeddings disabled (sentence-transformers not installed)")
+            print("Warning: Embeddings disabled (sentence-transformers not installed)")
             return False
         
-        print("\n📈 Generating embeddings...")
+        print("\nGenerating embeddings...")
         
         try:
             for item in self.optimized_dataset:
@@ -135,10 +147,10 @@ class RAGSystem:
                 item['embedding'] = embedding.tolist()
                 self.embeddings_cache[item['id']] = embedding
             
-            print(f"✅ Generated embeddings for {len(self.optimized_dataset)} questions")
+            print(f"Generated embeddings for {len(self.optimized_dataset)} questions")
             return True
         except Exception as e:
-            print(f"❌ Error generating embeddings: {e}")
+            print(f"Error generating embeddings: {e}")
             return False
     
     def retrieve_similar_questions(self, query: str, top_k: int = 5) -> List[Dict]:
@@ -268,10 +280,10 @@ USER REQUEST:
             with open(output_file, 'w', encoding='utf-8') as f:
                 json.dump(serializable_data, f, indent=2, ensure_ascii=False)
             
-            print(f"✅ Saved optimized dataset to {output_file}")
+            print(f"Saved optimized dataset to {output_file}")
             return True
         except Exception as e:
-            print(f"❌ Error saving dataset: {e}")
+            print(f"Error saving dataset: {e}")
             return False
     
     def save_embeddings(self, output_file: str = None) -> bool:
@@ -288,10 +300,10 @@ USER REQUEST:
             with open(output_file, 'wb') as f:
                 pickle.dump(self.embeddings_cache, f)
             
-            print(f"✅ Saved embeddings to {output_file}")
+            print(f"Saved embeddings to {output_file}")
             return True
         except Exception as e:
-            print(f"❌ Error saving embeddings: {e}")
+            print(f"Error saving embeddings: {e}")
             return False
     
     def generate_report(self) -> Dict:
@@ -316,14 +328,14 @@ USER REQUEST:
 
 def main():
     """Main function to set up and test the RAG system"""
-    print("🚀 PadhAI RAG System Initialization\n")
+    print("PadhAI RAG System Initialization\n")
     
     # Initialize RAG system
     rag = RAGSystem(data_dir="./data")
     
     # Load datasets
     if not rag.load_datasets():
-        print("❌ Failed to load datasets")
+        print("Failed to load datasets")
         return
     
     # Optimize dataset
@@ -339,12 +351,12 @@ def main():
     rag.save_embeddings()
     
     # Print report
-    print("\n📊 RAG System Report:")
+    print("\nRAG System Report:")
     report = rag.generate_report()
     print(json.dumps(report, indent=2))
     
     # Test retrieval
-    print("\n🧪 Testing Retrieval (sample query):")
+    print("\nTesting Retrieval (sample query):")
     test_query = "artificial intelligence machine learning"
     similar = rag.retrieve_similar_questions(test_query, top_k=3)
     print(f"Found {len(similar)} similar questions")
@@ -352,11 +364,11 @@ def main():
         print(f"  {i}. {q.get('question_text', q.get('normalized_question', 'N/A'))[:80]}...")
     
     # Test context building
-    print("\n📝 Sample Context Prompt:")
+    print("\nSample Context Prompt:")
     context = rag.build_context_prompt(test_query, user_topic="ARTIFICIAL INTELLIGENCE")
     print(context[:500] + "...")
     
-    print("\n✅ RAG System initialized successfully!")
+    print("\nRAG System initialized successfully!")
 
 
 if __name__ == "__main__":

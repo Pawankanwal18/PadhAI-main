@@ -13,22 +13,22 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 def main():
     print("=" * 70)
-    print("🚀 PadhAI RAG System - Quick Setup")
+    print("PadhAI RAG System - Quick Setup")
     print("=" * 70)
     
     # Try to import RAG system
     try:
         from rag_system import RAGSystem
-        print("✅ RAG system module imported successfully")
+        print("RAG system module imported successfully")
     except Exception as e:
-        print(f"❌ Failed to import RAG system: {e}")
+        print(f"Failed to import RAG system: {e}")
         print("\nInstalling required packages...")
         os.system("pip install pandas scikit-learn sentence-transformers numpy")
         try:
             from rag_system import RAGSystem
-            print("✅ RAG system module imported successfully after installing dependencies")
+            print("RAG system module imported successfully after installing dependencies")
         except Exception as e2:
-            print(f"❌ Still failed to import: {e2}")
+            print(f"Still failed to import: {e2}")
             return False
     
     # Initialize RAG
@@ -39,30 +39,30 @@ def main():
     rag = RAGSystem(data_dir="./data")
     
     # Load datasets
-    print("\n📂 Loading datasets...")
+    print("\nLoading datasets...")
     if not rag.load_datasets():
-        print("❌ Failed to load datasets")
+        print("Failed to load datasets")
         return False
     
     # Optimize dataset
-    print("\n🔄 Optimizing dataset...")
+    print("\nOptimizing dataset...")
     rag.optimize_dataset()
     
     # Generate embeddings
-    print("\n📈 Generating embeddings...")
+    print("\nGenerating embeddings...")
     rag.generate_embeddings()
     
     # Save optimized dataset
-    print("\n💾 Saving optimized dataset...")
+    print("\nSaving optimized dataset...")
     rag.save_optimized_dataset()
     
     # Save embeddings
-    print("\n💾 Saving embeddings...")
+    print("\nSaving embeddings...")
     rag.save_embeddings()
     
     # Print report
     print("\n" + "=" * 70)
-    print("📊 RAG System Report")
+    print("RAG System Report")
     print("=" * 70)
     report = rag.generate_report()
     for key, value in report.items():
@@ -70,7 +70,7 @@ def main():
     
     # Test retrieval
     print("\n" + "=" * 70)
-    print("🧪 Testing Retrieval")
+    print("Testing Retrieval")
     print("=" * 70)
     
     test_queries = [
@@ -88,14 +88,14 @@ def main():
     
     # Test context building
     print("\n" + "=" * 70)
-    print("📝 Sample Context Prompt")
+    print("Sample Context Prompt")
     print("=" * 70)
     context = rag.build_context_prompt("artificial intelligence", user_topic="ARTIFICIAL INTELLIGENCE")
     print(context[:500] + "...\n[truncated]")
     
     # Topic statistics
     print("\n" + "=" * 70)
-    print("📊 Topic Statistics (Top 10)")
+    print("Topic Statistics (Top 10)")
     print("=" * 70)
     stats = rag.get_topic_statistics()
     sorted_stats = sorted(stats.items(), key=lambda x: x[1]['count'], reverse=True)[:10]
@@ -106,9 +106,9 @@ def main():
               f"Hard={data['difficulties']['hard']}")
     
     print("\n" + "=" * 70)
-    print("✅ RAG System initialized successfully!")
+    print("RAG System initialized successfully!")
     print("=" * 70)
-    print("\n📌 Next Steps:")
+    print("\nNext Steps:")
     print("1. Start backend: cd 'ai projeect/backend' && node server.js")
     print("2. Test RAG endpoints: curl http://localhost:3001/api/rag/health")
     print("3. Check documentation: RAG_SETUP_GUIDE.md")

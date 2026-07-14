@@ -1,0 +1,1084 @@
+year,sample_question_id,normalized_question,question_text,topic,source_file,occurrence_count,first_line
+4th Year,618e82323171,attempt any two parts of the following,Attempt any TWO parts of the following,General Computer Science,4th-year.pdf,3,1188
+4th Year,f7c1380a0d71,explain,Explain.,General Computer Science,4th-year.pdf,3,1854
+4th Year,534e8c894772,t o,T.O.,General Computer Science,4th-year.pdf,3,3001
+4th Year,c95ee47689a0,tech,TECH. (SEMESTER-VII),B.TECH. (SEMESTER-VII),4th-year.pdf,3,5611
+4th Year,ef44c3d7b52f,a explain web service architecture,a) Explain Web Service Architecture?,Web Technology,4th-year.pdf,2,2595
+4th Year,d31ca9c7cee7,a write a note on the history of the internet www,a) Write a note on the History of the Internet & WWW?,General Computer Science,4th-year.pdf,2,2563
+4th Year,486d23e66ff1,answer any two questions,Answer any two questions.,General Computer Science,4th-year.pdf,2,2636
+4th Year,618e82323171,attempt any two parts of the following,Attempt any TWO parts of the following,5 X 4,4th-year.pdf,2,1168
+4th Year,940caa152261,c explain the concept of corba,c) Explain the concept of CORBA?,General Computer Science,4th-year.pdf,2,2601
+4th Year,b48d1fd0843f,c what do you mean by semantic web,c) What do you mean by Semantic Web?,Web Technology,4th-year.pdf,2,2628
+4th Year,2d7fb21ec286,can be improved,can be improved?,General Computer Science,4th-year.pdf,2,2599
+4th Year,8d1e65e3bddf,data warehouse,data warehouse?,General Computer Science,4th-year.pdf,2,4524
+4th Year,b44c5233056d,describe rich site summary syndication,Describe Rich Site Summary & Syndication.,General Computer Science,4th-year.pdf,2,2634
+4th Year,3c78b3a28519,differentiate between web usage mining web structure mining web,"Differentiate between Web usage mining, Web Structure Mining, Web",Web Technology,4th-year.pdf,2,2648
+4th Year,a1692cb50155,explain in detail,Explain in detail.,General Computer Science,4th-year.pdf,2,1012
+4th Year,c6a32efeef87,mining,Mining?,General Computer Science,4th-year.pdf,2,2651
+4th Year,a986054ae7ef,object in java script,object in Java script?,General Computer Science,4th-year.pdf,2,2585
+4th Year,033fe3a48963,recommended systems,Recommended Systems?,General Computer Science,4th-year.pdf,2,2646
+4th Year,e64a2d724f94,suitable block diagram,Suitable Block Diagram?,General Computer Science,4th-year.pdf,2,2642
+4th Year,534e8c894772,t o,T.O,General Computer Science,4th-year.pdf,2,2907
+4th Year,c95ee47689a0,tech,TECH (CSE) (SEMESTER-VII),B.TECH (CSE) (SEMESTER-VII),4th-year.pdf,2,4609
+4th Year,c95ee47689a0,tech,Tech. (VIII Semester),General Computer Science,4th-year.pdf,2,2544
+4th Year,ca84d1343b96,web,web?,Web Technology,4th-year.pdf,2,2624
+4th Year,a26765e386cb,what is web mining,(c) What is Web Mining?,Web Technology,4th-year.pdf,2,2648
+4th Year,1a905a556b23,with java script,with Java Script?,General Computer Science,4th-year.pdf,2,2581
+4th Year,7115134e31d4,a briefly explain the major task in data preprocessing,a) Briefly explain the major task in data preprocessing?,General Computer Science,4th-year.pdf,1,4591
+4th Year,320249b80f5d,a coordinating process to what extent can such algorithms actually be considered distributed,a coordinating process. To what extent 35 can such algorithms actually be considered distributed?,Distributed Systems,4th-year.pdf,1,2481
+4th Year,0ad044ac31be,a define system process how can you kill a process through command line,a. Define system process. How can you kill a process through command line?,Operating Systems,4th-year.pdf,1,6688
+4th Year,196e6688934c,a distinguish between supervised learning and unsupervised learning,a) Distinguish between supervised learning and unsupervised learning?,Soft Computing,4th-year.pdf,1,6287
+4th Year,18e6bde76068,a explain in detail ant colony based optimization,a) Explain in detail Ant colony based optimization?,General Computer Science,4th-year.pdf,1,6352
+4th Year,e197fbb94d41,a explain various activation functions used in ann,a) Explain various activation functions used in ANN?,Soft Computing,4th-year.pdf,1,6270
+4th Year,5e98d65e9208,a illustrate the mutation process in ga,a) Illustrate the Mutation process in GA?,Operating Systems,4th-year.pdf,1,1597
+4th Year,d9d0efec945c,a what are shadow files,a) What are shadow files?,General Computer Science,4th-year.pdf,1,6858
+4th Year,2ddee78a3ea0,a what are the main features of nfs and nfs daemons,a) What are the main features of NFS and NFS daemons?,LDAP?,4th-year.pdf,1,6457
+4th Year,e86a44e5aafa,a what do you mean by data warehousing,a) What do you mean by data warehousing?,General Computer Science,4th-year.pdf,1,4579
+4th Year,fd27c13236c9,a what do you mean by neural network,a) What do you mean by neural network?,Computer Networks,4th-year.pdf,1,1581
+4th Year,96d2240d7e3a,a what is a decision tree,a) What is a decision tree?,Machine Learning,4th-year.pdf,1,4558
+4th Year,16dfcbbb2f5d,a what is a security attack,a) What is a security attack?,General Computer Science,4th-year.pdf,1,5540
+4th Year,013892d13d17,a what is a signal driver,a) What is a signal driver?,General Computer Science,4th-year.pdf,1,4839
+4th Year,91af27617a60,a what is ad hoc network,a) What is Ad hoc network?,Computer Networks,4th-year.pdf,1,1451
+4th Year,4bb4a628f857,a what is cryptography,a) What is cryptography?,Cryptography and Network Security,4th-year.pdf,1,5577
+4th Year,b860164560fd,a what is defuzzification,a) What is Defuzzification?,Soft Computing,4th-year.pdf,1,6303
+4th Year,bbed9f00df22,a what is denial of service attack,a) What is denial of service attack?,General Computer Science,4th-year.pdf,1,1854
+4th Year,4973d6405bb8,a what is encryption,a) What is encryption?,Cryptography and Network Security,4th-year.pdf,1,5597
+4th Year,b5574f087105,a what is lvm,a) What is LVM?,10X2,4th-year.pdf,1,6449
+4th Year,476536fc88b5,a what is meant by swap space and partitions,a) What is meant by swap space and partitions?,General Computer Science,4th-year.pdf,1,6390
+4th Year,2fa180fe53f1,a what is modulation,a) What is modulation?,NETWORKS,4th-year.pdf,1,1479
+4th Year,540b0af9112d,a what is process,a) What is process?,Operating Systems,4th-year.pdf,1,6410
+4th Year,ba676c75298c,a what is the role of a system administrator,a) What is the Role of a system administrator?,010X20-80T,4th-year.pdf,1,6434
+4th Year,190d05e527e1,a why scanning is needed in tv,a) Why scanning is needed in TV?,General Computer Science,4th-year.pdf,1,6951
+4th Year,7aeb176daaab,a write a short note on ado net providers,a) Write a short note on ADO.Net Providers?,General Computer Science,4th-year.pdf,1,64
+4th Year,532c6b9c1d6c,a write a short note on xml,a) Write a short note on XML?,Web Technology,4th-year.pdf,1,84
+4th Year,9a697a34a5d6,a write short notes on inheritance,a) Write short notes on Inheritance?,General Computer Science,4th-year.pdf,1,56
+4th Year,65e852b48b91,algorithm remove the possibility of deadlock detection,algorithm remove the possibility of deadlock detection?,Distributed Systems,4th-year.pdf,1,4989
+4th Year,8a64a32f9aa7,algorithm with proper examples,Algorithm with proper examples?,General Computer Science,4th-year.pdf,1,5883
+4th Year,56465d95acaf,along with its working,along with its working?,General Computer Science,4th-year.pdf,1,6059
+4th Year,c06c87123e0a,also discuss the strength of des,Also discuss the strength of DES,Cryptography and Network Security,4th-year.pdf,1,2153
+4th Year,098350c06fc0,also explain grid architecture,Also explain grid architecture,General Computer Science,4th-year.pdf,1,5023
+4th Year,072e3c404e3f,also give,Also give,General Computer Science,4th-year.pdf,1,427
+4th Year,0344388634c4,also name a few methods to defend against such,Also name a few methods to defend against such,General Computer Science,4th-year.pdf,1,2081
+4th Year,1465ab89efd9,also write what,Also write what,SYSTEM ADMINISTRATION,4th-year.pdf,1,6527
+4th Year,b48e6d0285f4,an analysis company xyz records reveals that if the value of the quality characteristics exceeds the target by the tolerance of and on either side the product is likely to be failing during the warranty period and cost rs for repair determine the total loss use taguchi s loss function for a deviation of,"020. An analysis company XYZ records reveals that if the value of the quality characteristics exceeds the target 1.00 by the tolerance of 0.020 and on either side (i.e. 0.020) the product is likely to be failing during the warranty period and cost Rs. 100/- for repair. Determine the total loss, use Taguchi's Loss function for a deviation of 0.010.",General Computer Science,4th-year.pdf,1,4075
+4th Year,a619f2226dd2,an example,an  example?,General Computer Science,4th-year.pdf,1,57
+4th Year,6257f84cd8ec,analyze,Analyze,"EXAMINATION, 2024 – 25",4th-year.pdf,1,1246
+4th Year,98e4b78fec15,analyze the,Analyze the,Cryptography and Network Security,4th-year.pdf,1,2211
+4th Year,6bb4ffabb5f7,analyze the impact of shared resources and multi tenancy on cloud app,(c) Analyze the impact of shared resources and Multi-Tenancy on cloud app?,Cloud Computing,4th-year.pdf,1,7074
+4th Year,430a753708c8,and an ssl session,and an SSL session?,General Computer Science,4th-year.pdf,1,7173
+4th Year,5def3eb0e173,and application of ga,and application of GA?,General Computer Science,4th-year.pdf,1,6043
+4th Year,452cb80a2978,and segmentation,and  segmentation?,General Computer Science,4th-year.pdf,1,1369
+4th Year,3d2f44b94d80,and what are the architectural influences of soa on cloud design,and  what are the architectural influences of SOA on cloud design?,Cloud Computing,4th-year.pdf,1,1774
+4th Year,b90bdc5fad95,answer any two parts of the following a illustrate clr,Answer any two parts of the following. (10x2= 20) a) (i) Illustrate CLR?,General Computer Science,4th-year.pdf,1,110
+4th Year,988eab237b7d,answer any two parts of the following a what is fuzzification,Answer any two parts of the following. (10x2= 20) a) (i) What is fuzzification?,General Computer Science,4th-year.pdf,1,5872
+4th Year,b2305615d19f,answer any two parts of the following a what is paas,Answer any two parts of the following. (10x2= 20) a) (i)What is PaaS?,Cloud Computing,4th-year.pdf,1,1659
+4th Year,e5afeaf84ff5,answer any two parts of the following a what is s mime,Answer any two parts of the following. (10x2= 20) a) (i) What is S/MIME?,Cryptography and Network Security,4th-year.pdf,1,2013
+4th Year,bb31856f2230,answer any two parts of the following a what is zfs,Answer any two parts of the following. (10x2= 20) a) (i) What is ZFS?,"EXAMINATION, 2024 – 25",4th-year.pdf,1,1298
+4th Year,1a2419796a23,applications b what is genetic neuro hybrid systems,applications. (5 marks) b) What is Genetic Neuro-Hybrid Systems?,General Computer Science,4th-year.pdf,1,5884
+4th Year,f380cbcd9a79,architecture,Architecture?,Web Technology,4th-year.pdf,1,7246
+4th Year,f380cbcd9a79,architecture,architecture?,BCST-802/BITT-802,4th-year.pdf,1,7135
+4th Year,8334ff39e8b0,architecture why do we use a large register file in risc,architecture. Why do we use a large register file in RISC?,General Computer Science,4th-year.pdf,1,3244
+4th Year,607f4d133311,are the issues in routing protocols in wireless network,are the issues in routing protocols in wireless network?,Computer Networks,4th-year.pdf,1,1456
+4th Year,edc19431d7c6,arsexplain different classes of mheg model,arsExplain different classes of MHEG model.,"(SEM. VIII) EXAMINATION, 2012 MULTIMEDIA COMMUNICATION & SYSTEM DESIGN",4th-year.pdf,1,3751
+4th Year,108d448f9b4a,as unsupervised learning,as unsupervised learning?,Machine Learning,4th-year.pdf,1,4442
+4th Year,d806dfd9b354,attempt any four all question carry equal marks,1. Attempt any four. All question carry equal marks,General Computer Science,4th-year.pdf,1,4518
+4th Year,d806dfd9b354,attempt any four all question carry equal marks,2. Attempt any four. All question carry equal marks.,General Computer Science,4th-year.pdf,1,4536
+4th Year,d78e011c1176,attempt any four parts,2 Attempt any four parts:,General Computer Science,4th-year.pdf,1,4924
+4th Year,eff23463dd3b,attempt any four parts of the following,Attempt any FOUR parts of the following,General Computer Science,4th-year.pdf,1,2090
+4th Year,eff23463dd3b,attempt any four parts of the following,Attempt any FOUR parts of the following,"CSE, VIII",4th-year.pdf,1,1138
+4th Year,eff23463dd3b,attempt any four parts of the following,Attempt any FOUR parts of the following.,"CSE, VIII",4th-year.pdf,1,1122
+4th Year,eff23463dd3b,attempt any four parts of the following,Attempt any FOUR parts of the following.,NOTE:,4th-year.pdf,1,2054
+4th Year,9563afbdefb3,attempt any four question,1 Attempt any four question.,General Computer Science,4th-year.pdf,1,5538
+4th Year,ff14e1c3a6cc,attempt any four questions,2 Attempt any four questions,General Computer Science,4th-year.pdf,1,5556
+4th Year,ff14e1c3a6cc,attempt any four questions,Attempt any four Questions:,Cryptography and Network Security,4th-year.pdf,1,2189
+4th Year,60b7956a33b0,attempt any two all question carry equal marks,3. Attempt any two. All question carry equal marks.,General Computer Science,4th-year.pdf,1,4554
+4th Year,60b7956a33b0,attempt any two all question carry equal marks,4. Attempt any two. All question carry equal marks,General Computer Science,4th-year.pdf,1,4575
+4th Year,60b7956a33b0,attempt any two all question carry equal marks,5. Attempt any two. All question carry equal marks,General Computer Science,4th-year.pdf,1,4587
+4th Year,bb68653b1cdc,attempt any two parts,Attempt any two parts-,General Computer Science,4th-year.pdf,1,2909
+4th Year,618e82323171,attempt any two parts of the following,Attempt any TWO parts of the following,General Computer Science,4th-year.pdf,1,2145
+4th Year,b4084b27c67c,attempt any two questions,3 Attempt any two questions,General Computer Science,4th-year.pdf,1,5572
+4th Year,b4084b27c67c,attempt any two questions,4 Attempt any two questions),General Computer Science,4th-year.pdf,1,5583
+4th Year,b4084b27c67c,attempt any two questions,5 Attempt any two questions,General Computer Science,4th-year.pdf,1,5593
+4th Year,d183ed23b574,aw what do you mean by distributed objects,AW10×2=20 (a) What do you mean by distributed objects?,Distributed Systems,4th-year.pdf,1,2511
+4th Year,7590ff1778a1,b are false rejects which model should you choose,B are false rejects. Which model should you choose?,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,5235
+4th Year,fbb4924d61e7,b describe,b) Describe,General Computer Science,4th-year.pdf,1,57
+4th Year,98e6390ac6cd,b discuss the challenges of security in computing,b) Discuss the challenges of security in computing?,General Computer Science,4th-year.pdf,1,5542
+4th Year,caec9c1cc671,b discuss the classification of routing protocol in wireless network,b) Discuss the classification of routing protocol in wireless network?,Computer Networks,4th-year.pdf,1,1468
+4th Year,dfdef3d71122,b explain a single layer net and multilayer net,b) Explain a single layer net and multilayer net?,Soft Computing,4th-year.pdf,1,6289
+4th Year,3eeee7a4fda3,b explain fuzzy,(5 marks) b) Explain fuzzy,Soft Computing,4th-year.pdf,1,5868
+4th Year,e2bb14b52cd1,b explain in details about creating and consuming ajax,b) Explain in details about Creating and consuming AJAX?,Web Technology,4th-year.pdf,1,85
+4th Year,fbc4980af248,b explain what do you mean by user management commands,b) Explain what do you mean by User management commands?,General Computer Science,4th-year.pdf,1,6826
+4th Year,dcaef8e3d6af,b given a,b) Given a,Soft Computing,4th-year.pdf,1,6303
+4th Year,46b0cf013e48,b how does pgp use the concept of trust,b) How does PGP use the concept of trust?,Cryptography and Network Security,4th-year.pdf,1,2017
+4th Year,b5603fabe1c7,b how does virtualization impact cloud security management,b) How does virtualization impact cloud security management?,Cloud Computing,4th-year.pdf,1,1683
+4th Year,30ba5708c994,b how is data prepared for classification and prediction,b) How is data prepared for classification and prediction?,Machine Learning,4th-year.pdf,1,4544
+4th Year,da991468864b,b how is the training algorithm performed in back propagation neural networks,b) How is the training algorithm performed in back-propagation neural networks?,General Computer Science,4th-year.pdf,1,1584
+4th Year,0ccdbdcaad6b,b what are the components of a wireless communication link,b) What are the components of a wireless communication link?,General Computer Science,4th-year.pdf,1,7529
+4th Year,48d169e5338d,b what do you mean by starting and stopping nfs b,b) What do you mean by starting and stopping NFS?b,General Computer Science,4th-year.pdf,1,6396
+4th Year,bd154a123edf,b what is ieee networking standard,b) What is IEEE 802.11 networking standard?,NETWORKS,4th-year.pdf,1,1482
+4th Year,48fd6dc61306,b what is kell factor and flicker,b) What is Kell factor and flicker ?,General Computer Science,4th-year.pdf,1,6923
+4th Year,f436e16dfe15,b what is market basket analysis,b) What is market basket analysis?,General Computer Science,4th-year.pdf,1,4595
+4th Year,9332b51c4e3a,b what is neural network architecture,b) What is Neural Network Architecture?,Soft Computing,4th-year.pdf,1,6275
+4th Year,513b08868680,b what is nis,b) What is NIS?,LDAP?,4th-year.pdf,1,6462
+4th Year,036d38250f51,b what is s box substitution,b) What is S-Box Substitution?,Cryptography and Network Security,4th-year.pdf,1,1980
+4th Year,77b65709331f,b what is the celluler network,b) What is the Celluler network?,Computer Networks,4th-year.pdf,1,1453
+4th Year,ab9358aa7750,b what is the euler s theorem,b) What is the Euler's theorem?,Cryptography and Network Security,4th-year.pdf,1,1967
+4th Year,9297ffce2bae,b what is the md algorithm,b) What is the MD5 Algorithm?,Cryptography and Network Security,4th-year.pdf,1,1993
+4th Year,90dd7ed159f1,b what is the purpose of the x standard,b) What is the purpose of the X.509 standard?,Cryptography and Network Security,4th-year.pdf,1,2005
+4th Year,8498bf060fd5,b what is virtualization in cloud infrastructure,b) What is virtualization in cloud infrastructure?,Cloud Computing,4th-year.pdf,1,1650
+4th Year,9b9aeb2bb086,b why message authentication is required,b) Why Message Authentication is required?,General Computer Science,4th-year.pdf,1,1932
+4th Year,248a20b62efb,background,background?,General Computer Science,4th-year.pdf,1,6416
+4th Year,248a20b62efb,background,background?,General Computer Science,4th-year.pdf,1,6848
+4th Year,cd2ed9a72a7e,based protocols,based protocols?,General Computer Science,4th-year.pdf,1,2902
+4th Year,5e088ab9f61e,be employed to mitigate its adverse effects,be  employed to mitigate its adverse effects ?,General Computer Science,4th-year.pdf,1,7527
+4th Year,1ab7a3b97e04,brhow does cdma allow each station to transmit the entire frequency spectrum all the time,(e)brHow does CDMA allow each station to transmit  the entire frequency spectrum all the time?,MOBILE COMPUTING,4th-year.pdf,1,3634
+4th Year,d136dfedaddb,briefly describe different elements of hypertext,(a) Briefly describe different elements of hypertext?,General Computer Science,4th-year.pdf,1,3814
+4th Year,12bbbc3c1f65,briefly explain the difference between dom sax parser,Briefly explain the difference between DOM & SAX Parser?,Web Technology,4th-year.pdf,1,7215
+4th Year,57604ace5ff2,briefly explain the different message authentication functions with neat diagrams,Briefly explain the different message authentication functions with neat diagrams?,General Computer Science,4th-year.pdf,1,2139
+4th Year,bab0be3ab403,briefly explain the diffie hellman key exchange algorithm,(F) Briefly explain the Diffie Hellman Key Exchange algorithm?,Cryptography and Network Security,4th-year.pdf,1,2130
+4th Year,eaf9d4c5f096,c elaborate what do you understand by in config command,"c) Elaborate what do you understand by ""in-config"" command?",General Computer Science,4th-year.pdf,1,6846
+4th Year,abc9331a2b5b,c explain in details about the data binding in windows forms and web forms,c) Explain in details about the Data binding in windows forms and web forms?,Web Technology,4th-year.pdf,1,77
+4th Year,1b5daa8f8396,c explain olap and its type with diagram,c) Explain OLAP and its type with diagram?,General Computer Science,4th-year.pdf,1,4585
+4th Year,9982a98eb6a6,c explain the array types of array and lists with an example,c) Explain the Array & Types of Array and lists with an example?,General Computer Science,4th-year.pdf,1,60
+4th Year,fce621452367,c explain the factors affecting back propagation training,c) Explain the factors affecting back propagation training?,Soft Computing,4th-year.pdf,1,6277
+4th Year,800df3c52899,c how can you handle error in c,c) How can you handle error in C#?,General Computer Science,4th-year.pdf,1,31
+4th Year,f1e85944fe8c,c how is user authentication managed in saas applications,c) How is user authentication managed in SaaS applications?,Cloud Computing,4th-year.pdf,1,1669
+4th Year,b2629e9ca5c1,c how we can configure firewall in linux operating system,c) How we can configure firewall in Linux operating system?,Cryptography and Network Security,4th-year.pdf,1,6876
+4th Year,f66545a0d7d0,c what are shadow files and how they work,c) What are Shadow files and how they work?,010X20-80T,4th-year.pdf,1,6441
+4th Year,368fcb877c23,c what are the issues in design of mac protocols in wireless network,c) What are the issues in design of MAC protocols in wireless network?,Computer Networks,4th-year.pdf,1,1455
+4th Year,a235d57e038b,c what are the major requirements of clustering analysis,c) What are the major requirements of clustering analysis?,Machine Learning,4th-year.pdf,1,4597
+4th Year,27b11be0cf99,c what are the technical underpinnings that make os level virtualization possible,c) What are the technical underpinnings that make OS-level virtualization possible?,Cloud Computing,4th-year.pdf,1,1246
+4th Year,77c1ff506a1e,c what are the various steps in security planning,c) What are the various steps in security planning?,General Computer Science,4th-year.pdf,1,5602
+4th Year,52ba785748b0,c what do you mean by pipeline hazard,c) What do you mean by Pipeline Hazard?,General Computer Science,4th-year.pdf,1,506
+4th Year,0804a1714a4c,c what do you understand by chinese remainder theorem,c) What do you understand by Chinese Remainder Theorem?,General Computer Science,4th-year.pdf,1,1935
+4th Year,fc0926e6dce5,c what do you understand by interleave memory,c) What do you understand by Interleave Memory?,ADVANCED COMPUTER ARCHITECTURE (TCS-702),4th-year.pdf,1,461
+4th Year,535d9975376a,c what do you understand by tournament selection,c) What do you understand by Tournament Selection?,General Computer Science,4th-year.pdf,1,6346
+4th Year,6fb78b165c7f,c what is,(10 marks)  c) What is,General Computer Science,4th-year.pdf,1,5884
+4th Year,6fb78b165c7f,c what is,c) What is,NETWORKS,4th-year.pdf,1,1468
+4th Year,01fffc968aee,c what is digital certificate,c) What is Digital Certificate?,General Computer Science,4th-year.pdf,1,1901
+4th Year,2d4ae2b0c57e,c what is microsoft hdinsight,c) What is Microsoft HDInsight?,Cloud Computing,4th-year.pdf,1,1704
+4th Year,0fcfa2f5c561,c what is shell and explain how it works,c) What is Shell and explain how it works?,Operating Systems,4th-year.pdf,1,6418
+4th Year,a36c357d18b0,c what is the difference between an ssl connection and ssl session,c) What is the difference between an SSL connection and SSL session?,Cryptography and Network Security,4th-year.pdf,1,2018
+4th Year,aa8525930477,c what is the idea behind meet in the middle attack,c) What is the idea behind meet in the middle attack?,General Computer Science,4th-year.pdf,1,1859
+4th Year,f7828dbd70c5,c what is the purpose of the digital signature standard,c) What is the purpose of the Digital Signature Standard (DSS)?,Cryptography and Network Security,4th-year.pdf,1,1995
+4th Year,be55bc573182,c what is the use of firewall,c) What is the use of firewall?,Cryptography and Network Security,4th-year.pdf,1,2007
+4th Year,db0fbfab72c3,c what is the use of i node,c) What is the use of I-node?,General Computer Science,4th-year.pdf,1,6398
+4th Year,931ff63aefa6,c what is vertical scaling in cloud computing,c) What is vertical scaling in cloud computing?,Cloud Computing,4th-year.pdf,1,1686
+4th Year,25556fa62efd,calculate the gcd of,"Calculate the GCD of (270,192).",BCST-802/BITT-802,4th-year.pdf,1,7122
+4th Year,5684ed66fb97,call traverse from api to driver,call  traverse from API to driver?,"EXAMINATION, 2024 – 25",4th-year.pdf,1,1270
+4th Year,17abe2f725bd,called light weight,called light weight?,HOBT,4th-year.pdf,1,6593
+4th Year,baa0bf65a2f0,challenges of mobile cloud computing,Challenges of Mobile Cloud Computing,Cloud Computing,4th-year.pdf,1,7068
+4th Year,001e28d8b7c9,cloud service brokerage,Cloud Service Brokerage,Cloud Computing,4th-year.pdf,1,7066
+4th Year,14d920b9b811,compare and contrast hard and soft computing,Compare and contrast hard and soft computing.,Soft Computing,4th-year.pdf,1,6117
+4th Year,3320903ca2cd,compare and contrast the methods of concurrency control for transaction,Compare and contrast the methods of concurrency control for transaction.,Database Management System,4th-year.pdf,1,4999
+4th Year,122fc629279a,compare interlaced scanning with,Compare interlaced scanning with,General Computer Science,4th-year.pdf,1,6951
+4th Year,e0cfaa4185f0,compare ipv and ipv with their header format,Compare IPV4 and IPV6 with their header format.,Computer Networks,4th-year.pdf,1,1142
+4th Year,d986b4a317c9,compare it with horizontal scaling and explain,Compare it with horizontal scaling and explain,Cloud Computing,4th-year.pdf,1,1686
+4th Year,6bd38354b52d,compare steganography with cryptography,Compare steganography with cryptography?,Cryptography and Network Security,4th-year.pdf,1,2200
+4th Year,84777cb08448,compare the file system of windows unix,Compare the file system of windows & UNIX.,Operating Systems,4th-year.pdf,1,6500
+4th Year,eaf623029e12,compare the instruction set architecture in risc and cisc in terms of instruction formats addressing modes and cycle per instruction,"Compare the instruction set architecture in RISC and CISC in terms of instruction formats, addressing modes and cycle per instruction (CPI).",General Computer Science,4th-year.pdf,1,868
+4th Year,7af6d6285680,compare the key feature of hdtv and d stereoscopic television,Compare the key feature of HDTV and 3-D stereoscopic television,General Computer Science,4th-year.pdf,1,6980
+4th Year,f81f89d34f2e,compare uniprocessor systems with multiprocessor systems for the following aspects,Compare uniprocessor systems with multiprocessor systems for the following aspects:,General Computer Science,4th-year.pdf,1,3113
+4th Year,14df263cdfad,comparison of artmap with bpn,Comparison of ARTMAP with BPN (10marks),General Computer Science,4th-year.pdf,1,5885
+4th Year,65f3926f9a2a,computing,computing?,General Computer Science,4th-year.pdf,1,5030
+4th Year,ffacedf5cd53,computing how has soa influenced modern cloud systems,computing.  How has SOA influenced modern cloud systems?,Cloud Computing,4th-year.pdf,1,1636
+4th Year,6ce85410eb28,concepts like polymorphism and encapsulation implemented in c,concepts like  polymorphism and encapsulation implemented in C?,"EXAMINATION, 2024 – 25",4th-year.pdf,1,1273
+4th Year,df515e676933,concurrency and synchronization important,Concurrency and synchronization important?,General Computer Science,4th-year.pdf,1,133
+4th Year,01cacaf1948c,consider the,Consider the,General Computer Science,4th-year.pdf,1,339
+4th Year,0a124c81484c,contention based protocol,contention based protocol?,NETWORKS,4th-year.pdf,1,1469
+4th Year,48c910b6614c,cryptography,cryptography?,Cryptography and Network Security,4th-year.pdf,1,2061
+4th Year,6a1de0a07e9f,customer predicted to churn,= customer predicted to churn)?,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,5441
+4th Year,7f78902b0b70,d describe moore s law and what is the future scope of it,d) Describe Moore's law and what is the future scope of it.,ADVANCED COMPUTER ARCHITECTURE (TCS-702),4th-year.pdf,1,478
+4th Year,c44182cd38a0,d discuss the first generation cellular network,d) Discuss the first generation Cellular network?,Computer Networks,4th-year.pdf,1,1471
+4th Year,5c65f3dd1f3d,d explain blowfish in detail,d) Explain Blowfish in detail.,General Computer Science,4th-year.pdf,1,1860
+4th Year,61f54a3bea3e,d explain the characteristics of neural network,d) Explain the characteristics of Neural Network?,Soft Computing,4th-year.pdf,1,6279
+4th Year,66320c945850,d give the properties of fuzzy set,d) Give the Properties of Fuzzy set?,Soft Computing,4th-year.pdf,1,6295
+4th Year,3b94b3bda13c,d what,d) What,NETWORKS,4th-year.pdf,1,1455
+4th Year,cff9ba6c25bf,d what are data visualization principles,d) What are data visualization principles?,General Computer Science,4th-year.pdf,1,4548
+4th Year,47b2caf75612,d what are generics,d) What are Generics?,General Computer Science,4th-year.pdf,1,4795
+4th Year,f424fbf146cf,d what do you mean by file structure,d) What do you mean by file structure?,General Computer Science,4th-year.pdf,1,6850
+4th Year,fa9d79668cc4,d what do you understand by run time and compile time polymorphism,d) What do you understand by run time and compile time polymorphism?,General Computer Science,4th-year.pdf,1,48
+4th Year,62bb47249e1e,d what is file structure and how it is organized,d) What is file structure and how it is organized?,General Computer Science,4th-year.pdf,1,6420
+4th Year,d8545578ba45,d what is ip filtering and what they are used for,d) What is IP filtering and what they are used for?,Computer Networks,4th-year.pdf,1,6830
+4th Year,c336f5023134,d what is the function of kernel,d) What is the function of Kernel?,Operating Systems,4th-year.pdf,1,6401
+4th Year,fd8da804fd7f,d why c is called type safe language,d) Why C# is called type safe language?,General Computer Science,4th-year.pdf,1,34
+4th Year,99fbaf7941a3,data bases using ado net with an example,Data  bases using ADO.Net with an example?,General Computer Science,4th-year.pdf,1,65
+4th Year,d3bb580ac7e4,database connectivity also write the code for database connectivity in asp net,database  connectivity also write the code for database connectivity in ASP.Net?,Database Management System,4th-year.pdf,1,152
+4th Year,f4a43dca09d9,define an association rule for a customer x whose age must be between and,Define an association rule for a customer X whose age must be between 19 and,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4666
+4th Year,2589d9c6bf30,define creation of offspring in detail also write down the principle working of ga,Define Creation of Offspring in detail. Also write down the principle working of GA,General Computer Science,4th-year.pdf,1,6041
+4th Year,db6963b860e1,define cryptography,(a) Define cryptography?,Cryptography and Network Security,4th-year.pdf,1,2196
+4th Year,bc82e57aafa1,define css explain inline internal external and embedded style sheets with,"Define CSS. Explain inline, internal, external and embedded style sheets with",Web Technology,4th-year.pdf,1,7460
+4th Year,b8c9eb37c0dd,define deadlock,Define deadlock?,Distributed Systems,4th-year.pdf,1,4939
+4th Year,84105c54ccf3,define ip accounting and its configuration,Define IP Accounting and its configuration.,Computer Networks,4th-year.pdf,1,6516
+4th Year,085331c49710,define kerberos with its requirements in the content of kerberos what is realm,"(c) Define Kerberos with its Requirements. In the content of Kerberos, what is realm?",General Computer Science,4th-year.pdf,1,7181
+4th Year,0ffc3fb699c8,define network information system in detail and explain maps and dbm used in nis,Define Network Information System in detail and explain maps and DBM used in NIS.,Computer Networks,4th-year.pdf,1,6611
+4th Year,3131db78fd5e,define parallel computing what are the fundamental issue in parallel processing,Define parallel computing. What are the fundamental issue in parallel processing?,ADVANCE COMPUTER ARCHITECTURE,4th-year.pdf,1,627
+4th Year,25fb7b2a2182,define process capability and process capability ratio,Define Process Capability and Process Capability Ratio.,Operating Systems,4th-year.pdf,1,4029
+4th Year,b1a07cf973a9,define quality system and explain the evolution of,Define Quality System and explain the evolution of,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,4051
+4th Year,3918da732f70,define segmentation what are its advantages and disadvantages,(e) Define Segmentation. What are its advantages and disadvantages?,BCST-801/BITT-801,4th-year.pdf,1,2956
+4th Year,7f2df167b9a9,define soap give an example for usage of soap,Define SOAP. Give an example for usage of SOAP.,[4X5 = 20],4th-year.pdf,1,7438
+4th Year,0fb7d77e8725,define star schema snowflake schema and fact constellation schema for data,"Define Star Schema, Snowflake Schema and Fact-constellation Schema for data",Database Management System,4th-year.pdf,1,4342
+4th Year,7de9e4fd1cca,define the following terms,Define the following terms:,General Computer Science,4th-year.pdf,1,7377
+4th Year,09cb7f7bb1ba,define the following terms with reference to fuzzy inference systems,Define the following terms with reference to fuzzy inference systems:,Soft Computing,4th-year.pdf,1,6185
+4th Year,263d96fbe997,define the model and architecture,Define the Model and architecture,General Computer Science,4th-year.pdf,1,1581
+4th Year,441c603a65e6,define the planning and process development,Define the Planning and Process Development.,Operating Systems,4th-year.pdf,1,7450
+4th Year,ad42e8484d30,define the vector clock,Define the vector clock?,General Computer Science,4th-year.pdf,1,4916
+4th Year,9b8a4843b099,define wikis write a program using xml to display your name mobile no,"Define Wikis. Write a program using XML to display your Name, Mobile No &",Web Technology,4th-year.pdf,1,7330
+4th Year,a0d917d38fa6,derive the back,Derive the back,General Computer Science,4th-year.pdf,1,6030
+4th Year,962dc884b6bf,derived by an attacker from this analysis,derived by an attacker from this analysis?,Cryptography and Network Security,4th-year.pdf,1,2228
+4th Year,e9d596e7807a,des,DES?,Cryptography and Network Security,4th-year.pdf,1,1860
+4th Year,c0a6c1041be7,describe a performance bottleneck scenario caused by poor spinlock implementation how does opensolaris optimize mutexes to prevent such issues,Describe a performance bottleneck scenario caused by poor spinlock implementation. How does  OpenSolaris optimize mutexes to prevent such issues?,"EXAMINATION, 2024 – 25",4th-year.pdf,1,1256
+4th Year,56f0ac8d3f0e,describe about tcp ip basics in unix,Describe about TCP/IP basics in UNIX.,Computer Networks,4th-year.pdf,1,6680
+4th Year,af21129214e2,describe benefits and drawbacks of source driven architecture for gathering of data,Describe benefits and drawbacks of source driven architecture for gathering of data,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4354
+4th Year,22d962c3e6b7,describe corba with the help of suitable block diagram,Describe CORBA with the help of suitable block diagram?,Web Technology,4th-year.pdf,1,7232
+4th Year,45429e707c33,describe dual signature for set and,Describe dual signature for SET and,General Computer Science,4th-year.pdf,1,2345
+4th Year,c67cb54eaefb,describe how a non recoverable situation could arise if write locks are released after the last operation of a transaction but before its commitments,Describe how a non-recoverable situation could arise if write locks are released after the last operation of a transaction but before its commitments.,Database Management System,4th-year.pdf,1,2525
+4th Year,44b1f22047fe,describe how atomicity is ensured for a transaction in both commit and abort,Describe how atomicity is ensured for a transaction in both commit and abort.,Database Management System,4th-year.pdf,1,2529
+4th Year,9664101b6902,describe in detail about data mining functionalities,Describe in detail about data mining functionalities.,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4384
+4th Year,a48ee62519eb,describe issues regarding preprocessing the data for classification and prediction,Describe issues regarding preprocessing the data for classification and prediction.,Machine Learning,4th-year.pdf,1,4389
+4th Year,26040bc1ac5f,describe its key features,Describe its key features,"EXAMINATION, 2024 – 25",4th-year.pdf,1,1298
+4th Year,a2a311c7ef95,describe osi network management model protocols,Describe OSI network management model protocols.,Computer Networks,4th-year.pdf,1,1158
+4th Year,2b86071bfd96,describe run level script,Describe RUN level Script.,"(SEM. VII) (ODD SEM.) (REG.) EXAMINATION, 2012-13 SYSTEM ADMINISTRATION",4th-year.pdf,1,4230
+4th Year,882cd2c6bb87,describe the ann architecture,Describe the ANN architecture.,Soft Computing,4th-year.pdf,1,6131
+4th Year,48d52197aa2d,describe the architecture of cellular systems describe the role and challenges of mobile ip in wireless internet environments b discuss the evolution of cellular systems and their key features c explain the concept of wll and ieee standard and its role in wireless communication,describe the architecture of cellular systems. (5 marks) (ii) Describe the role and challenges of Mobile IP in wireless internet environments. (5marks) b) Discuss the evolution of cellular systems and their key features. (10 marks) c) Explain the concept of WLL And IEEE 802.16 standard and its role in wireless communication. (10 marks),Computer Networks,4th-year.pdf,1,566
+4th Year,c713d28f20bc,describe the biological neuron and working of biological neural network,Describe the Biological Neuron and working of biological neural network?,Soft Computing,4th-year.pdf,1,5915
+4th Year,a2096c19cc53,describe the challenges of cloud computing,Describe the challenges of cloud computing?,Cloud Computing,4th-year.pdf,1,5030
+4th Year,e1e256c7296d,describe the characteristics of data warehouse,Describe the characteristics of data warehouse?,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4324
+4th Year,10d72eb0e731,describe the design,Describe the design,General Computer Science,4th-year.pdf,1,4918
+4th Year,25f82abadc27,describe the design requirement for a system,Describe the design requirement for a system,General Computer Science,4th-year.pdf,1,2807
+4th Year,612587bb7002,describe the difference between orchestration and choreography e explain the concept of ws coordination and its importance,Describe the difference between orchestration and choreography. e) Explain the concept of WS-Coordination and its importance.,General Computer Science,4th-year.pdf,1,5792
+4th Year,78916cb4408b,describe the different message exchange patterns used in soap c explain the concept of service layer abstraction in soa,Describe the different message exchange patterns used in SOAP. c) Explain the concept of service layer abstraction in SOA.,General Computer Science,4th-year.pdf,1,5776
+4th Year,efd1adbf141b,describe the distributed mutual exclusion in briefly and explain the requirement of mutual exclusion algorithm,Describe the distributed mutual exclusion in briefly and explain the requirement of mutual exclusion algorithm,Distributed Systems,4th-year.pdf,1,4936
+4th Year,115f4df805a9,describe the evolution of oltp what,Describe the evolution of OLTP.What,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4364
+4th Year,2873efecdd0c,describe the following clustering techniques,Describe the following clustering techniques:,Machine Learning,4th-year.pdf,1,4425
+4th Year,1040c89ce38f,describe the java beans with the help of example,Describe the Java Beans with the help of example.,[4X5 = 20],4th-year.pdf,1,7418
+4th Year,aa32a8bece55,describe the man in the middle attack in secure shell,Describe the man in the middle attack in secure shell,Operating Systems,4th-year.pdf,1,2143
+4th Year,b8f3806d8940,describe the multiprotocol layer switching working and operation,(A) Describe the multiprotocol layer switching working and operation?,10X2,4th-year.pdf,1,1208
+4th Year,aa0db9adf0ac,describe the properties of a cryptographic hashing function also describe how a cryptographic hashing,Describe the properties of a cryptographic hashing function. Also describe how a cryptographic hashing,Data Structures,4th-year.pdf,1,2119
+4th Year,eb420944b52d,describe the rsa cryptosystem in a rsa system given prime p q and chosenvalue of public key e determine the value of n and primitive key d,"Describe the RSA cryptosystem. In a RSA system given prime p=7,q=11 and chosenvalue of public key e=11.Determine the value of n, (n) and primitive key 'd'.",Cryptography and Network Security,4th-year.pdf,1,2248
+4th Year,bc9f6602a8ac,describe the ruby on rail framework,Describe the Ruby on Rail Framework?,General Computer Science,4th-year.pdf,1,7284
+4th Year,e3488c259213,describe the self organizing map architecture,Describe the Self Organizing Map architecture.,Soft Computing,4th-year.pdf,1,6109
+4th Year,a495fd1898ab,describe the servlet lifecycle servlet api and servlet packages with suitable,"Describe the Servlet, Lifecycle, Servlet API and Servlet Packages with suitable",Web Technology,4th-year.pdf,1,7472
+4th Year,d0b48b9edd62,describe the statement mining single dimensional boolean association rules,"Describe the statement ""Mining Single dimensional Boolean association rules",WATAO,4th-year.pdf,1,4715
+4th Year,fa77329b86ae,describe why concept hierarchies are important in data mining,Describe why concept hierarchies are important in data mining.,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,5221
+4th Year,6fa38161b4b1,describe wih its characteristics,Describe wih its characteristics,NETWORKS,4th-year.pdf,1,1451
+4th Year,db22f00ba1af,determination protocol and isakmp in ipsec,determination  protocol and ISAKMP in IPsec?,Cryptography and Network Security,4th-year.pdf,1,1899
+4th Year,47cd46f0a83d,dewhat are distributed systems,(a) deWhat are distributed systems?,Distributed Systems,4th-year.pdf,1,2793
+4th Year,8737093597f4,diagram,diagram?,BCST-802/BITT-802,4th-year.pdf,1,7136
+4th Year,f8ce5f35f16f,difference between flat and nested transaction,(b) Difference between flat and nested transaction?,Database Management System,4th-year.pdf,1,5152
+4th Year,55da2e163881,differentiate between,(c) Differentiate between,BCST-802/BITT-802,4th-year.pdf,1,7105
+4th Year,8531bc505660,differentiate between boxing and unboxing,Differentiate between boxing and unboxing.,General Computer Science,4th-year.pdf,1,46
+4th Year,57c5e536d747,differentiate between congestion avoidance and congestion management in,Differentiate between Congestion Avoidance and Congestion Management in,General Computer Science,4th-year.pdf,1,1069
+4th Year,b0e3cd770242,differentiate between different types of virtualization,(a) Differentiate between different types of virtualization?,Cloud Computing,4th-year.pdf,1,7009
+4th Year,d9ad764cff47,differentiate between get post method,Differentiate between GET & POST method.,Web Technology,4th-year.pdf,1,7254
+4th Year,8e757c921fe6,differentiate between resource and communication deadlock,Differentiate between resource and communication deadlock,Distributed Systems,4th-year.pdf,1,4939
+4th Year,6f5ff57f9fb6,differentiate between scalar risc and superscalar risc in term of instruction issue,"Differentiate between scalar RISC and superscalar RISC in term of instruction issue,",S4: X COS (Z),4th-year.pdf,1,228
+4th Year,b85d5599df77,differentiate between spanning tree protocol and ipv routing protocol,Differentiate between Spanning Tree Protocol and IPv4 Routing Protocol.,Computer Networks,4th-year.pdf,1,1016
+4th Year,351e77acc1d8,differentiate between the distributed and network operating system explain with,Differentiate between the distributed and network operating system. Explain with,Computer Networks,4th-year.pdf,1,5009
+4th Year,44bbf6e6f03f,differentiate betweeni selcard page and time based authoring tools,"Differentiate betweeni selcard, page and time based authoring tools.",VO1230,4th-year.pdf,1,3838
+4th Year,08380c3cffd1,differentiate quality control and quality assurance,Differentiate Quality Control and Quality Assurance.,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,3986
+4th Year,8f44b5fc1ab6,differentiate soft computing and hard computing,Differentiate soft computing and hard computing.,Soft Computing,4th-year.pdf,1,1554
+4th Year,e8a7bc52636f,digital signature,Digital Signature,Cryptography and Network Security,4th-year.pdf,1,2159
+4th Year,33228b567379,dilemma,Dilemma?,General Computer Science,4th-year.pdf,1,5868
+4th Year,1b7949a7060d,discuss,Discuss.,General Computer Science,4th-year.pdf,1,2482
+4th Year,82c652772237,discuss about timestamp ordering,Discuss about timestamp ordering?,(10X2=20),4th-year.pdf,1,5172
+4th Year,07a24169abc3,discuss and explain with suitable example about the pram,Discuss and explain with suitable example about the PRAM,General Computer Science,4th-year.pdf,1,287
+4th Year,3eab3acad001,discuss ant colony based optimization,Discuss Ant colony based optimization.,Soft Computing,4th-year.pdf,1,6152
+4th Year,ab3ac6c3ec63,discuss ant colony based optimization in detail,Discuss Ant Colony based optimization in detail,General Computer Science,4th-year.pdf,1,6057
+4th Year,999c66952283,discuss any digital modulation technique with,Discuss any digital modulation technique with,NETWORKS,4th-year.pdf,1,1479
+4th Year,0ed96fc9703e,discuss any two possible handover scenarios in gsm,Discuss any two possible handover scenarios in GSM.,MOBILE COMPUTING,4th-year.pdf,1,3630
+4th Year,c46047b3b35a,discuss digital signature algorithm and also give its proof,Discuss digital signature algorithm and also give its proof.,Cryptography and Network Security,4th-year.pdf,1,2275
+4th Year,9a1ef138426a,discuss hebbian learning and hopfield network in brief,Discuss Hebbian Learning and Hopfield Network in Brief?,Soft Computing,4th-year.pdf,1,5976
+4th Year,dcaf0b2c5d35,discuss how web,Discuss how web,Cloud Computing,4th-year.pdf,1,1659
+4th Year,46968b0d8eb3,discuss in detail the architecture of grid computing,Discuss in detail the architecture of grid computing?,General Computer Science,4th-year.pdf,1,5021
+4th Year,a29ce10c1389,discuss in detail the simplified version of des is des secure,Discuss in detail the simplified version of DES. Is DES secure?,Cryptography and Network Security,4th-year.pdf,1,2211
+4th Year,0666ae33d2b9,discuss its different types and possible configurations,Discuss its different types and possible configurations.,General Computer Science,4th-year.pdf,1,2333
+4th Year,dcc6b46c19f0,discuss mc culloch and pitts model and show that ex or gate is its limitation,Discuss Mc Culloch and pitts model and show that ex-or gate is its limitation.,Soft Computing,4th-year.pdf,1,5919
+4th Year,24d1a9b731a8,discuss mutation and crossover in binary encoding value encoding permutation encoding and tree encoding,"Discuss Mutation and Crossover in Binary encoding, value encoding, permutation encoding and tree encoding?",Discrete Structures,4th-year.pdf,1,6038
+4th Year,ebf40440cd57,discuss secure communication in network,Discuss Secure Communication in network.,Computer Networks,4th-year.pdf,1,1042
+4th Year,57b6e3ef3d3c,discuss ssl protocol architecture how does set work,Discuss SSL protocol architecture. How does SET work?,General Computer Science,4th-year.pdf,1,2345
+4th Year,d3a85281e0ae,discuss the advantage and disadvantage in using a common cache or separate caches for instructions and data explain the support from data paths mmu and tlb and memory bandwidth in the two cache,"Discuss the advantage and disadvantage in using a common cache or separate caches for instructions and data. Explain the support from data paths, MMU and TLB, and memory bandwidth in the two cache",General Computer Science,4th-year.pdf,1,871
+4th Year,3ae56e996bd1,discuss the architecture of a distributed file,Discuss the architecture of a distributed file,Distributed Systems,4th-year.pdf,1,2518
+4th Year,b871471f44f1,discuss the authentication protocol based on shared secret key,Discuss the authentication protocol based on shared secret key?,MB2) HOSTI,4th-year.pdf,1,2271
+4th Year,d21be0d6826d,discuss the case study of venti system in networking design,Discuss the Case Study of Venti System in Networking Design.,General Computer Science,4th-year.pdf,1,1083
+4th Year,81e3069db744,discuss the concept of confusion and diffusion by,Discuss the concept of confusion and diffusion by,Cryptography and Network Security,4th-year.pdf,1,2204
+4th Year,8343ff9bccd2,discuss the correctness complexity efficiency and robustness criteria of a good,"Discuss the correctness, Complexity, Efficiency and robustness criteria of"" a good",General Computer Science,4th-year.pdf,1,2363
+4th Year,2c1d0875fef6,discuss the fitness function in ga,(b) Discuss the fitness function in GA?,General Computer Science,4th-year.pdf,1,6342
+4th Year,b14aec4d61ef,discuss the general system model where agreement protocols,Discuss the general system model where agreement protocols,General Computer Science,4th-year.pdf,1,2853
+4th Year,d707c13dc067,discuss the multi dimensional data,Discuss the multi-dimensional data.,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4627
+4th Year,50c4a11400a8,discuss the multimedia,Discuss the multimedia,5X4 20,4th-year.pdf,1,3784
+4th Year,72abcfbf5eaa,discuss the openmp implantation in c,Discuss the OPENMP implantation in C.,General Computer Science,4th-year.pdf,1,853
+4th Year,45eae1abb68d,discuss the ricart agrawala algorithm for distributed mutual exclusion and explain how it is an optimization of lamport s algorithm for distributed mutual exclusion erit,Discuss the Ricart-Agrawala algorithm for distributed mutual exclusion and explain how it is an optimization of Lamport's algorithm for distributed mutual exclusion.erit,Distributed Systems,4th-year.pdf,1,2850
+4th Year,abba2c0b44bb,discuss the role of auditing in iso,Discuss the role of Auditing in ISO.,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,4013
+4th Year,d95e81d01cb9,discuss the various control methods against program threats,Discuss the various control methods against program threats.,General Computer Science,4th-year.pdf,1,5577
+4th Year,6c2cb68e663b,discuss the various types of inheritance with,Discuss the various types of Inheritance with,General Computer Science,4th-year.pdf,1,56
+4th Year,8131632d81a6,discuss threats access control and identity management with,"Discuss threats, access control,  and identity management with",Cloud Computing,4th-year.pdf,1,1676
+4th Year,a9c6584d3b4b,discuss various classification of parallel computers,Discuss various classification of parallel computers.,Machine Learning,4th-year.pdf,1,467
+4th Year,a6502a3662f2,discuss various issues in,Discuss various issues in,General Computer Science,4th-year.pdf,1,3712
+4th Year,1048ce917d41,discuss various operations as union intersection complement and difference in crisp sets chalk them out again in fuzzy world,"Discuss various operations as union, Intersection, Complement and Difference in Crisp sets. Chalk them out again in Fuzzy world.",Soft Computing,4th-year.pdf,1,5998
+4th Year,5bc244e51362,discuss various schemas used in data warehouse,Discuss various schemas used in data warehouse.,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4654
+4th Year,a7134a06a73c,discuss working of mac with suitable,Discuss working of MAC with suitable,General Computer Science,4th-year.pdf,1,1932
+4th Year,6dc23b6be0eb,distinguish between the terms hypertext and,Distinguish between the terms Hypertext' and,General Computer Science,4th-year.pdf,1,3814
+4th Year,6446eb0e2059,distributed algorithm evaluated,distributed algorithm evaluated?,Distributed Systems,4th-year.pdf,1,2499
+4th Year,897e79b3de72,distributed deadlock detection,distributed deadlock detection?,Distributed Systems,4th-year.pdf,1,2868
+4th Year,730a6c3c8220,distributed system,Distributed system?,Distributed Systems,4th-year.pdf,1,2412
+4th Year,8848bee6f50b,distributed systems,distributed systems?,Distributed Systems,4th-year.pdf,1,2828
+4th Year,a49419189389,does cloud computing support its processing and storage needs,does cloud computing support its processing and  storage needs?,Cloud Computing,4th-year.pdf,1,1696
+4th Year,26f3f2ae37ab,does frequency reuse increase the isincapacity of the system,"does ""frequency reuse"" increase the isincapacity of the system?",MOBILE COMPUTING,4th-year.pdf,1,3623
+4th Year,80145164a37b,does it help to reduce the image size,does it help to reduce the image size?,VO1230,4th-year.pdf,1,3844
+4th Year,55cc41d87868,does one phase algorithm remove the possibility of false deadlock detection,does one phase algorithm remove the possibility 1100 of false deadlock detection ?,Distributed Systems,4th-year.pdf,1,2495
+4th Year,065fa1526a56,draw different stages what is the role of buffers in a,Draw different stages. What is the role of buffers in a,ADVANCE COMPUTER ARCHITECTURE,4th-year.pdf,1,645
+4th Year,07d62e128f82,draw discuss the block diagram of web services,Draw & discuss the block diagram of Web Services,Web Technology,4th-year.pdf,1,7244
+4th Year,a1ed7f58d5ca,draw the block diagram and explain its components,Draw the block diagram and explain its components.,BCST-802/BITT-802,4th-year.pdf,1,7132
+4th Year,e0639708ae0e,during audits what are the preparations needed by audities,During audits what are the preparations needed by Audities?,General Computer Science,4th-year.pdf,1,4129
+4th Year,886d4f31f5d7,e discuss the issues of security in wireless network,e) Discuss the issues of security in wireless network?,Computer Networks,4th-year.pdf,1,1458
+4th Year,f828eca92d2b,e explain in detail how you can mount nfs volume,e) Explain in detail how you can mount NFS volume?,General Computer Science,4th-year.pdf,1,6852
+4th Year,accebe37a4d7,e explain various,e) Explain various,General Computer Science,4th-year.pdf,1,6401
+4th Year,04f150333682,e node work,e node work?,General Computer Science,4th-year.pdf,1,3664
+4th Year,9d4633c87ec8,e state the applications of genetic algorithm,e) State the applications of Genetic Algorithm?,Soft Computing,4th-year.pdf,1,6297
+4th Year,0b250dd1c784,e what are the basic requirements to provide data base security,e) What are the basic requirements to provide data base security?,General Computer Science,4th-year.pdf,1,5552
+4th Year,a0bc5e2286ef,e what are the important features of fpga and cplds,e) What are the important features of FPGA and CPLDs?,General Computer Science,4th-year.pdf,1,4814
+4th Year,8ef74c46bb0e,e what is a firewall,e) What is a firewall?,Cryptography and Network Security,4th-year.pdf,1,1862
+4th Year,81e7ed29f75a,e what is multicasting,e) What is multicasting?,NETWORKS,4th-year.pdf,1,1473
+4th Year,8d27393978dd,e what is multidimensional data model and what is their use,e) What is Multidimensional data model and what is their use?,General Computer Science,4th-year.pdf,1,4532
+4th Year,66333658b2c5,e what is the,e) What is the,General Computer Science,4th-year.pdf,1,7560
+4th Year,8b189a1e32fd,e what is trojan horse,e) What is Trojan Horse?,General Computer Science,4th-year.pdf,1,1889
+4th Year,3f8f34a01d4e,each task,each task?,General Computer Science,4th-year.pdf,1,4593
+4th Year,181076e9dc28,elaborate the complete method of encryption in des,Elaborate the complete method of encryption in DES?,Cryptography and Network Security,4th-year.pdf,1,2153
+4th Year,1bca666f0f33,elaborate with example,Elaborate with example.,General Computer Science,4th-year.pdf,1,2124
+4th Year,cb820a641512,elliptic curve,elliptic  curve?,Cryptography and Network Security,4th-year.pdf,1,1983
+4th Year,5818944fe688,elliptic curve cryptography,Elliptic Curve Cryptography,Cryptography and Network Security,4th-year.pdf,1,2088
+4th Year,4bd566e39179,endian and big endian format,endian and big-endian format?,Cryptography and Network Security,4th-year.pdf,1,1989
+4th Year,a386bce2492d,enforcement enhance modern os security,enforcement  enhance modern OS security?,"EXAMINATION, 2024 – 25",4th-year.pdf,1,1288
+4th Year,6d2c3bb6a763,environments how do these elements support trusted cloud computing,environments. How do these elements support trusted cloud computing?,Cloud Computing,4th-year.pdf,1,1681
+4th Year,6fae58757e16,estimation,Estimation?,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,5326
+4th Year,f7c1380a0d71,explain,Explain,5 X 4,4th-year.pdf,1,2094
+4th Year,f7c1380a0d71,explain,Explain,General Computer Science,4th-year.pdf,1,5872
+4th Year,f7c1380a0d71,explain,Explain.,B.TECH.(CS/IT) (SEMESTER-VII),4th-year.pdf,1,6662
+4th Year,f7c1380a0d71,explain,Explain.,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,5441
+4th Year,f7c1380a0d71,explain,Explain.,MOBILE COMPUTING,4th-year.pdf,1,3637
+4th Year,f7c1380a0d71,explain,Explain.,General Computer Science,4th-year.pdf,1,34
+4th Year,f7c1380a0d71,explain,Explain.,General Computer Science,4th-year.pdf,1,6848
+4th Year,f7c1380a0d71,explain,Explain.,General Computer Science,4th-year.pdf,1,4129
+4th Year,f7c1380a0d71,explain,Explain.,WATAO,4th-year.pdf,1,4705
+4th Year,f7c1380a0d71,explain,Explain.,[4X5 = 20],4th-year.pdf,1,7405
+4th Year,f7c1380a0d71,explain,Explain.,General Computer Science,4th-year.pdf,1,6005
+4th Year,0746ac9e398c,explain about the domain name server write about any two domain name,Explain about the Domain Name Server. Write about any two domain name,General Computer Science,4th-year.pdf,1,7303
+4th Year,ba41a433a9fa,explain about the procedure for configuring network in linux,Explain about the procedure for configuring network in LINUX.,Computer Networks,4th-year.pdf,1,6751
+4th Year,477dd4baf4d1,explain acceptance sampling,Explain acceptance sampling.,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,5637
+4th Year,eb5b5a09749f,explain adapters and datareaders with example c describe the use of textwriter and textreader with suitable example,Explain Adapters and datareaders with example. (10 marks)  c) Describe the use of TextWriter and TextReader with suitable example. (10 marks),General Computer Science,4th-year.pdf,1,146
+4th Year,895cd2279e55,explain all the five areas of the iso network management model,Explain all the five areas of the ISO Network Management Model?,Computer Networks,4th-year.pdf,1,1202
+4th Year,16f77761a8e0,explain amdahl s law which components can be considered to improve the performance ofa,Explain Amdahl's law. Which components can be considered to improve the performance ofa,General Computer Science,4th-year.pdf,1,515
+4th Year,eb26438bbe1e,explain an edge chasing algorithm for distributed,Explain an edge chasing algorithm for Distributed,Distributed Systems,4th-year.pdf,1,2870
+4th Year,27031cc96c5f,explain any two in,Explain any two in,M32) (320) HOT,4th-year.pdf,1,814
+4th Year,355e56279f2e,explain any two strategies that make tcp adaptive to wireless domain,Explain any two strategies that make TCP adaptive to wireless domain.,Computer Networks,4th-year.pdf,1,3671
+4th Year,172102ba00aa,explain architecture model and failure model,Explain Architecture Model and Failure Model,(5X4=20),4th-year.pdf,1,5080
+4th Year,9fb60c9c66dc,explain architecture of data warehouse,Explain architecture of data warehouse.,General Computer Science,4th-year.pdf,1,4579
+4th Year,65f5a4227956,explain architecture of google file system,(c) Explain Architecture of Google File System?,General Computer Science,4th-year.pdf,1,7058
+4th Year,804ef598e787,explain backpropagation algorithm for mlp with a neat signal flow graph,Explain backpropagation algorithm for MLP with a neat signal flow graph.,Soft Computing,4th-year.pdf,1,6139
+4th Year,55c5f3c3391f,explain briefly about conditional or predicated instructions and the limiting factors affecting their complete usefulness,Explain briefly about conditional or predicated instructions and the limiting factors affecting their complete usefulness.,S1 X,4th-year.pdf,1,3224
+4th Year,ca17d8f357eb,explain briefly about working of nfs in linux with neat block diagram,Explain briefly about working of NFS in Linux with neat block diagram.,Operating Systems,4th-year.pdf,1,6798
+4th Year,ed86bee76c5b,explain crossbar network configuration built in fuzitsu vector parallel processors,"Explain Crossbar network configuration built in Fuzitsu vector parallel processors,",Computer Networks,4th-year.pdf,1,246
+4th Year,cf5a4de46917,explain data dependences with example consider the loop below,Explain data dependences with example. Consider the loop below:,General Computer Science,4th-year.pdf,1,319
+4th Year,ff7c88725a93,explain details about the accessing,Explain details about the Accessing,General Computer Science,4th-year.pdf,1,64
+4th Year,36a44b4c215e,explain details about the reading and writing xml,Explain details about the Reading and Writing XML.,Web Technology,4th-year.pdf,1,84
+4th Year,9443a96ef943,explain detecting and enhancing loop level parallelism for vliw,Explain detecting and enhancing loop level parallelism for VLIW.,M32) (320) HOT,4th-year.pdf,1,810
+4th Year,e07e77d66b48,explain difference between shell and kernel also explain their working of execution,Explain difference between Shell and Kernel. Also explain their working of execution.,Operating Systems,4th-year.pdf,1,6864
+4th Year,66e84245ac5d,explain different cloud service deployment models,(b) Explain different cloud service deployment models?,Cloud Computing,4th-year.pdf,1,7011
+4th Year,be2c7ab600d7,explain different defuzzification method with an example,Explain different defuzzification method with an example?,Soft Computing,4th-year.pdf,1,6303
+4th Year,d92083d81935,explain different kind of tools for it c what do you mean by active directory and,Explain different kind of tools for it. c) What do you mean by Active directory and,Operating Systems,4th-year.pdf,1,6450
+4th Year,2ecc1652eef9,explain different methods of attack in networking,Explain different methods of attack in networking.,HOBT,4th-year.pdf,1,6607
+4th Year,192a3f18eca8,explain different stages of fmea,Explain different stages of FMEA.,General Computer Science,4th-year.pdf,1,4071
+4th Year,f7d2b2b2883e,explain different steps required for digitization of analog audio,Explain different steps required for digitization of analog audio.,VO1230,4th-year.pdf,1,3894
+4th Year,cbd0be600a73,explain different tool,Explain different tool,NFS ?,4th-year.pdf,1,4281
+4th Year,25d267b77e6e,explain different types,Explain different types,VO1230,4th-year.pdf,1,3836
+4th Year,9e9e1f0d911a,explain different types of locks used,Explain different types of locks used,General Computer Science,4th-year.pdf,1,133
+4th Year,7aae5fccb8e6,explain different types of virtualizations and,Explain different types of virtualizations and,Cloud Computing,4th-year.pdf,1,1650
+4th Year,e39e1fe7ae9c,explain each case,Explain each case.,M32) (320) HOT,4th-year.pdf,1,745
+4th Year,2166f70789ea,explain entity identification problem with suitable example,(d) Explain entity-identification problem with suitable example?,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,3338
+4th Year,bc0ce48184f5,explain etl process with suitable diagram,"Explain ETL (Extraction, Transformation and Loading) process with suitable diagram.",Computer Graphics,4th-year.pdf,1,3531
+4th Year,8fdde2bb8717,explain euler s totient function,Explain Euler's Totient Function (φ(n)),Cryptography and Network Security,4th-year.pdf,1,1967
+4th Year,b0a40e207413,explain external and internal synchronization with mathematical model and analysis,Explain External and internal synchronization with mathematical model and analysis?,(10X2=20),4th-year.pdf,1,5149
+4th Year,477c6dd99309,explain flynn s classification of computer architecture with diagram,Explain Flynn's classification of computer architecture with diagram.,Machine Learning,4th-year.pdf,1,631
+4th Year,15c3353e2ba8,explain fork system call in brief,Explain fork system call in brief.,Operating Systems,4th-year.pdf,1,6694
+4th Year,224a7aba3075,explain forward and backward validation,(c) Explain forward and backward validation?,(10X2=20),4th-year.pdf,1,5154
+4th Year,a2e839a3ba2a,explain fuzzy inference models with examples,Explain Fuzzy inference models with examples.,Soft Computing,4th-year.pdf,1,1593
+4th Year,6d53fdf4016e,explain google app engine and write the advantages and disadvantages of google app engine,Explain Google App Engine. And write the advantages and disadvantages of  Google App Engine.,Cloud Computing,4th-year.pdf,1,1783
+4th Year,c75f3360a797,explain how cloud providers offer managed hadoop services,Explain  how cloud providers offer managed Hadoop services.,Cloud Computing,4th-year.pdf,1,1739
+4th Year,58d054273501,explain how instruction set compiler technology cpu implementation and control,"Explain how instruction set, compiler technology, CPU implementation and control,",Compiler Design,4th-year.pdf,1,222
+4th Year,72e1af72ea98,explain how optimistic concurrency is controlled,Explain how optimistic concurrency is controlled?,(10X2=20),4th-year.pdf,1,5168
+4th Year,baa2fc69652c,explain how process creation and management are handled at the kernel,Explain how process creation and management  are handled at the kernel,Operating Systems,4th-year.pdf,1,1266
+4th Year,ddf1dfe3f87e,explain how two phase commit protocol responds to failure of,Explain how Two- phase Commit Protocol responds to Failure of,General Computer Science,4th-year.pdf,1,2904
+4th Year,588209309d1c,explain hybrid systems,Explain Hybrid systems.,Soft Computing,4th-year.pdf,1,6121
+4th Year,10fb70af71c9,explain hyper threading technology provide two examples of hyper threading technology,Explain hyper-threading technology. Provide two examples of  hyper-threading technology.,General Computer Science,4th-year.pdf,1,3070
+4th Year,a1692cb50155,explain in detail,Explain in detail.,Computer Networks,4th-year.pdf,1,988
+4th Year,a1692cb50155,explain in detail,Explain in detail.,General Computer Science,4th-year.pdf,1,1030
+4th Year,a1692cb50155,explain in detail,Explain in detail.,General Computer Science,4th-year.pdf,1,1077
+4th Year,a1692cb50155,explain in detail,Explain in detail.,General Computer Science,4th-year.pdf,1,1046
+4th Year,7bbec29ad45f,explain in details about remote procedure call with a case study,(a) Explain in details about remote procedure call with a case study?,(10X2=20),4th-year.pdf,1,5131
+4th Year,2c463f7e2876,explain in details about the interfaces with an example,Explain in details about the Interfaces with an example?,General Computer Science,4th-year.pdf,1,57
+4th Year,edf3b661bc9c,explain in details about the reading and writing xml,Explain in details about the Reading and Writing XML.,Web Technology,4th-year.pdf,1,153
+4th Year,22ab456b6990,explain in details the various backups and recovery procedures used in data,Explain in details the various backups and recovery procedures used in data,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4644
+4th Year,8b7ce86f3e67,explain in short c,Explain in short. c),General Computer Science,4th-year.pdf,1,7529
+4th Year,0044258fa3ac,explain inconfig command with example,Explain inconfig command with example.,"(SEM. VII) (ODD SEM.) (REG.) EXAMINATION, 2012-13 SYSTEM ADMINISTRATION",4th-year.pdf,1,4252
+4th Year,50e67e1ff8ae,explain intrusion detection system with suitable,Explain intrusion detection system with suitable,General Computer Science,4th-year.pdf,1,5602
+4th Year,ed81d9941491,explain ip masquerade how it is implemented,(a) Explain IP Masquerade. How it is implemented?,Computer Networks,4th-year.pdf,1,4219
+4th Year,613e193f611a,explain ip masquerading in detail how configuration of ip masquerading is done,Explain IP masquerading in detail. How configuration of IP masquerading is done?,Computer Networks,4th-year.pdf,1,6589
+4th Year,f635ffce4e26,explain its different types and possible configuration f what,Explain its different types and possible configuration. f) What,General Computer Science,4th-year.pdf,1,1862
+4th Year,0f8d1e0a0721,explain its feature with suitable example,Explain its feature with suitable example. (10 marks),General Computer Science,4th-year.pdf,1,5870
+4th Year,1cfb5310ed2f,explain its function and different kernel boot file,Explain its function and different kernel boot file.,Operating Systems,4th-year.pdf,1,6844
+4th Year,ac296c1c2083,explain its functionality with suitable example,Explain its functionality with suitable example.,NETWORKS,4th-year.pdf,1,1483
+4th Year,4896938ac967,explain its guidelines to design in detail,Explain its guidelines to design in detail.,General Computer Science,4th-year.pdf,1,1065
+4th Year,4a932ce37954,explain its importance in the management,Explain its importance in the management.,General Computer Science,4th-year.pdf,1,5709
+4th Year,4ee3a1d8af83,explain its principles in detail,Explain its principles in detail.,Computer Networks,4th-year.pdf,1,982
+4th Year,a56b1ee2d8e5,explain its role in processing big data in the cloud using,Explain its role in processing big data in the cloud using,Cloud Computing,4th-year.pdf,1,1704
+4th Year,774dd23fc8f7,explain key components such,Explain key components such,Cloud Computing,4th-year.pdf,1,1647
+4th Year,e4366824bf9f,explain kill process with the,Explain Kill process with the,Operating Systems,4th-year.pdf,1,6437
+4th Year,19bd39b10132,explain layer and switching,Explain Layer 2 and 3 switching.,General Computer Science,4th-year.pdf,1,1008
+4th Year,ec2f69ea4b57,explain layers of unix,Explain layers of UNIX,Operating Systems,4th-year.pdf,1,6441
+4th Year,c3b3dacc7e30,explain mechanisms for instruction pipelining improvement voa,Explain mechanisms for instruction pipelining improvement. VOA,General Computer Science,4th-year.pdf,1,266
+4th Year,4e6238034d45,explain method overriding and overloading with example,Explain method overriding and  overloading with example. (10 marks),General Computer Science,4th-year.pdf,1,124
+4th Year,2646d1e24105,explain msi mesi and moesi in detail,"Explain MSI, MESI, and MOESI in detail.",General Computer Science,4th-year.pdf,1,315
+4th Year,379fd1d3e2be,explain multithreading with help of openmp also give case study of,Explain multithreading with help of OpenMP. Also give case study of,General Computer Science,4th-year.pdf,1,430
+4th Year,1947a85cc480,explain name service in linux operating what is use of host and nsswitch configuration file,(c) Explain name service in Linux operating. What is use of host and nsswitch configuration file?,Operating Systems,4th-year.pdf,1,4267
+4th Year,4835c4833a2f,explain neural architecture and learning process in detail,Explain Neural Architecture and learning process in detail?,Soft Computing,4th-year.pdf,1,5923
+4th Year,ba77d411f9c2,explain quality tree,Explain Quality Tree.,Data Structures,4th-year.pdf,1,3982
+4th Year,c98fe1a2ad17,explain scalability and concurrency,Explain Scalability and Concurrency,(5X4=20),4th-year.pdf,1,5072
+4th Year,fe50ed333af1,explain the,Explain the,10X2,4th-year.pdf,1,1174
+4th Year,d658323b9db2,explain the advanced encryption standard algorithm in details,Explain the Advanced Encryption Standard (AES) algorithm in details.,Cryptography and Network Security,4th-year.pdf,1,5597
+4th Year,60f11835901c,explain the auditing as a tool for quality improvement,Explain the auditing as a tool for quality improvement.,General Computer Science,4th-year.pdf,1,5727
+4th Year,aa3f3c96e7f0,explain the bidirectional gaussian elimination for solving a set of linear algebraic,Explain the bidirectional Gaussian elimination for solving a set of linear algebraic,M32) (320) HOT,4th-year.pdf,1,795
+4th Year,e378303c05bd,explain the bidirectional gaussian elimination for solving a set of linear algebraic equation,Explain the Bidirectional Gaussian elimination for solving a set of linear algebraic equation.,General Computer Science,4th-year.pdf,1,294
+4th Year,93cd5983641a,explain the british standards for quality systems,Explain the British standards for Quality systems.,General Computer Science,4th-year.pdf,1,5735
+4th Year,9918c5a9ee59,explain the challenges,Explain the challenges,Cloud Computing,4th-year.pdf,1,1683
+4th Year,c03918d76600,explain the challenges of directional antennasin,(5 marks) (ii) Explain the challenges of directional antennasin,S0178,4th-year.pdf,1,572
+4th Year,f516149ef6f5,explain the cisco enterprise composite network model in detail,Explain the Cisco Enterprise Composite Network Model in detail.,Computer Networks,4th-year.pdf,1,1000
+4th Year,7d1828079d15,explain the classification by decision tree induction describe,Explain the classification by decision tree induction. Describe,Machine Learning,4th-year.pdf,1,4558
+4th Year,b48b1cedecb3,explain the client side of nis,Explain the client side of NIS.,Operating Systems,4th-year.pdf,1,6637
+4th Year,48a8888b0026,explain the concept of color lookup table,Explain the concept of color lookup table?,VO1230,4th-year.pdf,1,3842
+4th Year,d4f97d920abe,explain the concept of grid computing and give its,Explain the concept of grid computing and give its,General Computer Science,4th-year.pdf,1,2924
+4th Year,cba981b8b140,explain the concept of init program,Explain the concept of Init program.,SYSTEM ADMINISTRATION,4th-year.pdf,1,6550
+4th Year,a2987b80e2b9,explain the concept of optimization,Explain the concept of Optimization?,General Computer Science,4th-year.pdf,1,6057
+4th Year,ec07bc1c8ff2,explain the concept of platform as a service and its significance in cloud computing,Explain the concept of Platform as a Service (PaaS) and its significance in cloud  computing.,Cloud Computing,4th-year.pdf,1,1763
+4th Year,d62e714be6b4,explain the concept of registration of leading accessors,Explain the concept of registration of leading accessors.,General Computer Science,4th-year.pdf,1,5731
+4th Year,dc720b5c7d19,explain the concept of security and how we can provide security in password files,Explain the concept of security and how we can provide security in password files?,SYSTEM ADMINISTRATION,4th-year.pdf,1,6510
+4th Year,39473da1e56a,explain the concept of time shared processing in what respects it differ from the,Explain the concept of time shared processing. In what respects it differ from the,ADVANCE COMPUTER ARCHITECTURE,4th-year.pdf,1,635
+4th Year,a9dd90a0b495,explain the concept open api why we use this to design social networking,Explain the concept Open API. Why we use this to design Social Networking,General Computer Science,4th-year.pdf,1,7288
+4th Year,c2f092b201dd,explain the concepts of remote,Explain the concepts of remote,General Computer Science,4th-year.pdf,1,4967
+4th Year,00e3dbf7a16f,explain the current state of the data security in the cloud,Explain the current state of the Data Security in the Cloud.,Basic Electrical Engineering,4th-year.pdf,1,7030
+4th Year,8ccf9886343c,explain the data warehouse architecture,Explain the data warehouse architecture.,General Computer Science,4th-year.pdf,1,4421
+4th Year,6d89721d9cdf,explain the design and implementation of the sun network file system,Explain the design and implementation of the SUN Network file system.,Computer Networks,4th-year.pdf,1,5005
+4th Year,80b5e429d373,explain the difference between superscalar and vliw architecture in terms of,Explain the difference between superscalar and VLIW architecture in terms of,M32) (320) HOT,4th-year.pdf,1,783
+4th Year,14f02bd32f27,explain the difference between superscalar and vliw architecture in terms of hardware and software requirements,Explain the difference between superscalar and VLIW architecture in terms of hardware and software requirements.,General Computer Science,4th-year.pdf,1,268
+4th Year,823c860a9ec5,explain the difference between token and non token based algorithm,(d) Explain the difference between token and non-token based algorithm?,General Computer Science,4th-year.pdf,1,4950
+4th Year,3924a287c528,explain the different technique to handled,Explain the different technique to handled,General Computer Science,4th-year.pdf,1,31
+4th Year,a675f0bf504f,explain the different types of cloud computing,Explain the different types of cloud computing?,Cloud Computing,4th-year.pdf,1,5034
+4th Year,90cf45069519,explain the essential features of cloud,Explain the essential features of cloud,Cloud Computing,4th-year.pdf,1,5028
+4th Year,09558e0ed9de,explain the file system hierarchy in linux system,Explain the file system hierarchy in Linux System.,Operating Systems,4th-year.pdf,1,6784
+4th Year,b66abb01acf0,explain the following a multilayer switching b hierarchical ip,Explain the following: a) Multilayer switching b) Hierarchical IP,Computer Networks,4th-year.pdf,1,1200
+4th Year,646a9d3b9e84,explain the following terms,Explain the following terms:,M32) (320) HOT,4th-year.pdf,1,749
+4th Year,251fb1c1833c,explain the following terms as applied to communication patterns in a message,Explain the following terms as applied to communication patterns in a message,General Computer Science,4th-year.pdf,1,823
+4th Year,abfae9375d0a,explain the implementation rules of vector clock,Explain the implementation rules of vector clock,General Computer Science,4th-year.pdf,1,4916
+4th Year,ad60d3f934cd,explain the importance of lamport s logical clock,Explain the importance of lamport's logical clock?,General Computer Science,4th-year.pdf,1,4908
+4th Year,bb6168e4a40f,explain the inclusion property and memory coherence requirements in a multilevel memory hierarchy distinguish between write through and write back policies in maintaining the coherence in adjacent levels also explain the basic concepts of paging segmentation in managing the physical and virtual memories in hierarchy,Explain the inclusion property and memory coherence requirements in a multilevel memory hierarchy. Distinguish between write through and write back policies in maintaining the coherence in adjacent levels. Also explain the basic concepts of paging & segmentation in managing the physical and virtual memories in hierarchy.,General Computer Science,4th-year.pdf,1,261
+4th Year,c44fa476f2c3,explain the intended purpose of each,Explain the intended purpose of each.,"(SEM. VII) (ODD SEM.) (REG.) EXAMINATION, 2012-13 SYSTEM ADMINISTRATION",4th-year.pdf,1,4263
+4th Year,fffcf1df4dac,explain the interconnection networks and its types with examples,Explain the interconnection networks and its types with examples.,General Computer Science,4th-year.pdf,1,3154
+4th Year,c52fa09227d7,explain the key differences between multimedia data and conventional types of media,Explain the key differences between multimedia data and conventional types of media..,5X4 20,4th-year.pdf,1,3782
+4th Year,df72e644ea40,explain the layers architecture of unix with the purpose of each layer,Explain the layers architecture of UNIX with the purpose of each layer.,Operating Systems,4th-year.pdf,1,6615
+4th Year,cee97db7ceeb,explain the market basket analysis,Explain the market basket analysis?,General Computer Science,4th-year.pdf,1,4552
+4th Year,932650b0d83d,explain the mechanisms used for this purpose,Explain the mechanisms used for this purpose.,General Computer Science,4th-year.pdf,1,3687
+4th Year,dda8e1cd7613,explain the methods for concurrency control in distributed system,Explain the methods for concurrency control in distributed system,Database Management System,4th-year.pdf,1,5001
+4th Year,6dfe38d07f37,explain the need of keeping memory consistent how will you keep memory consistent,Explain the need of keeping memory consistent. How will you keep memory consistent?,General Computer Science,4th-year.pdf,1,427
+4th Year,ee66c32604fe,explain the need of quality system,Explain the need of Quality system.,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,5664
+4th Year,ae6ee0d6444a,explain the organization of file structure,Explain the organization of file structure?,General Computer Science,4th-year.pdf,1,6850
+4th Year,68299bc515fd,explain the participants in the,Explain the participants in the,General Computer Science,4th-year.pdf,1,2515
+4th Year,a509759988ef,explain the procedure to mine multi level association rules from transactional databases take suitable basket example while answering,Explain the procedure to mine multi level association rules from transactional databases. Take suitable basket example while answering.,General Computer Science,4th-year.pdf,1,3409
+4th Year,73eb28e20817,explain the process of data warehouse design and a three tire data,Explain the process of data warehouse design and a three tire data,Operating Systems,4th-year.pdf,1,4753
+4th Year,ebc86f15c4ac,explain the process of just in time,(5 marks) (ii) Explain the process of Just-In-Time (JIT),Operating Systems,4th-year.pdf,1,111
+4th Year,92a578051f44,explain the process of service oriented analysis and its importance in developing business centric soa,Explain the process of service-oriented analysis and its importance in developing  business-centric SOA.,Operating Systems,4th-year.pdf,1,5814
+4th Year,d202e03da0a1,explain the purpose of the s boxes in des,Explain the purpose of the S-boxes in DES?,Cryptography and Network Security,4th-year.pdf,1,1980
+4th Year,60db15ca6088,explain the quality planning process,Explain the Quality Planning Process.,Operating Systems,4th-year.pdf,1,3996
+4th Year,4f8e2194ae67,explain the responsibility for progress of quality systems,Explain the responsibility for progress of quality systems.,General Computer Science,4th-year.pdf,1,5717
+4th Year,0e2d85fd3c3b,explain the role of procedure and role of auditing,Explain the role of procedure and role of auditing.,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,5688
+4th Year,7d3a64b44c6f,explain the side effects and fringe benefits of ip masquerading,Explain the side effects and fringe benefits of IP Masquerading.,Computer Networks,4th-year.pdf,1,6560
+4th Year,88711fc59d82,explain the significance of quantization error,Explain the significance of quantization error?,5X4 20,4th-year.pdf,1,3794
+4th Year,951ee446b0e0,explain the steps in knowledge discovery explain the data pre processing techniques in detail,Explain the steps in Knowledge discovery. Explain the data pre-processing techniques in detail.,General Computer Science,4th-year.pdf,1,4487
+4th Year,1793659ebe41,explain the steps of checking the arp tables,Explain the steps of checking the ARP tables.,Computer Networks,4th-year.pdf,1,6702
+4th Year,6bfe3f638e55,explain the sugeno fuzzy inference model with a suitable example,Explain the Sugeno Fuzzy Inference Model with a suitable example.,Soft Computing,4th-year.pdf,1,6181
+4th Year,a9f579f20d30,explain the temporal locality spatial locality and sequential locality associated with,"Explain the temporal locality, spatial locality and sequential locality associated with",S4: X COS (Z),4th-year.pdf,1,232
+4th Year,fdf2445054c2,explain the term message complexity in reference to,"Explain the term, Message Complexity in reference to 1891",General Computer Science,4th-year.pdf,1,2499
+4th Year,46427ee5e9da,explain the term quality,Explain the term Quality.,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,5629
+4th Year,2c0218f2ff1e,explain the termination decision and dependence,"Explain the termination, decision and dependence",General Computer Science,4th-year.pdf,1,2360
+4th Year,9a7ad5aaf6c1,explain the various run levels inittab file and switching users groups detail,Explain the various run levels. Inittab file and switching users/groups detail.,ΤΕΘΕΙΘΕΟΣ,4th-year.pdf,1,6802
+4th Year,9630a433f57a,explain the working of blowfish and message digest algorithm,"Explain the working of Blowfish, and, Message Digest Algorithm.",Cryptography and Network Security,4th-year.pdf,1,2215
+4th Year,5f47e369234b,explain the working of shadow files,Explain the working of shadow files.,General Computer Science,4th-year.pdf,1,6858
+4th Year,06599a14ae42,explain the working of the md algorithm,Explain the working of the MD5 Algorithm.,Cryptography and Network Security,4th-year.pdf,1,1993
+4th Year,5802d4b02ca6,explain the working of vector logical clock with,Explain the working of vector logical clock with,General Computer Science,4th-year.pdf,1,2832
+4th Year,7ddd6366e01f,explain their,Explain their,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,4017
+4th Year,a051e535b17d,explain their working,explain their working.,General Computer Science,4th-year.pdf,1,6872
+4th Year,12104c1c014d,explain this with the help of a suitable,Explain this with the help of a suitable,General Computer Science,4th-year.pdf,1,3244
+4th Year,336566008773,explain use and requirement statements in perl and write a perl script to find n,Explain USE and REQUIREMENT statements in perl and write a perl script to find n,[2X10=20],4th-year.pdf,1,7485
+4th Year,e50896bf2deb,explain user profiles and the concept of switching the users removing the users,"Explain User profiles, and the concept of switching the users & removing the users?",SYSTEM ADMINISTRATION,4th-year.pdf,1,6546
+4th Year,41fb2f66c5b7,explain various data warehousing operations with suitable examples,Explain various data warehousing operations with suitable examples.,General Computer Science,4th-year.pdf,1,3590
+4th Year,3e9d58135192,explain various duties of,Explain various duties of,010X20-80T,4th-year.pdf,1,6434
+4th Year,c4131a218217,explain various duties of system administrator,Explain various duties of System Administrator.,"(SEM. VII) (ODD SEM.) (REG.) EXAMINATION, 2012-13 SYSTEM ADMINISTRATION",4th-year.pdf,1,4265
+4th Year,09f461934fbf,explain various information which password file contain how do we provide password security,Explain various information which password file contain. How do we provide password security?,"(SEM. VII) (ODD SEM.) (REG.) EXAMINATION, 2012-13 SYSTEM ADMINISTRATION",4th-year.pdf,1,4194
+4th Year,e6ebce6c354b,explain various olap operations used on a data cube,Explain various OLAP operations used on a data cube.,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4635
+4th Year,67d07b5720ea,explain various problems encountered while routing messages in,Explain various problems encountered while routing messages in,General Computer Science,4th-year.pdf,1,3719
+4th Year,61c27d9a55cb,explain various types of firewall,Explain various types of firewall.,Cryptography and Network Security,4th-year.pdf,1,2007
+4th Year,f996333c2c60,explain vector operations and vector instruction types,Explain vector operations and vector instruction types.,General Computer Science,4th-year.pdf,1,273
+4th Year,da00d8d5e793,explain web based information system using suitable block diagram,Explain Web based Information System using Suitable block Diagram?,Web Technology,4th-year.pdf,1,7342
+4th Year,7918d769f0ea,explain why i frames are inserted into the compressed output stream relatively frequently explain the terms gop and,"Explain why I-frames are inserted into the compressed output stream relatively frequently. Explain the terms ""GOP"" and","(SEM. VIII) EXAMINATION, 2012 MULTIMEDIA COMMUNICATION & SYSTEM DESIGN",4th-year.pdf,1,3744
+4th Year,2b5b15265661,explain wireless security in detail,Explain Wireless Security in detail.,General Computer Science,4th-year.pdf,1,1061
+4th Year,138e9d6d5740,explain with,Explain with,General Computer Science,4th-year.pdf,1,2108
+4th Year,138e9d6d5740,explain with,Explain with,BCST-802/BITT-802,4th-year.pdf,1,7135
+4th Year,138e9d6d5740,explain with,Explain with,General Computer Science,4th-year.pdf,1,506
+4th Year,2d98d58ee987,explain with a suitable example,Explain with a suitable example.,General Computer Science,4th-year.pdf,1,2513
+4th Year,3c185b6ec0ef,explain with a suitable example what are the advantages of fuzzy logic controller over that of a conventional controller uolagen evnery light,"Explain with a suitable example. What are the advantages of Fuzzy Logic Controller over that of a conventional controller?uolagen evnery, LIGHT",Soft Computing,4th-year.pdf,1,6178
+4th Year,e2ec9d0b9bad,explain with an example discuss the,Explain with an example. Discuss the,Distributed Systems,4th-year.pdf,1,2408
+4th Year,5188eccd3883,explain with example,Explain  with example.,General Computer Science,4th-year.pdf,1,49
+4th Year,5188eccd3883,explain with example,Explain with example.,NFS ?,4th-year.pdf,1,4279
+4th Year,d38f3a72333d,explain with neat examples the various operations one can perform on a data,Explain with neat examples the various operations one can perform on a data,WATAO,4th-year.pdf,1,4725
+4th Year,0cff0e9afc44,explain with relevance to,Explain with relevance to,Cloud Computing,4th-year.pdf,1,1669
+4th Year,d3e7764e094a,explain with suitable,Explain with suitable,General Computer Science,4th-year.pdf,1,4409
+4th Year,236057092819,explain with suitable example,Explain with suitable example,General Computer Science,4th-year.pdf,1,4971
+4th Year,236057092819,explain with suitable example,Explain with suitable example.,MOBILE COMPUTING,4th-year.pdf,1,3635
+4th Year,55462cd01804,explain with suitable example c,Explain with suitable example. c),NETWORKS,4th-year.pdf,1,1482
+4th Year,d32317563cb5,explain with suitable examples explain,Explain with suitable examples. Explain,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,3318
+4th Year,4dae3c5b1280,explain with the example what could be the impact of absence of global clock,"Explain with the example, what could be the impact of absence of global clock",Distributed Systems,4th-year.pdf,1,2412
+4th Year,6388e21cab69,explain with the help of,Explain with the help of,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4680
+4th Year,c3c76621c902,explain with the help of an example,Explain with the help of an example.,SYSTEM ADMINISTRATION,4th-year.pdf,1,6496
+4th Year,28a88eaa56fc,explain with the help of implementation rule of vector clocks how they are,Explain with the help of implementation rule of Vector Clocks. how they are,General Computer Science,4th-year.pdf,1,2448
+4th Year,18bee00e4243,explain working,Explain working,General Computer Science,4th-year.pdf,1,5874
+4th Year,ebc7ed572e33,explain wsdl using suitable block diagram write a html page with java script to find the area of triangle,Explain WSDL using suitable block diagram. Write a HTML page with java script to find the area of triangle?,Web Technology,4th-year.pdf,1,7327
+4th Year,fa81d3f75e99,export file in nfs,export file in NFS?,HOBT,4th-year.pdf,1,6627
+4th Year,eaa40869e595,f describe in details about the features and architecture of ado net,f) Describe in details about the Features and Architecture of ADO.Net?,General Computer Science,4th-year.pdf,1,52
+4th Year,e104d9256f26,f what are ext and ext file systems,f) What are ext2 and ext3 file systems?,General Computer Science,4th-year.pdf,1,6854
+4th Year,8afed0df31ef,f what are the features and advantages of zfs,f) What are the features and advantages of ZFS?,General Computer Science,4th-year.pdf,1,1342
+4th Year,df3e901a2ef1,f what do you mean by mounting an nfs volume,f) What do you mean by mounting an NFS volume?,General Computer Science,4th-year.pdf,1,6426
+4th Year,5a08045a0101,f what is doppler effects,f) What is Doppler Effects?,General Computer Science,4th-year.pdf,1,6931
+4th Year,fd599acda91f,f what is qos,f) What is QoS?,NETWORKS,4th-year.pdf,1,1460
+4th Year,55cf0ed96bb1,f what is underfitting,f) What is underfitting?,General Computer Science,4th-year.pdf,1,1547
+4th Year,05568d8f4fc5,f why parallel computing is required,f) Why parallel computing is required?,ADVANCED COMPUTER ARCHITECTURE (TCS-702),4th-year.pdf,1,467
+4th Year,a24368ceb00c,failures,failures?,General Computer Science,4th-year.pdf,1,3687
+4th Year,c840d59586f0,firewalls can block and what they cannot block,firewalls can block and what they cannot block?,SYSTEM ADMINISTRATION,4th-year.pdf,1,6529
+4th Year,d0057a84efcc,following companies,following companies?,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,5226
+4th Year,3543054e12cb,for displaying steady images on slower monitors,for displaying steady images on slower monitors?,5X4 20,4th-year.pdf,1,3792
+4th Year,6b8e33091c52,for each also define data buffering techniques,for each. Also define data buffering techniques?,M32) (320) HOT,4th-year.pdf,1,745
+4th Year,443d293b077f,for the space time,For the space time,General Computer Science,4th-year.pdf,1,2449
+4th Year,20455a192bd7,forward and recurrent network,forward and recurrent network?,Soft Computing,4th-year.pdf,1,5929
+4th Year,b8632f9f3ef6,function can be implemented using a block cipher explain secure socket layer in details,function can be implemented using a block cipher. Explain Secure socket layer in details?,Cryptography and Network Security,4th-year.pdf,1,2128
+4th Year,42f9dfc99118,functionality of export file in nfs,functionality of export file in NFS?,LDAP?,4th-year.pdf,1,6459
+4th Year,fa9f22e62229,give,Give,Web Technology,4th-year.pdf,1,7266
+4th Year,55a2f76ec30f,give a brief description about logical time and logical clocks,Give a brief description about logical time and logical clocks?,(5X4=20),4th-year.pdf,1,5117
+4th Year,562e61626165,give an algorithm to find the consistent global state in distributed system,Give an algorithm to find the consistent global state in distributed system.,Distributed Systems,4th-year.pdf,1,2828
+4th Year,a6844af526f5,give diagram also,Give diagram also.,General Computer Science,4th-year.pdf,1,248
+4th Year,6fff944949f1,give example,Give example,M32) (320) HOT,4th-year.pdf,1,743
+4th Year,67aefeaf426d,give example of their sharing as it occurs in distributed system,Give example of their sharing as it occurs in distributed system.,Distributed Systems,4th-year.pdf,1,2805
+4th Year,93ebec7a87de,give its types and explain them,Give its types and explain them.,Soft Computing,4th-year.pdf,1,6275
+4th Year,a15bdea7ed94,give the comparison between single layers feed forward network multilayer feed,"Give the comparison between Single layers feed forward network, Multilayer feed",Soft Computing,4th-year.pdf,1,5927
+4th Year,dd5abe054d05,give the format of x certificate showing the,Give the format of X.509 certificate showing the,General Computer Science,4th-year.pdf,1,1901
+4th Year,7701685f8c94,give the format of x digital certificate and x certificate revocation,Give the format of X.509 digital certificate and X.509 certificate revocation,MB2) HOSTI,4th-year.pdf,1,2291
+4th Year,c81915e31347,give the role of auditing,Give the role of auditing,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,5633
+4th Year,a4241a8d2bf5,give the significant difference between web portal website,Give the significant difference between Web Portal & Website.,Web Technology,4th-year.pdf,1,7262
+4th Year,404525395065,give three examples with their,Give three examples with their,Soft Computing,4th-year.pdf,1,5935
+4th Year,b2f93a152bc0,hardware software tools would you use and why,hardware/software  tools would you use and why?,"EXAMINATION, 2024 – 25",4th-year.pdf,1,1244
+4th Year,7c67c23afe6d,hashing and hash functions,Hashing and Hash functions,Data Structures,4th-year.pdf,1,2165
+4th Year,ad16b13de3aa,hebest,hebest. 10122930,5X4 20,4th-year.pdf,1,3792
+4th Year,0b064373fb4d,how,How,VO1230,4th-year.pdf,1,3842
+4th Year,c9d8d546f158,how a data warehouse different from a database,How a data warehouse different from a database?,Database Management System,4th-year.pdf,1,4719
+4th Year,c811874818ed,how are association rules generated from large databases,How are association rules generated from large databases?,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4334
+4th Year,d3e3060177dc,how are computer networks vulnerable,(A) How are computer networks vulnerable?,10X2,4th-year.pdf,1,1192
+4th Year,f1054ce4c756,how are file organized in unix,(b) How are file organized in UNIX?,Operating Systems,4th-year.pdf,1,4182
+4th Year,666d22937806,how are parameters and result passed to a remote,How are parameters and result passed to a remote,General Computer Science,4th-year.pdf,1,4969
+4th Year,f57b5b9a8789,how are resource sharing done in distributed psystem,(a) How are resource sharing done in distributed psystem?,Distributed Systems,4th-year.pdf,1,2408
+4th Year,330ac7f5a848,how are they addressed,How are they addressed,General Computer Science,4th-year.pdf,1,3649
+4th Year,67a07139b158,how are they similar,How are they similar?,WATAO,4th-year.pdf,1,4719
+4th Year,9ffca6df0b31,how artificial intelligence is used in database warehousing,How artificial intelligence is used in Database Warehousing?,Database Management System,4th-year.pdf,1,4409
+4th Year,d6f6971221c2,how can interlacing be useful,How can interlacing be useful,5X4 20,4th-year.pdf,1,3791
+4th Year,35f406aad553,how can it be achieved,How can it be achieved?,General Computer Science,4th-year.pdf,1,7185
+4th Year,8f9ba400f49b,how can you combine hash function,How can you combine hash function,Cryptography and Network Security,4th-year.pdf,1,2262
+4th Year,f3ce317c0111,how can you send a process in,How can you send a process in,Operating Systems,4th-year.pdf,1,6846
+4th Year,84b6f60685ea,how capacity planning is carried out in data warehouse,How capacity planning is carried out in data warehouse?,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4640
+4th Year,8c77fdcac6e5,how control hazard is detected and resolved,How control hazard is detected and resolved?,General Computer Science,4th-year.pdf,1,506
+4th Year,921769929c0b,how do you send a process in background,How do you send a process in background?,Operating Systems,4th-year.pdf,1,4229
+4th Year,22342f08e922,how does cloud computing,How does cloud computing,Cloud Computing,4th-year.pdf,1,5034
+4th Year,9ea570f36ac4,how does it,How does it,General Computer Science,4th-year.pdf,1,3707
+4th Year,9dfc0d2bb545,how does it offer continued access to data in the face of server and network,How does it offer continued access to data in the face of server and  network,Computer Networks,4th-year.pdf,1,3686
+4th Year,1817f3997574,how does it overcomes the,How does it overcomes the,General Computer Science,4th-year.pdf,1,6346
+4th Year,4730ba5f5215,how does networking work in a virtualized data center,(ii)How does networking work in a virtualized data center?,Cloud Computing,4th-year.pdf,1,1647
+4th Year,8cf0c25646d2,how does one phase,How does one phase,General Computer Science,4th-year.pdf,1,4987
+4th Year,2967cfe98ed8,how does the dss work,How does the DSS work?,Cryptography and Network Security,4th-year.pdf,1,1995
+4th Year,798e15b5e59c,how does the process of raster scanning create an image on monitor,How does the process of raster scanning create an image on monitor?,Computer Graphics,4th-year.pdf,1,3791
+4th Year,c0db08bfb8aa,how is gcd calculated with euclid s algorithm,(d) How is GCD calculated with Euclid's algorithm?,BCST-802/BITT-802,4th-year.pdf,1,7122
+4th Year,f095d0c88178,how is it useful in association rule mining,How is it useful in association rule mining?,General Computer Science,4th-year.pdf,1,4595
+4th Year,016c965e12cd,how is location update and roaming done in gsm is reflected in databases,(f) How is location update and roaming done in GSM is reflected in databases?,MOBILE COMPUTING,4th-year.pdf,1,3637
+4th Year,b329db2d8aed,how is the concept of relational,How is the concept of relational,Database Management System,4th-year.pdf,1,4324
+4th Year,26e8627f5117,how is the performance of a,How is the performance of a,General Computer Science,4th-year.pdf,1,2498
+4th Year,47a8d7d28219,how it can be achieved by using mpi and openmp,How it can be achieved by using MPI and OpenMP?,General Computer Science,4th-year.pdf,1,3030
+4th Year,190af984f140,how it can be avoided in,How it can be avoided in 3,General Computer Science,4th-year.pdf,1,1859
+4th Year,24e8429887e7,how it is configure,How it is configure?,"(SEM. VII) (ODD SEM.) (REG.) EXAMINATION, 2012-13 SYSTEM ADMINISTRATION",4th-year.pdf,1,4275
+4th Year,45bed1fad51a,how it is helpful to boost the business through e commerce,How it is helpful to boost the business through e commerce?,General Computer Science,4th-year.pdf,1,3407
+4th Year,4114fd3cec80,how it revoked,How it revoked?,Cryptography and Network Security,4th-year.pdf,1,2005
+4th Year,67e0e66fc893,how ldap worked in active directory,How LDAP worked in Active Directory?,Operating Systems,4th-year.pdf,1,4236
+4th Year,6d34e27686cd,how many,How many,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,5426
+4th Year,c02ffc74d181,how many bits are there in each of tag set and word fields of main,"How many bits are there in each of TAG, SET and WORD fields of main",M32) (320) HOT,4th-year.pdf,1,771
+4th Year,3e563ba37577,how many bits are there in main memory address,How many bits are there in main memory address?,M32) (320) HOT,4th-year.pdf,1,767
+4th Year,bdfe127bd8f7,how many independents,How many Independents?,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,5424
+4th Year,d0556717a07d,how many republicans,How many Republicans?,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,5424
+4th Year,08dfdabc8373,how many republicans were classified as belonging to the democratic party,How many Republicans were classified as belonging to the Democratic Party?,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,5426
+4th Year,84a859d4562f,how many types of data dependencies are possible in a pipeline,How many types of data dependencies are possible in a pipeline?,M32) (320) HOT,4th-year.pdf,1,743
+4th Year,99a41dcd3db1,how many ways we can do filtering,How many ways we can do filtering?,NFS ?,4th-year.pdf,1,4278
+4th Year,114a418151ed,how mapping the data warehouse to a multiprocessor architecture is done,How mapping the data warehouse to a multiprocessor architecture is done?,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4672
+4th Year,7836dd840011,how nis is useful in local area network,10×2=20 How NIS is useful in local area network?,Computer Networks,4th-year.pdf,1,4223
+4th Year,ce31440d757e,how registration and accredition in quality system is done,How registration and accredition in quality system is done?,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,5692
+4th Year,849020da9ef2,how srl,How srl,General Computer Science,4th-year.pdf,1,2494
+4th Year,6b34c9a76c93,how tables are created in html,How tables are created in HTML?,Web Technology,4th-year.pdf,1,7409
+4th Year,018d1d2914f4,how the messages are generated and transmitted in pretty good privacy protocol,How the messages are generated and transmitted in pretty good privacy (PGP) protocol?,General Computer Science,4th-year.pdf,1,2108
+4th Year,48e26df980e0,how unix identifies a process,How UNIX identifies a process?,Operating Systems,4th-year.pdf,1,4229
+4th Year,48e26df980e0,how unix identifies a process,How Unix identifies a process?,Operating Systems,4th-year.pdf,1,6410
+4th Year,61cd0a0b7739,how using ajax the performance of the web page can be improved,How using AJAX the performance of the web page can be improved?,Web Technology,4th-year.pdf,1,7250
+4th Year,db8ccde21a72,hybridization make sense,Hybridization Make Sense?,General Computer Science,4th-year.pdf,1,3030
+4th Year,0feb8b0045eb,illustrate the architecture for multi threaded server,(b) Illustrate the architecture for multi threaded server?,(10X2=20),4th-year.pdf,1,5133
+4th Year,f8d6b3be1d41,illustrate web usage mining web structure mining web content mining,"(b) Illustrate Web usage mining, Web Structure Mining, Web Content Mining?",Web Technology,4th-year.pdf,1,7344
+4th Year,5b4009518b37,important,important?,10X2,4th-year.pdf,1,6450
+4th Year,965ead3c2412,important elements of the certificate how is an x certificate revoked,important  elements of the certificate. How is an X.509 certificate revoked?,General Computer Science,4th-year.pdf,1,1902
+4th Year,f7e7d4ae7e16,in cloud environments,in cloud environments?,Cloud Computing,4th-year.pdf,1,1676
+4th Year,ba3714504b1a,in kernel development,in  kernel development?,Operating Systems,4th-year.pdf,1,1340
+4th Year,5e2f2d74bf32,in maca,in MACA?,General Computer Science,4th-year.pdf,1,3650
+4th Year,8b6d2a4eaab2,in the execution of a c program,in the execution of a C# program?,General Computer Science,4th-year.pdf,1,111
+4th Year,0ad4892d1854,in unix systems,in  UNIX systems?,Operating Systems,4th-year.pdf,1,1363
+4th Year,a4bcce34a3b6,in what situation does this,In what situation does this,General Computer Science,4th-year.pdf,1,3668
+4th Year,5800c7c331e6,in what way it helps in finding the improvements in,In what way it helps in finding the improvements in,General Computer Science,4th-year.pdf,1,734
+4th Year,27e54981ce0c,in which phase of data preprocessing,In which phase of data preprocessing,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,3338
+4th Year,fb34b07a72f9,incremented what are the advantages of vector clocks over lamport clock,incremented. What are the advantages of Vector Clocks over Lamport Clock?,General Computer Science,4th-year.pdf,1,2449
+4th Year,f27c9a2ec656,independents were classified as republicans,Independents were classified as Republicans?,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,5427
+4th Year,3fb26a916cdb,is khz and the sampling frequency is khz what is the alias frequency,"is 5.5.kHz and the sampling frequency is 8 kHz, what is the alias frequency?",VO1230,4th-year.pdf,1,3892
+4th Year,8006233c6507,is mba,is MBA (Market Basket Analysis)?,General Computer Science,4th-year.pdf,1,3407
+4th Year,4ecba5e33a87,is this loop parallel justify,"Is this loop parallel, justify?",General Computer Science,4th-year.pdf,1,331
+4th Year,6ac7026bcc63,is used in set,is used in SET?,BCST-802/BITT-802,4th-year.pdf,1,7140
+4th Year,81ce0b28dc0d,justify your answer,Justify your answer.,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,5235
+4th Year,76f9c4f83295,kerberos,Kerberos,General Computer Science,4th-year.pdf,1,2084
+4th Year,8088c1b3b60c,key management,Key Management,General Computer Science,4th-year.pdf,1,2086
+4th Year,61a135089eac,ldap,LDAP?,LDAP?,4th-year.pdf,1,6451
+4th Year,ba324ca7b1c7,linux,LINUX?,Operating Systems,4th-year.pdf,1,6633
+4th Year,8beb75745eb4,list agreement and validity statements to,List Agreement and validity statements to,General Computer Science,4th-year.pdf,1,2506
+4th Year,4e3da25a75e2,list all simple cycles from state diagram,List all simple cycles from state diagram.,General Computer Science,4th-year.pdf,1,397
+4th Year,0828b5996fe5,list all the simple cycles from the state diagram bsoil,List all the simple cycles from the state diagram. bsoil,General Computer Science,4th-year.pdf,1,942
+4th Year,529f84fb2194,list and briefly define the principle categories of set participants further briefly,List and briefly define the principle categories of SET participants. Further briefly,General Computer Science,4th-year.pdf,1,2337
+4th Year,52fef6b2b163,list any functions of fmea and suggest a procedure for successful implementation of fmea program,List any 8 functions of FMEA and suggest a procedure for successful implementation of FMEA program.,General Computer Science,4th-year.pdf,1,4090
+4th Year,a2abef1d1fb2,list explain any five standard internet protocols,"List & explain any five standard, internet protocols?",Web Technology,4th-year.pdf,1,7223
+4th Year,2ffcb05ff84a,list explain various fields of the formats alondy,list. Explain various fields of the formats alondy,MB2) HOSTI,4th-year.pdf,1,2292
+4th Year,eabdbbdbb23f,list the characteristics of distributed system,List the characteristics of distributed system?,Distributed Systems,4th-year.pdf,1,5068
+4th Year,32e3096f96b1,list the characteristics of search engines recommended systems,List the characteristics of Search Engines & Recommended Systems?,Web Technology,4th-year.pdf,1,7266
+4th Year,f0f4888b542e,list the important conditions to,List the important conditions to,General Computer Science,4th-year.pdf,1,4908
+4th Year,868857f3316f,list the important conditions to be satisfied by lamport logical,List the important conditions to be satisfied by Lamport Logical,General Computer Science,4th-year.pdf,1,2427
+4th Year,1eaaa8816a7e,list the main components of a biological neuron giving their functionality in brief with,"List the main components of a biological neuron, giving their functionality, in brief with",Soft Computing,4th-year.pdf,1,5959
+4th Year,1f0e6d704050,many democrats are in the senate,many Democrats are in the Senate?,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,5424
+4th Year,6dbf65cf2ac0,many distributed algorithms require the use of,Many distributed algorithms require the use of,Distributed Systems,4th-year.pdf,1,2480
+4th Year,741062183dc3,marks c write a short note on xml,marks)  c) Write a short note on XML?,Web Technology,4th-year.pdf,1,153
+4th Year,4a6e502435a2,mean by kernel,mean by kernel?,Operating Systems,4th-year.pdf,1,6844
+4th Year,a955073d6d26,mechanism,mechanism?,General Computer Science,4th-year.pdf,1,7152
+4th Year,81c5d49be950,memory,memory?,M32) (320) HOT,4th-year.pdf,1,773
+4th Year,38b4be9d50d9,messages in transit,messages in transit ?,General Computer Science,4th-year.pdf,1,2435
+4th Year,90b614f9cafc,method be appropriate in cloud migration,method  be appropriate in cloud migration?,Cloud Computing,4th-year.pdf,1,1654
+4th Year,fbb9d89dfedb,method invocation,method invocation?,General Computer Science,4th-year.pdf,1,4969
+4th Year,1e03a3994ac6,mobility,mobility?,General Computer Science,4th-year.pdf,1,3671
+4th Year,55bba95ebb90,multimedia data,multimedia data?,5X4 20,4th-year.pdf,1,3776
+4th Year,0088609bfa19,name a few with,Name a few with,General Computer Science,4th-year.pdf,1,2061
+4th Year,a9bdad921e09,name two,Name two,General Computer Science,4th-year.pdf,1,2793
+4th Year,095403b2b52a,narrowband and wideband models in wireless communication,narrowband and wideband models in wireless communication?,General Computer Science,4th-year.pdf,1,7560
+4th Year,c112e88173d4,network,Network?,Computer Networks,4th-year.pdf,1,1507
+4th Year,c7eb6d87e367,nfs,NFS ?,NFS ?,4th-year.pdf,1,4276
+4th Year,01c89373637e,noin explain the concept of remote,noin Explain the concept of remote,General Computer Science,4th-year.pdf,1,2511
+4th Year,c8e53bb5f14b,not noi sta what are schemas,not noi (a) sta What are schemas?,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4654
+4th Year,74f998818c5e,ns what is authoring tool,(d) ns What is authoring tool?,VO1230,4th-year.pdf,1,3838
+4th Year,c371b8783ea2,objectives of byzantine agreement problem,objectives of Byzantine Agreement problem?,General Computer Science,4th-year.pdf,1,2858
+4th Year,5c7891748520,of packet loss,of packet loss?,General Computer Science,4th-year.pdf,1,3668
+4th Year,2869c1b25411,opensolaris how does it support system snapshots and rollback,OpenSolaris. How does it support system snapshots and  rollback?,"EXAMINATION, 2024 – 25",4th-year.pdf,1,1300
+4th Year,7cb06027e87e,organization,organization?,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,3992
+4th Year,19de8c895aef,other two,other two?,ADVANCE COMPUTER ARCHITECTURE,4th-year.pdf,1,637
+4th Year,b827778be310,overcome the limitations of client server programming,overcome the limitations of client- server programming?,General Computer Science,4th-year.pdf,1,3708
+4th Year,8bffad98b39d,overcome the widening gap between cpu and main memory,overcome the widening gap between CPU and main  memory?,General Computer Science,4th-year.pdf,1,3233
+4th Year,d344e8a5e5c0,partial classes and methods,Partial Classes and Methods.,General Computer Science,4th-year.pdf,1,92
+4th Year,3d4fc376168c,passive and active security threats,passive and active security threats?,Cryptography and Network Security,4th-year.pdf,1,1976
+4th Year,476ee0f6af1d,performance,performance?,General Computer Science,4th-year.pdf,1,736
+4th Year,75dee5aacc62,performance matrices to judge the performance of distributed baludniemutual exclusion algorithm,performance matrices to judge the performance of distributed baludniemutual exclusion algorithm?,Distributed Systems,4th-year.pdf,1,2841
+4th Year,40763e86fa58,pgp,PGP?,Cryptography and Network Security,4th-year.pdf,1,2018
+4th Year,4cfa0531ec57,pipeline architecture processor performance,pipeline architecture & processor performance?,S4: X COS (Z),4th-year.pdf,1,230
+4th Year,811dc89adfa6,pipeline processor,pipeline processor?,ADVANCE COMPUTER ARCHITECTURE,4th-year.pdf,1,646
+4th Year,9431366f5c3d,powalio no stold how,powalio no stold how?,General Computer Science,4th-year.pdf,1,6472
+4th Year,d0b5fd347939,procedure,procedure?,General Computer Science,4th-year.pdf,1,4971
+4th Year,c2e2d6621334,process,process,Operating Systems,4th-year.pdf,1,4839
+4th Year,b70bafe7ae74,process table,process table?,Operating Systems,4th-year.pdf,1,1266
+4th Year,54dcb919e6c0,processing systems,processing systems?,General Computer Science,4th-year.pdf,1,4956
+4th Year,7ec5d141cb5a,program data acc ss in memory hierarchy,program /data accèss in memory hierarchy?,S4: X COS (Z),4th-year.pdf,1,234
+4th Year,6e9b4af64b7a,protocol,protocol?,General Computer Science,4th-year.pdf,1,4942
+4th Year,e69010c6c491,protocols for ad hoc networks,protocols for Ad Hoc networks?,S0178,4th-year.pdf,1,572
+4th Year,6f4231da653c,provide password security,provide password security?,General Computer Science,4th-year.pdf,1,6404
+4th Year,f00db3ea3d16,remote procedure,remote procedure?,General Computer Science,4th-year.pdf,1,2513
+4th Year,83a1fa79857d,representation of design variables in ga,(a) Representation of design variables in GA?,General Computer Science,4th-year.pdf,1,6340
+4th Year,5190103f760a,routing algorithm what is destination based routing,routing algorithm. What is destination based routing?,General Computer Science,4th-year.pdf,1,2364
+4th Year,3e628bd724c8,run level in unix o s,RUN Level in Unix O/S ?,Operating Systems,4th-year.pdf,1,4230
+4th Year,a0f1490a20d0,s,S,General Computer Science,4th-year.pdf,1,4101
+4th Year,999888ee3e48,scalability and column scalability,scalability and column scalability?,General Computer Science,4th-year.pdf,1,5491
+4th Year,8eec7bc46180,security,security?,General Computer Science,4th-year.pdf,1,5038
+4th Year,3b36fe2bfad2,segmentation and file i o,segmentation and  file I/O?,"EXAMINATION, 2024 – 25",4th-year.pdf,1,1285
+4th Year,3e7aaa79601a,services,services?,General Computer Science,4th-year.pdf,1,52
+4th Year,9bd86125559a,services are provided by ipsec,services are provided by IPSec?,Cryptography and Network Security,4th-year.pdf,1,1863
+4th Year,fcbdc4c271c8,session,session?,General Computer Science,4th-year.pdf,1,2345
+4th Year,f7f6cd0b74ac,session key and a master key,session key and a master key?,Cryptography and Network Security,4th-year.pdf,1,2001
+4th Year,74a81c1c5932,set operation of fuzzy set and their properties c what is membership function,"set, operation of fuzzy set and their properties. (10 marks)  c) What is membership function?",Soft Computing,4th-year.pdf,1,5869
+4th Year,5da50fa1909f,shell and kernel,Shell and Kernel?,Operating Systems,4th-year.pdf,1,6424
+4th Year,77cdf5eb693d,signature is generated before compression and encryption is applied after compression why,Signature is generated before compression and encryption is applied after compression. Why?,Cryptography and Network Security,4th-year.pdf,1,2312
+4th Year,a8b41fd42137,simplified fuzzy artmap,Simplified fuzzy ARTMAP?,Soft Computing,4th-year.pdf,1,5885
+4th Year,c099a42a5555,site,Site?,General Computer Science,4th-year.pdf,1,7291
+4th Year,322de37e7033,solve the following,Solve the following,General Computer Science,4th-year.pdf,1,1935
+4th Year,732975bf18a1,specify the reason,Specify the reason?,BCST-802/BITT-802,4th-year.pdf,1,7105
+4th Year,4ae5388ab4dc,state and explain the encoding procedure,State and explain the encoding procedure,General Computer Science,4th-year.pdf,1,3934
+4th Year,c8564d2ae640,state and prove chinese reminder theorem,State and prove Chinese Reminder Theorem?,General Computer Science,4th-year.pdf,1,2255
+4th Year,a3cd81b8d5f0,state and prove fermat theorem what is euler phi function,State and prove Fermat theorem. What is Euler Phi function?,Cryptography and Network Security,4th-year.pdf,1,2238
+4th Year,c7a8b8fa1180,state graph for binary multiplier control circuit and write the vhdl code for binary multiplier,state graph for binary multiplier control circuit and write the VHDL  code for 4 × 4 binary multiplier.,Computer Graphics,4th-year.pdf,1,4868
+4th Year,7d1e89d85819,state rules for evaluating olap products developed by c f codd,State 12 rules for evaluating OLAP products developed by C.F Codd.,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4370
+4th Year,ea084dbe4a12,state the algorithm for perceptron learning train a,State the algorithm for perceptron learning. Train a,General Computer Science,4th-year.pdf,1,6209
+4th Year,7459800ecf8d,state the applications of artificial neural networks and explain any two in,State the applications of artificial neural networks and explain any two in,Soft Computing,4th-year.pdf,1,6099
+4th Year,9e38b83eef37,state the training procedure of kohonen layer and grossberg layer in counter,State the training procedure of Kohonen layer and Grossberg layer in counter,General Computer Science,4th-year.pdf,1,6226
+4th Year,d194691ca8a2,state the various learning rules in neural networks,State the various learning rules in neural networks.,Soft Computing,4th-year.pdf,1,6135
+4th Year,297baf09f24a,storage applications,storage applications?,BCST-802/BITT-802,4th-year.pdf,1,7132
+4th Year,d657f1933019,strategies in opensolaris and linux what roles do kmem and vmem play,strategies in OpenSolaris and Linux. What roles do kmem and vmem play?,Operating Systems,4th-year.pdf,1,1282
+4th Year,5719ada9646e,such it is encountered,such it is encountered?,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,3339
+4th Year,9cbe7130743c,suggest methods to cope it explain chi square method to check,Suggest methods to cope it. (e) Explain chi square method to check,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,3339
+4th Year,57cfc69bb074,summarize their,Summarize their,S1 X,4th-year.pdf,1,3227
+4th Year,675acbec0f7b,support your answer with an example,Support your answer with an example.,General Computer Science,4th-year.pdf,1,736
+4th Year,04e85d09dc46,synchronize the clocks in a distributed system,synchronize the clocks in a distributed system?,Distributed Systems,4th-year.pdf,1,2810
+4th Year,317f1e761f2f,system,system?,General Computer Science,4th-year.pdf,1,4906
+4th Year,317f1e761f2f,system,system?,General Computer Science,4th-year.pdf,1,522
+4th Year,bc2eaa1c2e3c,system administrator,system administrator?,010X20-80T,4th-year.pdf,1,6436
+4th Year,452e00457f63,system and how,system and how?,General Computer Science,4th-year.pdf,1,517
+4th Year,36fbba7e1fe0,system what are the mechanisms for building of distributed file system,system. What are the mechanisms for building of distributed file system?,Distributed Systems,4th-year.pdf,1,2519
+4th Year,8c583b83b41a,systems how can these challenges be mitigated,systems.  How can these challenges be mitigated?,Cloud Computing,4th-year.pdf,1,1729
+4th Year,8472eb6c4603,take to perform instructions,take to perform 100 instructions?,General Computer Science,4th-year.pdf,1,521
+4th Year,6c1b8e154585,tcs porquant for en nousexe brid evitobito odi sitra oled,TCS-702 porquant for en nousexe-brid 10880 evitobito odi Sitra oled?,S0178,4th-year.pdf,1,591
+4th Year,c95ee47689a0,tech,TECH (SEMESTER-VII),B.TECH (SEMESTER-VII),4th-year.pdf,1,4305
+4th Year,c95ee47689a0,tech,TECH (SEMESTER-VIII),B.TECH (SEMESTER-VIII),4th-year.pdf,1,2181
+4th Year,c95ee47689a0,tech,TECH. (CSE) (SEMESTER-VII),B.TECH. (CSE) (SEMESTER-VII),4th-year.pdf,1,599
+4th Year,c95ee47689a0,tech,TECH. (CSE/IT) (SEMESTER-VIII),B.TECH. (CSE/IT) (SEMESTER-VIII),4th-year.pdf,1,5050
+4th Year,c95ee47689a0,tech,TECH. (Computer Science) (SEMESTER-VIII),General Computer Science,4th-year.pdf,1,7197
+4th Year,c95ee47689a0,tech,TECH. (SEMESTER-VIII),B.TECH. (SEMESTER-VIII),4th-year.pdf,1,4879
+4th Year,c95ee47689a0,tech,TECH.(CS/IT) (SEMESTER-VII),B.TECH.(CS/IT) (SEMESTER-VII),4th-year.pdf,1,6650
+4th Year,c95ee47689a0,tech,Tech,NOTE:,4th-year.pdf,1,1101
+4th Year,c95ee47689a0,tech,Tech,General Computer Science,4th-year.pdf,1,2384
+4th Year,c95ee47689a0,tech,Tech.,CS-033,4th-year.pdf,1,3740
+4th Year,c95ee47689a0,tech,Tech.,CS-42/TT-42,4th-year.pdf,1,3297
+4th Year,c95ee47689a0,tech,Tech.,PAPER ID: 4097,4th-year.pdf,1,3964
+4th Year,c95ee47689a0,tech,Tech.,TCS 089/TIT-802,4th-year.pdf,1,2030
+4th Year,c95ee47689a0,tech,Tech.,General Computer Science,4th-year.pdf,1,4154
+4th Year,c95ee47689a0,tech,Tech.,General Computer Science,4th-year.pdf,1,6372
+4th Year,c95ee47689a0,tech,Tech.,General Computer Science,4th-year.pdf,1,3088
+4th Year,c95ee47689a0,tech,Tech.,General Computer Science,4th-year.pdf,1,5196
+4th Year,c95ee47689a0,tech,Tech.,General Computer Science,4th-year.pdf,1,3610
+4th Year,c95ee47689a0,tech,Tech. (CSE) (SEMESTER-VIII),General Computer Science,4th-year.pdf,1,7367
+4th Year,c95ee47689a0,tech,Tech. (SEMESTER-VIII),General Computer Science,4th-year.pdf,1,970
+4th Year,57d2e60a0dba,tech data mining and data warehousing,"Tech (CSE/IT, 7th Semester) Data Mining and Data Warehousing",General Computer Science,4th-year.pdf,1,4507
+4th Year,dab757902d84,tech soft computing,TECH (VII SEM) SOFT COMPUTING,Soft Computing,4th-year.pdf,1,6264
+4th Year,b41c6aff6d5d,technique,technique?,General Computer Science,4th-year.pdf,1,2111
+4th Year,b41c6aff6d5d,technique,technique?,ADVANCED COMPUTER ARCHITECTURE (TCS-702),4th-year.pdf,1,478
+4th Year,d0975e67a95c,techniques,techniques?,General Computer Science,4th-year.pdf,1,6980
+4th Year,56e6120618f2,terms of architecture and use cases where would you prefer one over the other,terms of architecture and use cases. Where would you prefer one  over the other?,"EXAMINATION, 2024 – 25",4th-year.pdf,1,1253
+4th Year,a5982254025b,the importance of thread pooling b what do you understand by ado net,the importance of thread pooling. (5 marks)  b) What do you understand by ADO.Net?,General Computer Science,4th-year.pdf,1,145
+4th Year,162f28f7c1e5,the tree pruning,the tree pruning?,Data Structures,4th-year.pdf,1,4560
+4th Year,e7a4425df4b6,their advantages,their  advantages?,General Computer Science,4th-year.pdf,1,1337
+4th Year,9f4c9ed49c4e,they evolve from multics and mls,they  evolve from MULTICS and MLS?,General Computer Science,4th-year.pdf,1,1405
+4th Year,91107f7c1e37,to executable and linkable files,to  executable and linkable files?,General Computer Science,4th-year.pdf,1,1332
+4th Year,0284c6ac58cb,tools,tools?,010X20-80T,4th-year.pdf,1,6437
+4th Year,3be8686e45b9,tracing capabilities,tracing  capabilities?,General Computer Science,4th-year.pdf,1,1366
+4th Year,f5ad84358d90,training of neural network models,training of neural network models?,Computer Networks,4th-year.pdf,1,5988
+4th Year,78f767ed3a52,types of attacks today,types of attacks today?,10X2,4th-year.pdf,1,1194
+4th Year,28ca41a103cf,unix how does the x architecture help implement system calls,UNIX. How does the x86 architecture help implement system  calls?,Operating Systems,4th-year.pdf,1,1238
+4th Year,09108b819018,using grid computing,using grid computing?,General Computer Science,4th-year.pdf,1,5023
+4th Year,7acfa04d4495,using proc what optimizations would you include,using /proc.  What optimizations would you include?,"EXAMINATION, 2024 – 25",4th-year.pdf,1,1276
+4th Year,43aca25a7f27,utility to do ip filtering in linux,utility to do IP filtering in linux?,Computer Networks,4th-year.pdf,1,4279
+4th Year,0fd7f5ae3046,view related to data warehouse,view related to data warehouse?,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4326
+4th Year,3d76dd34318f,viruses,Viruses,General Computer Science,4th-year.pdf,1,2169
+4th Year,aff024fe4ab0,w,W,General Computer Science,4th-year.pdf,1,6472
+4th Year,f016c8bfb1ca,what additional data mining techniques would you use and what algorithms would you use to implement them and why there is a hotel chain in the us having hotels spread over states there are two brand lines of hotels the primary line of hotels features larger than average room most of which are suites the target customers are business travelers and upscale vacationers the second line of hotel features competitive rates though with limited facilities the target customers,"What additional data mining techniques would you use and what algorithms would you use to implement them and why? There is a hotel chain in the US having 500 hotels spread over 40 states. There are two brand lines of hotels. The primary line of hotels features larger than average room, most of which are suites. The target customers are business travelers and upscale vacationers. The second line of hotel features competitive rates, though with limited facilities. The target customers",DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,5328
+4th Year,3a8b5782f96a,what are,What are,General Computer Science,4th-year.pdf,1,2486
+4th Year,cc4c7e48213a,what are agreement and validity objective of byzantine agreement,What are agreement and validity objective of Byzantine agreement,General Computer Science,4th-year.pdf,1,4941
+4th Year,c9f754fb72f9,what are agreement protocols,(d) What are Agreement protocols?,General Computer Science,4th-year.pdf,1,2853
+4th Year,c9f754fb72f9,what are agreement protocols,What are agreement protocols?,General Computer Science,4th-year.pdf,1,4941
+4th Year,ec3a535a7054,what are commit protocols,(c) What are Commit protocols?,General Computer Science,4th-year.pdf,1,2904
+4th Year,7fd8d93dae63,what are confusion and diffusion properties of modern ciphers,(a) What are Confusion and Diffusion properties of Modern Ciphers?,BCST-802/BITT-802,4th-year.pdf,1,7103
+4th Year,246f1ddb3ec4,what are device files raw and block files in unix o s,"What are Device files, Raw and Block files in Unix O/S ?",Operating Systems,4th-year.pdf,1,4242
+4th Year,bb39e46799bd,what are differences,What are differences,General Computer Science,4th-year.pdf,1,4912
+4th Year,7c85d0a53087,what are different,What are different,NFS ?,4th-year.pdf,1,4278
+4th Year,4e4d95801bb3,what are different file system exist in unix,What are different file system exist in UNIX ?,Operating Systems,4th-year.pdf,1,4182
+4th Year,dc173ad171d3,what are different kernel boot files,What are different Kernel boot files?,Operating Systems,4th-year.pdf,1,6401
+4th Year,dc173ad171d3,what are different kernel boot files,What are different kernel boot files ?,Operating Systems,4th-year.pdf,1,4199
+4th Year,f7eab6bc6f72,what are different maps used in nis,What are different maps used in NIS.,"(SEM. VII) (ODD SEM.) (REG.) EXAMINATION, 2012-13 SYSTEM ADMINISTRATION",4th-year.pdf,1,4223
+4th Year,f7eab6bc6f72,what are different maps used in nis,What are different maps used in NIS?,LDAP?,4th-year.pdf,1,6462
+4th Year,b30add6093a6,what are different threats to web security,What are different threats to web security?,Web Technology,4th-year.pdf,1,2081
+4th Year,8eb59a069dd3,what are different ways to configure ip accounting,What are different ways to configure IP accounting?,Computer Networks,4th-year.pdf,1,4244
+4th Year,7a105a3e94ae,what are distributed systems,(b) What are distributed systems?,Distributed Systems,4th-year.pdf,1,2411
+4th Year,295eceee755f,what are hidden node and exposed node problems in wireless lan,(a)(i)  What are hidden node and exposed node problems in wireless LAN?,General Computer Science,4th-year.pdf,1,3649
+4th Year,05c839120d97,what are iso network management standards,(a) What are ISO Network Management Standards?,Computer Networks,4th-year.pdf,1,1077
+4th Year,537cb501d57f,what are its components,What are its components?,"(SEM. VII) (ODD SEM.) (REG.) EXAMINATION, 2012-13 SYSTEM ADMINISTRATION",4th-year.pdf,1,4236
+4th Year,a4d3af877867,what are lamport s logical clocks,What are Lamport's Logical Clocks?,General Computer Science,4th-year.pdf,1,2427
+4th Year,8f5fe1cd5e02,what are locks,(b) What are Locks?,General Computer Science,4th-year.pdf,1,2901
+4th Year,b8f852fb8049,what are main benefits of,What are main benefits of,General Computer Science,4th-year.pdf,1,5021
+4th Year,c87377247ec0,what are schedulers,What are Schedulers?,General Computer Science,4th-year.pdf,1,6824
+4th Year,90bbd58afa5e,what are shortcomings of ho ramamoorthys two phase algorithm for deadlock detection,What are shortcomings of Ho Ramamoorthys two phase algorithm for deadlock detection?,Distributed Systems,4th-year.pdf,1,2494
+4th Year,bee827535312,what are significant advantages and limitation of distributed,What are significant advantages and limitation of distributed,Distributed Systems,4th-year.pdf,1,4905
+4th Year,c18b30480beb,what are significant xor advantages and limitations of,What are significant 05-xor advantages and limitations of,Distributed Systems,4th-year.pdf,1,2411
+4th Year,9800446fcba2,what are some general principles of network design,What are some general principles of network design?,Computer Networks,4th-year.pdf,1,1154
+4th Year,ca3cc76cb3bb,what are some of the features available to you in a vlan implementation,What are some of the features available to you in a VLAN implementation?,10X2,4th-year.pdf,1,1179
+4th Year,d900d2fca6bd,what are some of the issues you need to address in a mixed media environment such as mixing token ring and ethernet lans,"What are some of the issues you need to address in a mixed-media environment, (580) such as mixing Token Ring and Ethernet LANs?",Computer Networks,4th-year.pdf,1,1185
+4th Year,fd812a6cff3c,what are some of the more prevalent,What are some of the more prevalent,10X2,4th-year.pdf,1,1192
+4th Year,743ace1bddd0,what are the,What are the,General Computer Science,4th-year.pdf,1,2840
+4th Year,971a5f80aa11,what are the advantages of mobile agent programming,What are the advantages of Mobile Agent programming?,Artificial Intelligence,4th-year.pdf,1,3707
+4th Year,2f66fe885899,what are the advantages of xml over html,What are the advantages of XML over HTML?,Web Technology,4th-year.pdf,1,7442
+4th Year,482fba44d23f,what are the applications of web technology in day to day life,What are the applications of Web Technology in day to day life?,Web Technology,4th-year.pdf,1,7413
+4th Year,f288b8ecb6dc,what are the common methods to enable secure communication using,What are the common methods to enable secure communication using,General Computer Science,4th-year.pdf,1,2060
+4th Year,bef99b2e455c,what are the data administration techniques,(c) What are the Data Administration Techniques?,WATAO,4th-year.pdf,1,4705
+4th Year,1622423cdc7f,what are the dependences between s and s,What are the dependences between S1 and S2?,General Computer Science,4th-year.pdf,1,331
+4th Year,8845d36bfe70,what are the design issues of network security,(a) What are the design issues of Network Security?,Cryptography and Network Security,4th-year.pdf,1,1030
+4th Year,76f8c2ca147e,what are the differences between nis and nis,What are the differences between NIS and NIS+?,Operating Systems,4th-year.pdf,1,6637
+4th Year,01ba6218c692,what are the differences between no coupling loose coupling semitight coupling and tight coupling,"what are the differences between no coupling, loose coupling, semitight coupling, and tight coupling?",General Computer Science,4th-year.pdf,1,5519
+4th Year,068db81c1f8f,what are the differences in centralized and distributed algorithms,(b) What are the differences in centralized and distributed algorithms?,Distributed Systems,4th-year.pdf,1,2498
+4th Year,c1efa1709505,what are the differences in centralized distributed,"What are the differences in Centralized, Distributed",Distributed Systems,4th-year.pdf,1,2864
+4th Year,5975d945f101,what are the different components of a data warehouse,(a) What are the different components of a data warehouse?,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4680
+4th Year,ba785824d6c0,what are the different layers of unix architecture,(a) What are the different layers of Unix Architecture?,Operating Systems,4th-year.pdf,1,4263
+4th Year,1ca97b1f6dc2,what are the different types of permissions,What are the different types of permissions?,B.TECH.(CS/IT) (SEMESTER-VII),4th-year.pdf,1,6662
+4th Year,5308cb6dfede,what are the dimensions of quality,What are the dimensions of Quality?,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,3982
+4th Year,7e0f077eca72,what are the disadvantages of disadvantages of distributed systems,What are the Disadvantages of Disadvantages of Distributed Systems?,Distributed Systems,4th-year.pdf,1,5089
+4th Year,e5c487718540,what are the effects of steepness of activation function and learning constant in,What are the effects of steepness of activation function and learning constant in,General Computer Science,4th-year.pdf,1,5986
+4th Year,03b08120fe81,what are the entities that constitute kerberos environment,What are the entities that constitute Kerberos environment?,MB2) HOSTI,4th-year.pdf,1,2279
+4th Year,85ce03606700,what are the essential differences in the lock based protocols and time stamp,What are the essential differences in the Lock-based protocols and Time stamp-,General Computer Science,4th-year.pdf,1,2901
+4th Year,6e325d463dd6,what are the events and notification of distributed objects,(b) What are the events and notification of distributed objects?,Distributed Systems,4th-year.pdf,1,2515
+4th Year,aacec0c73b75,what are the five principal services provided by,What are the five principal services provided by,Cryptography and Network Security,4th-year.pdf,1,2017
+4th Year,f1bb6791849e,what are the four common questions for the first level of memory hierarchy,(A) What are the four common questions for the first level of memory hierarchy?,S1 X,4th-year.pdf,1,3227
+4th Year,e95c4e9d5a7e,what are the fundamental requirements for cloud application architecture,(b) What are the fundamental requirements for cloud application architecture?,Cloud Computing,4th-year.pdf,1,7072
+4th Year,4f56297a129f,what are the goals of a data warehouse,What are the goals of a data warehouse?,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4658
+4th Year,2911d165f818,what are the hardware and software requirements of multimedia computer,What are the hardware and software requirements of multimedia computer?,5X4 20,4th-year.pdf,1,3784
+4th Year,ffdd81f60845,what are the important factors that influence purchases,What are the important factors that influence purchases?,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,4039
+4th Year,a4063f8ca73f,what are the issues associated with implementations of the standards for quality,What are the issues associated with implementations of the standards for quality,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,5672
+4th Year,47f2e09a4088,what are the main features of nfs,What are the main features of NFS ?,"(SEM. VII) (ODD SEM.) (REG.) EXAMINATION, 2012-13 SYSTEM ADMINISTRATION",4th-year.pdf,1,4275
+4th Year,a375e4501598,what are the main features of nfs and nfs daemons,What are the main features of NFS and NFS Daemons?,HOBT,4th-year.pdf,1,6625
+4th Year,497eeb367d87,what are the main objectives of,What are the main objectives of,General Computer Science,4th-year.pdf,1,4591
+4th Year,8c355772e207,what are the messages exchange between sta and ap in wlan,What are the messages exchange between STA and AP in WLAN?,10X2,4th-year.pdf,1,1174
+4th Year,5a3263f3de89,what are the methods used for safe and secure online transactions,What are the methods used for safe and secure online transactions?,General Computer Science,4th-year.pdf,1,2061
+4th Year,588f742de570,what are the networking issues for distributed systems,What are the networking issues for distributed systems?,Distributed Systems,4th-year.pdf,1,5105
+4th Year,01f96ed8c153,what are the objectives of set,(c) What are the objectives of SET?,BCST-802/BITT-802,4th-year.pdf,1,7138
+4th Year,98da91c867d9,what are the objectives of using a firewall,What are the objectives of using a firewall?,Cryptography and Network Security,4th-year.pdf,1,2066
+4th Year,44749c474268,what are the principal design parameters of a fuzzy logic controller,What are the principal design parameters of a Fuzzy Logic Controller?,Soft Computing,4th-year.pdf,1,6176
+4th Year,e94aeb0ea392,what are the principles of security explain each in detail,"What are the principles of security, Explain each in detail.",Cryptography and Network Security,4th-year.pdf,1,2196
+4th Year,f1172ab4a994,what are the problems and solution in message authentication,What are the problems and solution in message authentication?,MB2) HOSTI,4th-year.pdf,1,2262
+4th Year,208478d64881,what are the properties of digital signature,What are the properties of digital signature?,Cryptography and Network Security,4th-year.pdf,1,2273
+4th Year,eec8e3049412,what are the quality control charts,What are the Quality Control Charts?,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,4017
+4th Year,565beee58f97,what are the quality manuals,What are the quality manuals?,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,5668
+4th Year,fa5f21b8b4c2,what are the requirements for security and fault tolerance in agent system,What are the requirements for security and fault tolerance in agent system?,Artificial Intelligence,4th-year.pdf,1,3712
+4th Year,5f8ee9c4c7b5,what are the research challenges to data mining,(b) What are the research challenges to data mining?,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,3318
+4th Year,b452d68f3608,what are the silent features of mips pipeline,What are the silent features of MIPS pipeline?,ADVANCE COMPUTER ARCHITECTURE,4th-year.pdf,1,645
+4th Year,1ef800e8bccb,what are the stages of quality assurance systems,What are the stages of quality assurance systems?,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,5660
+4th Year,bb37b5100a74,what are the steps that contain the core technique of bench marking,What are the steps that contain the core technique of Bench Marking?,General Computer Science,4th-year.pdf,1,4133
+4th Year,665f2a0f1663,what are the systems that are used to detect intrusion,What are the systems that are used to detect intrusion,General Computer Science,4th-year.pdf,1,2076
+4th Year,f6265abd13c6,what are the three basic components of a switched network,(B) What are the three basic components of a switched network?,Computer Networks,4th-year.pdf,1,1128
+4th Year,420b5bf7e4f6,what are the two main factors that threaten the atomicity of transaction,What are the two main factors that threaten the atomicity of transaction?,Database Management System,4th-year.pdf,1,2528
+4th Year,1a868c94a93b,what are the two requirements of a good mutual exclusion algorithm,What are the Two requirements of a good Mutual Exclusion algorithm?,Distributed Systems,4th-year.pdf,1,2842
+4th Year,c07e2495995f,what are the two security services provided by ipsec,(ii) What are the two security services provided by IPSec?,Cryptography and Network Security,4th-year.pdf,1,2015
+4th Year,c24c2245d6a6,what are the types of attacks addressed by message authentication,(a) What are the types of attacks addressed by message authentication?,General Computer Science,4th-year.pdf,1,7148
+4th Year,0f2292f95148,what are the various step involved in logging into unix,What are the various step involved in logging into UNIX?,Operating Systems,4th-year.pdf,1,4196
+4th Year,e326d570b563,what are the various tags used during table,What are the various tags used during table?,[4X5 = 20],4th-year.pdf,1,7409
+4th Year,1cf64a7a0f12,what are they being used for,What are they being used for?,General Computer Science,4th-year.pdf,1,6826
+4th Year,9de830ab9f96,what are two,What are two,General Computer Science,4th-year.pdf,1,7148
+4th Year,eaddadd8ac51,what are various operators used in php,What are various operators used in PHP?,[4X5 = 20],4th-year.pdf,1,7401
+4th Year,a1967c6a51c3,what are vector clocks,What are Vector Clocks?,General Computer Science,4th-year.pdf,1,2448
+4th Year,f42842a3d511,what are wave and traversal algorithms,What are wave and traversal Algorithms?,General Computer Science,4th-year.pdf,1,2360
+4th Year,aa5c69e039d7,what are widgets,What are widgets?,Web Technology,4th-year.pdf,1,7219
+4th Year,35fb9c31e6cb,what basic arithmetical and logical function are used in sha,(ii) What basic arithmetical and logical function are used in SHA?,Cryptography and Network Security,4th-year.pdf,1,1991
+4th Year,8be4c591c356,what can be the impact of computer network attack,(C) What can be the impact of computer network attack?,Computer Networks,4th-year.pdf,1,1130
+4th Year,2d3e340523f0,what could be the impact of absence of global clock and shared memory,What could be the impact of absence of global clock and shared memory,General Computer Science,4th-year.pdf,1,4906
+4th Year,f86f2dec5c51,what different types of firewall exist,What different types of firewall exist?,Cryptography and Network Security,4th-year.pdf,1,6527
+4th Year,6dcbc9bef37c,what do mean by ip accounting,What do mean by IP accounting?,Computer Networks,4th-year.pdf,1,4244
+4th Year,6b311eb5a331,what do you mean by auditing,What do you mean by auditing?,General Computer Science,4th-year.pdf,1,5709
+4th Year,7d3428c58d4a,what do you mean by byzantine agreement problem,What do you mean by Byzantine Agreement Problem?,General Computer Science,4th-year.pdf,1,2506
+4th Year,c21726143063,what do you mean by casual ordering of message,What do you mean by casual ordering of message?,General Computer Science,4th-year.pdf,1,4987
+4th Year,4552cf2875cc,what do you mean by cloud computing,What do you mean by cloud computing?,Cloud Computing,4th-year.pdf,1,5028
+4th Year,5c29f68112e4,what do you mean by concept hierarchy,What do you mean by concept hierarchy?,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4338
+4th Year,a6b1e03f660e,what do you mean by d problem solving processes,What do you mean by 8 - D problem solving processes.,General Computer Science,4th-year.pdf,1,4088
+4th Year,86af471d0fb8,what do you mean by distributed file system,(c) What do you mean by Distributed File System?,Distributed Systems,4th-year.pdf,1,2518
+4th Year,364ffb03cf1e,what do you mean by distributed mutual exclusion,What do you mean by Distributed Mutual Exclusion?,Distributed Systems,4th-year.pdf,1,2480
+4th Year,d06fed8ecc5a,what do you mean by distributed object model,What do you mean by Distributed object model?,Distributed Systems,4th-year.pdf,1,2888
+4th Year,65916961cc5e,what do you mean by distributed objects,(a) What do you mean by distributed objects?,Distributed Systems,4th-year.pdf,1,4967
+4th Year,b279d1a6c965,what do you mean by firewall,What do you mean by firewall?,Cryptography and Network Security,4th-year.pdf,1,6527
+4th Year,13175d7963be,what do you mean by global state of distributed system,What do you mean by global state of distributed system?,Distributed Systems,4th-year.pdf,1,4912
+4th Year,7b21dd51956e,what do you mean by lamport s logical clock,What do you mean by Lamport's Logical clock?,General Computer Science,4th-year.pdf,1,2830
+4th Year,6c0daf1062b8,what do you mean by leadership commitment,What do you mean by Leadership Commitment?,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,4000
+4th Year,6adeb1e6397a,what do you mean by multiuser and multitasking operating system,What do you mean by multiuser and multitasking operating system?,Operating Systems,4th-year.pdf,1,6595
+4th Year,e89109c898bb,what do you mean by one way property in hash function,(b) What do you mean by one way property in hash function?,Cryptography and Network Security,4th-year.pdf,1,7118
+4th Year,d7999a488870,what do you mean by pram algorithm,What do you mean by PRAM algorithm?,General Computer Science,4th-year.pdf,1,287
+4th Year,ddfcdbca38eb,what do you mean by problem of mutual exclusion os in distributed system,(a) What do you mean by problem of Mutual Exclusion OS= in distributed system?,Distributed Systems,4th-year.pdf,1,2840
+4th Year,2bfd0883b3bb,what do you mean by quality charts,What do you mean by quality charts?,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,5646
+4th Year,f7b2531ab9da,what do you mean by syndicating contents with rss,What do you mean by syndicating contents with RSS?,Web Technology,4th-year.pdf,1,7258
+4th Year,5da122358a9b,what do you mean by system backup and recovery and how it is implemented in,What do you mean by system backup and recovery and how it is implemented in,HOBT,4th-year.pdf,1,6631
+4th Year,590bff6720a9,what do you mean by the term system administrator,What do you mean by the term System Administrator?,SYSTEM ADMINISTRATION,4th-year.pdf,1,6504
+4th Year,1900b96498eb,what do you mean by traffic analysis and traffic flow security,What do you mean by traffic analysis and traffic flow security?,Cryptography and Network Security,4th-year.pdf,1,2227
+4th Year,07b09c607b04,what do you mean confusion and diffusion,What do you mean confusion and diffusion?,Cryptography and Network Security,4th-year.pdf,1,2204
+4th Year,7fca04aebbe6,what do you meant by client server communication,What do you meant by client server communication?,(5X4=20),4th-year.pdf,1,5109
+4th Year,f432c214d50c,what do you understand by a dual signature that,What do you understand by a dual signature that,BCST-802/BITT-802,4th-year.pdf,1,7138
+4th Year,90bac5dafa11,what do you understand by an activation function,What do you understand by an activation function?,Soft Computing,4th-year.pdf,1,5935
+4th Year,6f8df6d7c332,what do you understand by switching design,What do you understand by Switching Design?,General Computer Science,4th-year.pdf,1,1008
+4th Year,a4e258568fe8,what do you understand by training of an artificial neural network,What do you understand by training of an artificial neural network?,Computer Networks,4th-year.pdf,1,6030
+4th Year,ae056fded229,what geometric shape is used in cellular system design and why,(d) What geometric shape is used in cellular system design and why ?,MOBILE COMPUTING,4th-year.pdf,1,3632
+4th Year,253c5cd6e8d2,what hit rate is needed to support a processor system,What hit rate is needed to support a 20-processor system?,General Computer Science,4th-year.pdf,1,3191
+4th Year,0bfcd2028dd5,what information is stored in i node,What information is stored in I-node?,General Computer Science,4th-year.pdf,1,6398
+4th Year,96938ebc1420,what information is stored in inode,What information is stored in Inode ?,Operating Systems,4th-year.pdf,1,4186
+4th Year,f8359e59868f,what is,What is,"(SEM. VII) (ODD SEM.) (REG.) EXAMINATION, 2012-13 SYSTEM ADMINISTRATION",4th-year.pdf,1,4229
+4th Year,2dfd2a78b24d,what is a firewall,What is a firewall?,Cryptography and Network Security,4th-year.pdf,1,2066
+4th Year,0cd63336300d,what is a key distribution center,(ii)What is a Key distribution center?,Cryptography and Network Security,4th-year.pdf,1,2003
+4th Year,dd5a2d5066de,what is a perceptron network,What is a perceptron network?,Computer Networks,4th-year.pdf,1,6209
+4th Year,26d25d910c6a,what is a transaction,(b) What is a transaction?,Database Management System,4th-year.pdf,1,2528
+4th Year,152551600dc6,what is addition multiplicative and additive inverses modulo,"(c) What is addition, multiplicative and additive inverses modulo 8?",BCST-802/BITT-802,4th-year.pdf,1,7120
+4th Year,4674838d2efd,what is adhoc networks,(a) What is adhoc networks?,General Computer Science,4th-year.pdf,1,3719
+4th Year,5986d6ad9309,what is amdahl s law,What is Amdahl's law?,General Computer Science,4th-year.pdf,1,734
+4th Year,eaad7a43b160,what is authentication protocol,What is authentication protocol?,MB2) HOSTI,4th-year.pdf,1,2271
+4th Year,130cd6d9c8d5,what is bluetooth,What is Bluetooth?,NETWORKS,4th-year.pdf,1,1483
+4th Year,f6e9e54b0f9b,what is boot disk,What is boot disk?,ΤΕΘΕΙΘΕΟΣ,4th-year.pdf,1,6751
+4th Year,f90a52092c77,what is cache coherence,What is cache coherence?,General Computer Science,4th-year.pdf,1,315
+4th Year,fec75990a3b0,what is clustering analysis,What is clustering analysis?,Machine Learning,4th-year.pdf,1,4441
+4th Year,fd4fc304a081,what is coda,(c)  What is CODA?,General Computer Science,4th-year.pdf,1,3686
+4th Year,1599df4bb857,what is data warehouse,What is data warehouse?,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4658
+4th Year,1599df4bb857,what is data warehouse,What is data warehouse?,General Computer Science,4th-year.pdf,1,4421
+4th Year,7deb29b28934,what is difference between owner trust field and key legitimacy field,What is difference between owner-trust field and key legitimacy field?,MB2) HOSTI,4th-year.pdf,1,2308
+4th Year,625a7b1b86d6,what is difference between ssl connection and ssl,What is difference between SSL connection and SSL,General Computer Science,4th-year.pdf,1,2343
+4th Year,41d0cbc56e41,what is digital certificate,What is digital certificate?,MB2) HOSTI,4th-year.pdf,1,2291
+4th Year,61b8b284a9f7,what is fermat s theorem,(A) What is Fermat's theorem?,5 X 4,4th-year.pdf,1,2094
+4th Year,a3ad8f0c44fe,what is file system,What is file system?,SYSTEM ADMINISTRATION,4th-year.pdf,1,6500
+4th Year,2089c111ef27,what is firewall,What is firewall?,Cryptography and Network Security,4th-year.pdf,1,2333
+4th Year,5bb9c7d44a80,what is hacking,What is Hacking?,General Computer Science,4th-year.pdf,1,1042
+4th Year,4bcf413f0e1b,what is handover,What is handover?,MOBILE COMPUTING,4th-year.pdf,1,3630
+4th Year,cf18bb2981c4,what is hierarchical ip address design,(e) What is Hierarchical IP address Design?,Computer Networks,4th-year.pdf,1,1022
+4th Year,d9ad8580a665,what is hybrid computing,(5 marks) (ii) What is Hybrid computing?,General Computer Science,4th-year.pdf,1,5883
+4th Year,66c0e6f929ae,what is ip filtering explain with suitable example,"What is IP filtering, explain with suitable example.",Computer Networks,4th-year.pdf,1,6672
+4th Year,8df49aa34f73,what is ipv routing design,What is IPv4 Routing design?,General Computer Science,4th-year.pdf,1,1012
+4th Year,1f21c1788ea9,what is its effect on the pipeline clock period,What is its effect on the pipeline clock period?,ADVANCE COMPUTER ARCHITECTURE,4th-year.pdf,1,646
+4th Year,0dd7935deb28,what is linux scheduler,What is LINUX Scheduler?,Operating Systems,4th-year.pdf,1,6550
+4th Year,cd40c96f03b1,what is marshalling and unmarshalling,What is marshalling and unmarshalling?,(5X4=20),4th-year.pdf,1,5113
+4th Year,263ba69780c5,what is meant by intrusion detection,What is meant by intrusion detection?,General Computer Science,4th-year.pdf,1,2076
+4th Year,b670557d35d1,what is meant by multi user and multitasking operating system,What is meant by multi user and Multitasking operating system?,Operating Systems,4th-year.pdf,1,4180
+4th Year,18ca8774da99,what is metadata,What is metadata?,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4627
+4th Year,23b801f2cb6e,what is midi message,What is MIDI message?,VO1230,4th-year.pdf,1,3836
+4th Year,e66c0c90d286,what is mobile agent,(b) What is Mobile Agent?,Artificial Intelligence,4th-year.pdf,1,3707
+4th Year,d077557a91c5,what is modular network design,What is Modular Network Design?,Computer Networks,4th-year.pdf,1,988
+4th Year,76f3d5762a55,what is mounting,What is mounting?,SYSTEM ADMINISTRATION,4th-year.pdf,1,6496
+4th Year,1338c0a58031,what is network design,(a) What is Network Design?,Computer Networks,4th-year.pdf,1,982
+4th Year,0b51c08c5865,what is olap,What is OLAP?,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4635
+4th Year,4555ee7d7f88,what is online transaction processing,What is online transaction processing (OLTP)?,Database Management System,4th-year.pdf,1,4364
+4th Year,5213f2edfc42,what is passphrase,What is passphrase?,MB2) HOSTI,4th-year.pdf,1,2304
+4th Year,e36e25fb8405,what is process,What is process?,Operating Systems,4th-year.pdf,1,4229
+4th Year,adf0dd5edde1,what is qos model,What is QoS Model?,General Computer Science,4th-year.pdf,1,1065
+4th Year,41fdb9f4f095,what is reservation table,What is Reservation table?,General Computer Science,4th-year.pdf,1,339
+4th Year,810a06dfdd0e,what is routing,What is Routing?,General Computer Science,4th-year.pdf,1,2363
+4th Year,64bc7652683a,what is ruby,What is Ruby?,General Computer Science,4th-year.pdf,1,7284
+4th Year,01b150b48995,what is safe campus design,What is SAFE Campus Design?,General Computer Science,4th-year.pdf,1,1046
+4th Year,722e101f64d1,what is ssl and set,What is SSL and SET?,General Computer Science,4th-year.pdf,1,2343
+4th Year,c6d3351e3900,what is steganography,What is Steganography?,Cryptography and Network Security,4th-year.pdf,1,2200
+4th Year,affceff763a9,what is supervised and unsupervised learning,What is supervised and unsupervised learning?,Machine Learning,4th-year.pdf,1,4441
+4th Year,e0f9eb6d17ac,what is the,What is the,LDAP?,4th-year.pdf,1,6457
+4th Year,82a193f47df1,what is the adaptive resonance theory,(5 marks) (ii) What is the Adaptive Resonance Theory?,General Computer Science,4th-year.pdf,1,5868
+4th Year,0527ff3da9ff,what is the difference between a b g and n,"What is the difference between 802.11a, 11b, 11g and 802.11n?",General Computer Science,4th-year.pdf,1,1146
+4th Year,4cb8c9616570,what is the difference between a block and stream cipher,(ii) What is the difference between a block and stream cipher?,Cryptography and Network Security,4th-year.pdf,1,1978
+4th Year,a93562e772a7,what is the difference between an ssl connection,What is the difference between an SSL connection,General Computer Science,4th-year.pdf,1,7171
+4th Year,e182f48ddaaa,what is the difference between block cipher and stream cipher,What is the difference between block cipher and stream cipher?,Cryptography and Network Security,4th-year.pdf,1,2102
+4th Year,6e51ffa7a90c,what is the difference between cluster computing and grid computing,What is the difference between cluster computing and grid computing?,General Computer Science,4th-year.pdf,1,3111
+4th Year,26c6853d4ca8,what is the difference between init and inittab,What is the difference between init and inittab?,B.TECH.(CS/IT) (SEMESTER-VII),4th-year.pdf,1,6698
+4th Year,6a7704aebb1d,what is the difference between regression and clustering,What is the difference between regression and clustering?,Machine Learning,4th-year.pdf,1,4631
+4th Year,ce5d5dc853ec,what is the difference between rmi and rpc,What is the difference between RMI and RPC?,Distributed Systems,4th-year.pdf,1,5101
+4th Year,314e0cb8c624,what is the difference between row,What is the difference between row,General Computer Science,4th-year.pdf,1,5489
+4th Year,8d6df3263f22,what is the difference between virus and trojan horse,What is the difference between virus and trojan horse?,General Computer Science,4th-year.pdf,1,2124
+4th Year,74a774a487e9,what is the difference between web servers web browser,What is the difference between web servers & web browser?,Web Technology,4th-year.pdf,1,7228
+4th Year,a4af177a75c1,what is the difference between wifi and bluetooth,What is the difference between WiFi and Bluetooth?,General Computer Science,4th-year.pdf,1,1150
+4th Year,81830041221f,what is the distributed system,What is the distributed system?,Distributed Systems,4th-year.pdf,1,4905
+4th Year,708276c2f967,what is the function of kernel,What is the function of Kernel?,Operating Systems,4th-year.pdf,1,4199
+4th Year,e498fc48feb6,what is the functionality of,What is the functionality of,HOBT,4th-year.pdf,1,6625
+4th Year,dfc97d04f559,what is the functionality of export file in,What is the functionality of Export file in,"(SEM. VII) (ODD SEM.) (REG.) EXAMINATION, 2012-13 SYSTEM ADMINISTRATION",4th-year.pdf,1,4275
+4th Year,8dddfdcf07f0,what is the limitation of lamport s logical clock,What is the limitation of Lamport's Logical clock?,General Computer Science,4th-year.pdf,1,2830
+4th Year,b512153e4a72,what is the maximum number of processors that can be supported by this system,(a) What is the maximum number of processors that can be supported by this system?,General Computer Science,4th-year.pdf,1,3185
+4th Year,0d3fb6b44697,what is the minimum allowed constant cycle in using this pipeline,What is the minimum allowed constant cycle in using this pipeline?,General Computer Science,4th-year.pdf,1,954
+4th Year,b9801ded21b1,what is the minimum average latency of the pipeline,What is the minimum average latency (MAL) of the pipeline?,General Computer Science,4th-year.pdf,1,950
+4th Year,7d06137f71c9,what is the name of main configuration file name for ldap server,(d) What is the name of main configuration file name for LDAP server?,HOBT,4th-year.pdf,1,6591
+4th Year,d5c6f7d62d09,what is the principle behind it,What is the principle behind it?,General Computer Science,4th-year.pdf,1,1889
+4th Year,52b165c4da22,what is the principle of digitization,What is the principle of digitization?,5X4 20,4th-year.pdf,1,3794
+4th Year,0b60c972370c,what is the reaction of standard tcp in case,What is the reaction of standard TCP in case,Computer Networks,4th-year.pdf,1,3666
+4th Year,bdecb95ed3c3,what is the registration process of iso,What is the registration process of ISO 9000?,Operating Systems,4th-year.pdf,1,4131
+4th Year,cd8f458fc6b4,what is the role of computational energy function in the discrete time hoplield network,What is the role of computational energy function in the Discrete-Time Hoplield network?,Computer Networks,4th-year.pdf,1,6005
+4th Year,75405af33432,what is the role of coordinator in distributed transaction,(a) What is the role of coordinator in distributed transaction ?,Database Management System,4th-year.pdf,1,5162
+4th Year,a5baaed3d624,what is the role of ip address and explain the process of assigning ip address,What is the role of IP address and explain the process of assigning IP address.,Computer Networks,4th-year.pdf,1,6668
+4th Year,e55b72191876,what is the role of proxy server in firewalls,What is the role of proxy server in firewalls?,ΤΕΘΕΙΘΕΟΣ,4th-year.pdf,1,6780
+4th Year,0f12c7f222eb,what is the role of quality policy for an,What is the role of Quality Policy for an,QUALITY SYSTEM AND MANAGEMENT,4th-year.pdf,1,3990
+4th Year,684a2dce1a9e,what is the role of rdf in the web,What is the role of RDF in the web?,Web Technology,4th-year.pdf,1,7299
+4th Year,a39183fb86ec,what is the role of system administrator,(b) What is the role of System Administrator?,"(SEM. VII) (ODD SEM.) (REG.) EXAMINATION, 2012-13 SYSTEM ADMINISTRATION",4th-year.pdf,1,4265
+4th Year,554e5ec11d16,what is the structure of public key and private key,What is the structure of public key and private key?,MB2) HOSTI,4th-year.pdf,1,2300
+4th Year,04f7e1fab25d,what is the use of host and network file,What is the use of host and network file?,Computer Networks,4th-year.pdf,1,4248
+4th Year,6813a77e7034,what is the use of inode,What is the use of Inode?,Operating Systems,4th-year.pdf,1,4186
+4th Year,83ac9796f5c9,what is the use of middleware,What is the use of Middleware ?,Distributed Systems,4th-year.pdf,1,5084
+4th Year,6b9a3ef33385,what is the various control statements used in java,What is the various control statements used in Java?,[4X5 = 20],4th-year.pdf,1,7405
+4th Year,6bb1fb4ffe82,what is the working principle of cellular code division multiple access what are its advantages compared to other multiple access techniques d explain the concept and importance of transmit diversity with example e define the different types of diversity in wireless communication explain how diversity improves communication reliability in fading environments f explain the different modes of wireless communication,What is the working principle of Cellular Code Division Multiple Access (CDMA)?  What are its advantages compared to other multiple access techniques? d) Explain the concept and importance of transmit diversity with example. e) Define the different types of diversity in wireless communication. Explain how  diversity improves communication reliability in fading environments. f) Explain the different modes of wireless communication.,General Computer Science,4th-year.pdf,1,7530
+4th Year,32919f606b7c,what is the xml attributes,What is the XML attributes?,Web Technology,4th-year.pdf,1,7434
+4th Year,72f16f3c64ee,what is the xml element,What is the XML element?,Web Technology,4th-year.pdf,1,7434
+4th Year,193f3594d141,what is their use as system administrator,What is their use as system administrator.,General Computer Science,4th-year.pdf,1,6824
+4th Year,f257cbb45d61,what is thread,What is thread?,General Computer Science,4th-year.pdf,1,430
+4th Year,d6cd664f5667,what is time series analysis,What is time series analysis?,General Computer Science,4th-year.pdf,1,4493
+4th Year,2568c6981d9e,what is use of active directory in windows,What is use of Active Directory in windows 2000 ?,Operating Systems,4th-year.pdf,1,4234
+4th Year,ea98b39e393b,what is use of host and ns switch configuration file b why backup is so,What is use of host and ns switch configuration file. b) Why Backup is so,Computer Networks,4th-year.pdf,1,6449
+4th Year,537a0a70065a,what is web service,(a) What is Web Service?,Web Technology,4th-year.pdf,1,7244
+4th Year,6f2662ab83d5,what is wireless lan design,(a) What is Wireless LAN Design?,General Computer Science,4th-year.pdf,1,1061
+4th Year,ab378fc46877,what kind of information a reservation table can provide,What kind of information a reservation table can provide?,General Computer Science,4th-year.pdf,1,339
+4th Year,a1dffc4a17d8,what kind of olap tools and data mining tools in terms of overall ds dw dm architecture would you plan to support use,What kind of OLAP tools and Data Mining tools in terms of overall DS-DW-DM architecture (2-tier / 3- tier / web based etc.) would you plan to support / use.,Web Technology,4th-year.pdf,1,5368
+4th Year,3ae60e51f375,what percent of the instances were correctly classified,What percent of the instances were correctly classified?,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,5420
+4th Year,b841f22db3eb,what preprocessing methods would you employ and why,What preprocessing methods would you employ and why?,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,5323
+4th Year,cca82e09e49b,what protocols comprise ssl,(a) What protocols comprise SSL?,General Computer Science,4th-year.pdf,1,7171
+4th Year,9882ac3194de,what role does it play,What role does it play,General Computer Science,4th-year.pdf,1,110
+4th Year,6b1295b756f0,what security features should i look for when buying a wireless router,(E) What Security Features Should I Look for When Buying a wireless router?,Computer Networks,4th-year.pdf,1,1134
+4th Year,11560eb3717e,what the difference is between include and require,What the difference is between include and require?,[4X5 = 20],4th-year.pdf,1,7446
+4th Year,a6bc670b5d15,what types of information might be,What types of information might be,Cryptography and Network Security,4th-year.pdf,1,2227
+4th Year,4939e398a47f,what will be the maximum throughput of this pipeline,What will be the maximum throughput of this pipeline?,General Computer Science,4th-year.pdf,1,958
+4th Year,5b50944fd776,what will be the speedup efficiency andthroughput of the,"What will be the speedup, efficiency andthroughput of the",General Computer Science,4th-year.pdf,1,521
+4th Year,7575894e65c9,what will be the throughput if the minimum constant cycle is used,What will be the throughput if the minimum constant cycle is used?,General Computer Science,4th-year.pdf,1,962
+4th Year,2dca43ea5a5f,what will the output of the following program,What will the output of the following program?,General Computer Science,4th-year.pdf,1,4839
+4th Year,0d33f6e7ecb4,what would be the future prescription of a doctor based on patient information using c algorithm,What would be the future prescription of a doctor based on patient information using C4.5 algorithm.,General Computer Science,4th-year.pdf,1,3493
+4th Year,aa268a1549c1,what would be the source of data for this application,What would be the source of data for this application?,DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,5321
+4th Year,c8f00d80944c,what you understand by ip filtering,(b) What you understand by IP filtering?,Computer Networks,4th-year.pdf,1,4278
+4th Year,f8f9dcfdbdd2,when does,When Does,General Computer Science,4th-year.pdf,1,3029
+4th Year,7b770525df88,which are the major categories of advanced optimization of cache performance,Which are the major categories of advanced optimization of cache performance?,M32) (320) HOT,4th-year.pdf,1,814
+4th Year,31404d5b431e,which feature from those listed above would you look for when selecting a data mining system,Which feature(s) from those listed above would you look for when selecting a data mining system?,General Computer Science,4th-year.pdf,1,5495
+4th Year,d03c958850a5,which implementation techniques do you prefer and why,"Which implementation techniques do you prefer, and why?",DATA MINING & DATA WAREHOUSING,4th-year.pdf,1,5293
+4th Year,97179f45b747,which is optimal,Which is optimal?,General Computer Science,4th-year.pdf,1,3233
+4th Year,59034529d27e,which offers more security for information assets on trusted network,Which offers more security for information assets on trusted network?,Computer Networks,4th-year.pdf,1,7135
+4th Year,e87b764f6d59,why are they used,Why are they used?,Web Technology,4th-year.pdf,1,7219
+4th Year,91457c42029c,why backup is so important,(c) Why backup is so important?,NFS ?,4th-year.pdf,1,4281
+4th Year,f42d2da49618,why clustering is known,Why clustering is known,Machine Learning,4th-year.pdf,1,4441
+4th Year,e1f821fc7207,why digital signature required,(b) Why digital signature required?,Cryptography and Network Security,4th-year.pdf,1,2273
+4th Year,e42dde74c235,why is asymmetric cryptography bad for huge data,(b) Why is asymmetric cryptography bad for huge data?,Cryptography and Network Security,4th-year.pdf,1,7105
+4th Year,7e0c2a353b9a,why is computer clock synchronization necessary,(c) Why is computer clock synchronization necessary?,Distributed Systems,4th-year.pdf,1,2807
+4th Year,7e0c2a353b9a,why is computer clock synchronization necessary,Why is computer clock synchronization necessary?,Distributed Systems,4th-year.pdf,1,4918
+4th Year,90dff065bf45,why is multimedia presentation standard needed,Why is multimedia presentation standard needed?,"(SEM. VIII) EXAMINATION, 2012 MULTIMEDIA COMMUNICATION & SYSTEM DESIGN",4th-year.pdf,1,3751
+4th Year,f791a1825c15,why it is important,Why it is important?,DATA WAREHOUSING AND MINING,4th-year.pdf,1,4627
+4th Year,09eb755318d0,why ldap is,Why LDAP is,HOBT,4th-year.pdf,1,6591
+4th Year,5ce8f43621a4,why openness is needed explain with example,Why Openness is Needed explain with example.,(5X4=20),4th-year.pdf,1,5076
+4th Year,c5e5d78e4b5f,with suitable example b what is fuzzy inference system,with suitable example. (5 marks)  b) What is Fuzzy Inference System?,Soft Computing,4th-year.pdf,1,5874
+4th Year,35058614f143,with symmetric encryption for message authentication,with symmetric encryption for message authentication?,Cryptography and Network Security,4th-year.pdf,1,2263
+4th Year,8001a3528253,woy i ball od oto of bre cii teqe b what are the different administrative,woy i ball od oto of bre CII teqe b) What are the different administrative,010X20-80T,4th-year.pdf,1,6436
+4th Year,c5d469017134,write a brief note on the history of internet,Write a brief note on the history of Internet?,Web Technology,4th-year.pdf,1,7211
+4th Year,e4ff4be8d77f,write a note on lrpc with diagram,Write a note on LRPC with diagram?,(10X2=20),4th-year.pdf,1,5137
+4th Year,aaade9ecc843,write a short note on bully debugging,(f) Write a short note on bully debugging?,General Computer Science,4th-year.pdf,1,4922
+4th Year,c3751e46240a,write an algorithm to implement simulated annealing,Write an algorithm to implement simulated annealing?,General Computer Science,4th-year.pdf,1,6053
+4th Year,635b72ec3d70,write down the message exchanges for,Write down the message exchanges for,MB2) HOSTI,4th-year.pdf,1,2279
+4th Year,0a39bd8783ae,write down their,Write down their,General Computer Science,4th-year.pdf,1,5883
+4th Year,91417a237a63,write five differences in between mpi and open mp what is hybridization,Write five Differences in between MPI and Open MP. (B) What is Hybridization?,General Computer Science,4th-year.pdf,1,3029
+4th Year,60ef184c1949,write short notes on db miner explain the applications,Write short notes on DB miner .Explain the applications,General Computer Science,4th-year.pdf,1,4493
+4th Year,ae779a19f8f3,write steps for the same,Write steps for the same.,General Computer Science,4th-year.pdf,1,6876
+4th Year,586474b49229,write the authentication dialogue,Write the authentication dialogue?,General Computer Science,4th-year.pdf,1,7185
+4th Year,bfcbef4a11db,write the difference between mobile and ubiquitous computing,(f) Write the difference between mobile and ubiquitous computing?,General Computer Science,4th-year.pdf,1,4958
+4th Year,987927a478b5,write the suitable difference between semantic web www,Write the suitable difference between Semantic Web & WWW?,Web Technology,4th-year.pdf,1,7295
+4th Year,187e764fdea7,write the various goals that,Write the various goals that,SYSTEM ADMINISTRATION,4th-year.pdf,1,6504
+4th Year,26b1fd6c9025,x what is cryptography,5 X 4 What is cryptography?,Cryptography and Network Security,4th-year.pdf,1,2060

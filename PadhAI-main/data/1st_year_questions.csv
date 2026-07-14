@@ -1,0 +1,36 @@
+year,sample_question_id,normalized_question,question_text,topic,source_file,occurrence_count,first_line
+1st Year,y1q1,explain structure of a c program,Explain the basic structure of a C program with a suitable example.,Programming in C,1st-year-c.pdf,6,10
+1st Year,y1q2,difference between structure and union,Differentiate between structure and union in C with syntax and examples.,Programming in C,1st-year-c.pdf,8,25
+1st Year,y1q3,call by value and call by reference,Explain call by value and call by reference in C. Write a program to swap two numbers using call by reference.,Programming in C,1st-year-c.pdf,9,40
+1st Year,y1q4,dynamic memory allocation malloc calloc,"What is dynamic memory allocation? Differentiate between malloc(), calloc(), realloc(), and free() in C.",Programming in C,1st-year-c.pdf,7,55
+1st Year,y1q5,recursion factorial c program,Write a C program to calculate the factorial of a given number using recursion.,Programming in C,1st-year-c.pdf,5,70
+1st Year,y1q6,explain storage classes in c,"Explain different storage classes in C (auto, extern, register, static) with their scope, lifetime, and examples.",Programming in C,1st-year-c.pdf,8,85
+1st Year,y1q7,matrix multiplication c program,Write a complete program in C to perform multiplication of two 3x3 matrices.,Programming in C,1st-year-c.pdf,6,100
+1st Year,y1q8,what is pointer how declared and initialized,What is a pointer? How is it declared and initialized? Write a program to show pointer arithmetic.,Programming in C,1st-year-c.pdf,7,115
+1st Year,y1q9,loops and control statements in c,"Explain different control statements and looping constructs in C (for, while, do-while, break, continue).",Programming in C,1st-year-c.pdf,6,130
+1st Year,y1q10,file handling functions in c,Explain file handling in C. Write a program to read content from one file and write it to another.,Programming in C,1st-year-c.pdf,5,145
+1st Year,y1q11,cayley hamilton theorem state and prove,State and prove Cayley-Hamilton theorem. Use it to find the inverse of a 3x3 matrix.,Mathematics-I,1st-year-math.pdf,9,10
+1st Year,y1q12,find eigenvalues and eigenvectors of a matrix,"Find the eigenvalues and eigenvectors of the matrix [[1, 2, 3], [0, 2, 3], [0, 0, 2]].",Mathematics-I,1st-year-math.pdf,8,25
+1st Year,y1q13,verify eulers theorem homogeneous functions,State and prove Euler's theorem for homogeneous functions. Verify it for u = ln((x^4+y^4)/(x+y)).,Mathematics-I,1st-year-math.pdf,8,40
+1st Year,y1q14,taylor series expansion two variables,"Expand f(x, y) = e^x cos(y) in the neighborhood of (0,0) up to second degree terms using Taylor's series.",Mathematics-I,1st-year-math.pdf,6,55
+1st Year,y1q15,solve system of linear equations gauss elimination,"Solve the following system of linear equations using Gauss Elimination method: x+y+z=6, 2x+y-z=1, x+y-2z=-3.",Mathematics-I,1st-year-math.pdf,7,70
+1st Year,y1q16,find rank of a matrix normal form,"Find the rank of the matrix [[1, 2, -1, 4], [2, 4, 3, 5], [-1, -2, 6, -7]] by reducing it to normal form.",Mathematics-I,1st-year-math.pdf,7,85
+1st Year,y1q17,maxima and minima two variables,"Find the extreme values of the function f(x, y) = x^3 + y^3 - 3axy.",Mathematics-I,1st-year-math.pdf,6,100
+1st Year,y1q18,jacobians properties and theorems,"If u = x(1-y) and v = xy, find the Jacobian J(u,v)/J(x,y) and verify its properties.",Mathematics-I,1st-year-math.pdf,5,115
+1st Year,y1q19,heisenberg uncertainty principle derivation,State and derive Heisenberg's Uncertainty Principle. Discuss its physical significance.,Physics,1st-year-physics.pdf,8,10
+1st Year,y1q20,maxwell equations electromagnetic waves,Write down Maxwell's equations in differential and integral forms. Derive the wave equation for free space.,Physics,1st-year-physics.pdf,9,25
+1st Year,y1q21,working principle ruby laser he ne laser,Explain the construction and working of a He-Ne Laser. How does it differ from a Ruby Laser.,Physics,1st-year-physics.pdf,7,40
+1st Year,y1q22,optical fibers step index and graded index,Differentiate between step-index and graded-index optical fibers. Derive the expression for numerical aperture.,Physics,1st-year-physics.pdf,8,55
+1st Year,y1q23,compton effect derivation shift,What is Compton effect? Derive the expression for Compton shift and discuss its experimental verification.,Physics,1st-year-physics.pdf,6,70
+1st Year,y1q24,kirchhoffs laws kvl and kcl,State and explain Kirchhoff's Voltage Law (KVL) and Kirchhoff's Current Law (KCL) with circuit diagrams.,Basic Electrical Engineering,1st-year-electrical.pdf,9,10
+1st Year,y1q25,superposition theorem networks,State and explain Superposition Theorem. Solve a numerical example demonstrating its application.,Basic Electrical Engineering,1st-year-electrical.pdf,8,25
+1st Year,y1q26,thevenin theorem load current,State and explain Thevenin's Theorem. Describe the step-by-step procedure to find Thevenin's equivalent circuit.,Basic Electrical Engineering,1st-year-electrical.pdf,9,40
+1st Year,y1q27,transformer working principle and emf equation,Explain the working principle of a single-phase transformer. Derive its EMF equation.,Basic Electrical Engineering,1st-year-electrical.pdf,7,55
+1st Year,y1q28,three phase ac systems delta star,Differentiate between star and delta connections in a 3-phase AC system. Derive the relation between line and phase values.,Basic Electrical Engineering,1st-year-electrical.pdf,6,70
+1st Year,y1q29,pn junction diode vi characteristics,Explain the formation of depletion region in a PN junction diode. Discuss its V-I characteristics in forward and reverse bias.,Basic Electronics Engineering,1st-year-electronics.pdf,8,10
+1st Year,y1q30,rectifiers half wave full wave bridge,Explain the working of a bridge rectifier with neat circuit diagrams and waveforms. Calculate its efficiency.,Basic Electronics Engineering,1st-year-electronics.pdf,7,25
+1st Year,y1q31,bipolar junction transistor configurations,Explain the input and output characteristics of a NPN transistor in Common Emitter (CE) configuration.,Basic Electronics Engineering,1st-year-electronics.pdf,8,40
+1st Year,y1q32,hardness of water edta method,What is hardness of water? Describe the EDTA method for the determination of total hardness of water sample.,Engineering Chemistry,1st-year-chemistry.pdf,9,10
+1st Year,y1q33,mechanism of lubrication types,Explain different mechanisms of lubrication. Discuss the properties of a good lubricant.,Engineering Chemistry,1st-year-chemistry.pdf,7,25
+1st Year,y1q34,polymers nylon bakelite synthesis,"Write the preparation, properties, and engineering applications of Nylon 6,6 and Bakelite.",Engineering Chemistry,1st-year-chemistry.pdf,8,40
+1st Year,y1q35,phase rule water system,State Gibbs phase rule. Draw and discuss the phase diagram of water system.,Engineering Chemistry,1st-year-chemistry.pdf,6,55

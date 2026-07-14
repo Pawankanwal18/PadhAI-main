@@ -12,7 +12,18 @@ from transformers import T5Tokenizer, T5ForConditionalGeneration
 from tqdm import tqdm
 
 print("Loading training data...")
-df = pd.read_csv('data/training-dataset.csv')
+csv_files = [
+    'data/1st_year_questions.csv',
+    'data/2nd_year_questions.csv',
+    'data/3rd_year_questions.csv',
+    'data/4th_year_questions.csv'
+]
+dfs = []
+for f in csv_files:
+    if os.path.exists(f):
+        dfs.append(pd.read_csv(f))
+        print(f"Loaded {f}")
+df = pd.concat(dfs, ignore_index=True)
 print(f"Total questions: {len(df)}\n")
 print(f"Year distribution:\n{df['year'].value_counts()}\n")
 
@@ -140,7 +151,7 @@ print("SAVING MODEL")
 print("="*60)
 model.save_pretrained('saved_model')
 tokenizer.save_pretrained('saved_model')
-print("✅ Model saved to saved_model/")
+print("Model saved to saved_model/")
 
 # Test predictions
 print("\n" + "="*60)
@@ -156,7 +167,7 @@ def predict(topic, year, normalized_question):
 # Test with 2nd year data
 second_year_data = df[df['year'].str.contains('2', case=False, na=False)]
 if len(second_year_data) > 0:
-    print("\n🎓 2nd Year Sample Predictions:")
+    print("\n2nd Year Sample Predictions:")
     for i in range(min(3, len(second_year_data))):
         sample = second_year_data.iloc[i]
         prediction = predict(sample['topic'], sample['year'], sample['normalized_question'])
@@ -165,5 +176,5 @@ if len(second_year_data) > 0:
         print(f"  Predicted: {prediction[:70]}...")
 
 print("\n" + "="*60)
-print("✅ TRAINING COMPLETE!")
+print("TRAINING COMPLETE!")
 print("="*60)

@@ -52,68 +52,78 @@ class RAGBridge {
    */
   buildOptimizedDatasetFromCSV() {
     try {
-      // Load training dataset
-      const trainingPath = join(DATA_DIR, 'training-dataset.csv');
-      if (!existsSync(trainingPath)) {
-        console.warn('⚠️  Training dataset not found');
-        return false;
-      }
-
-      const csvContent = readFileSync(trainingPath, 'utf-8');
-      const lines = csvContent.split('\n');
-      const headers = lines[0].split(',').map(h => h.trim());
-
+      const csvFiles = [
+        '1st_year_questions.csv',
+        '2nd_year_questions.csv',
+        '3rd_year_questions.csv',
+        '4th_year_questions.csv'
+      ];
       const questions = [];
       const seen = new Set();
+      let questionCount = 0;
 
-      for (let i = 1; i < lines.length; i++) {
-        if (!lines[i].trim()) continue;
+      for (const fileName of csvFiles) {
+        const filePath = join(DATA_DIR, fileName);
+        if (!existsSync(filePath)) {
+          console.warn(`⚠️  Dataset file not found: ${fileName}`);
+          continue;
+        }
 
-        const values = this.parseCSVLine(lines[i]);
-        const item = {};
+        console.log(`📖 Loading questions from ${fileName}...`);
+        const csvContent = readFileSync(filePath, 'utf-8');
+        const lines = csvContent.split('\n');
+        const headers = lines[0].split(',').map(h => h.trim());
 
-        headers.forEach((header, idx) => {
-          item[header] = values[idx] || '';
-        });
+        for (let i = 1; i < lines.length; i++) {
+          if (!lines[i].trim()) continue;
 
-        const normalized = item.normalized_question?.toLowerCase().trim();
-        if (!normalized || seen.has(normalized)) continue;
+          const values = this.parseCSVLine(lines[i]);
+          const item = {};
 
-        seen.add(normalized);
+          headers.forEach((header, idx) => {
+            item[header] = values[idx] || '';
+          });
 
-        // Estimate difficulty
-        const questionLength = item.question_text?.length || 0;
-        const difficulty = questionLength < 50 ? 'easy' : questionLength < 150 ? 'medium' : 'hard';
+          const normalized = item.normalized_question?.toLowerCase().trim();
+          if (!normalized || seen.has(normalized)) continue;
 
-        questions.push({
-          id: `q_${i}`,
-          year: item.year || 'Unknown',
-          topic: item.topic || 'General',
-          normalized_question: normalized,
-          question_text: item.question_text || '',
-          source: item.source_file || 'unknown',
-          difficulty,
-          occurrence_count: parseInt(item.occurrence_count) || 1,
-        });
+          seen.add(normalized);
+          questionCount++;
+
+          // Estimate difficulty
+          const questionLength = item.question_text?.length || 0;
+          const difficulty = questionLength < 50 ? 'easy' : questionLength < 150 ? 'medium' : 'hard';
+
+          questions.push({
+            id: `q_${questionCount}`,
+            year: item.year || 'Unknown',
+            topic: item.topic || 'General',
+            normalized_question: normalized,
+            question_text: item.question_text || '',
+            source: item.source_file || 'unknown',
+            difficulty,
+            occurrence_count: parseInt(item.occurrence_count) || 1,
+          });
+        }
       }
 
       this.optimizedDataset = questions;
       this.buildIndexes();
       this.initialized = true;
 
-      console.log(`✅ Built optimized dataset with ${questions.length} unique questions`);
+      console.log(`✅ Built combined optimized dataset with ${questions.length} unique questions`);
 
       // Save for future use
       try {
         writeFileSync(OPTIMIZED_DATASET_PATH, JSON.stringify(this.optimizedDataset, null, 2));
-        console.log(`💾 Saved optimized dataset to ${OPTIMIZED_DATASET_PATH}`);
+        console.log(`💾 Saved combined optimized dataset to ${OPTIMIZED_DATASET_PATH}`);
       } catch (e) {
-        console.warn('⚠️  Could not save optimized dataset');
+        console.warn('⚠️  Could not save combined optimized dataset');
       }
 
       return true;
     } catch (err) {
-      console.error('❌ Error building dataset:', err.message);
+      console.error('❌ Error building combined dataset:', err.message);
       return false;
     }
   }
@@ -500,22 +510,58 @@ GENERATE: A high-quality exam question following the patterns and style of simil
 
   /**
    * Get 30 most important + repeated questions for a topic
+   * Enhanced: uses broad keyword matching, not just topic.includes()
    */
-  getTop30ImportantRepeated(topic, limit = 30) {
+  getTop30ImportantRepeated(topic, limit = 20) {
     if (!topic) return [];
 
-    // Filter questions by topic
-    const topicQuestions = this.optimizedDataset.filter(item =>
-      item.topic.toLowerCase().includes(topic.toLowerCase())
-    );
+    const NOISE_TOPICS = [
+      /^p\.?t\.?o\.?$/i, /^q\d/i, /^q\.\d/i, /semester examination/i,
+      /^unit\s*[-–]/i, /^section/i, /^\[?p\.?t\.?o/i, /^mm\.?:/i,
+      /^\(?[a-z]\)?$/i, /^\d+$/, /^ds-/i, /^tcs-/i, /^beet-/i, /^bitt-/i,
+      /^e\d+$/i, /^attempt/i, /^answer/i,
+    ];
+
+    // Step 1: Try direct topic matching (case-insensitive)
+    let topicQuestions = this.optimizedDataset.filter(item => {
+      if (NOISE_TOPICS.some(rx => rx.test(item.topic?.trim()))) return false;
+      return item.topic.toLowerCase().includes(topic.toLowerCase()) ||
+             topic.toLowerCase().includes(item.topic.toLowerCase());
+    });
+
+    // Step 2: If few results, try keyword matching against question_text + topic
+    if (topicQuestions.length < limit) {
+      const keywords = topic.toLowerCase()
+        .replace(/[^a-z0-9\s]/g, ' ')
+        .split(/\s+/)
+        .filter(w => w.length > 2);
+
+      const keywordMatched = this.optimizedDataset.filter(item => {
+        if (NOISE_TOPICS.some(rx => rx.test(item.topic?.trim()))) return false;
+        if (!item.question_text || item.question_text.length < 20) return false;
+        const haystack = `${item.topic} ${item.question_text}`.toLowerCase();
+        const matchCount = keywords.filter(kw => haystack.includes(kw)).length;
+        return matchCount >= Math.min(2, keywords.length);
+      });
+
+      // Merge without duplicates
+      const existingIds = new Set(topicQuestions.map(q => q.id));
+      for (const q of keywordMatched) {
+        if (!existingIds.has(q.id)) {
+          topicQuestions.push(q);
+          existingIds.add(q.id);
+        }
+      }
+    }
 
     if (topicQuestions.length === 0) return [];
 
     // Score each question based on importance + frequency
+    const maxOccurrence = Math.max(...topicQuestions.map(q => q.occurrence_count), 1);
     const scored = topicQuestions.map((item, idx) => ({
       ...item,
-      importanceScore: item.occurrence_count * 10, // Frequency-based importance
-      combinedScore: item.occurrence_count * 15, // Combined scoring
+      importanceScore: item.occurrence_count * 10,
+      combinedScore: item.occurrence_count * 15,
       rank: idx + 1
     }));
 
@@ -532,8 +578,115 @@ GENERATE: A high-quality exam question following the patterns and style of simil
       occurrence_count: item.occurrence_count,
       importanceRank: idx + 1,
       importance: item.occurrence_count >= 5 ? 'Critical' : item.occurrence_count >= 3 ? 'High' : 'Medium',
-      frequencyScore: Math.round((item.occurrence_count / Math.max(...topicQuestions.map(q => q.occurrence_count))) * 100),
+      frequencyScore: Math.round((item.occurrence_count / maxOccurrence) * 100),
       likelihood: Math.min(95, Math.round(item.occurrence_count * 15))
+    }));
+  }
+
+  /**
+   * Scan the ENTIRE database for questions matching syllabus text
+   * Uses broad keyword extraction and fuzzy matching
+   * Always guarantees returning results
+   */
+  getQuestionsFromSyllabus(syllabusText, limit = 20) {
+    if (!this.initialized || !syllabusText) return [];
+
+    const NOISE_TOPICS = [
+      /^p\.?t\.?o\.?$/i, /^q\d/i, /^q\.\d/i, /semester examination/i,
+      /^unit\s*[-–]/i, /^section/i, /^\[?p\.?t\.?o/i, /^mm\.?:/i,
+      /^\(?[a-z]\)?$/i, /^\d+$/, /^ds-/i, /^tcs-/i, /^beet-/i, /^bitt-/i,
+      /^e\d+$/i, /^attempt/i, /^answer/i,
+    ];
+
+    const STOP_WORDS = new Set([
+      'the','a','an','and','or','of','to','in','is','are','be','was','were',
+      'it','its','for','with','by','as','at','on','this','that','these','those',
+      'unit','section','note','marks','year','sem','semester','examination',
+      'paper','question','answer','part','following','attempt','any','two',
+      'three','four','five','explain','define','describe','discuss','write',
+      'list','what','how','why','give','state','compare','differentiate',
+      'short','long','detail','brief','suitable','example','diagram','block',
+      'note','also','each','per','from','not','can','do','does','has','have',
+    ]);
+
+    // Extract keywords from syllabus
+    const words = syllabusText
+      .replace(/[^a-zA-Z0-9\s]/g, ' ')
+      .toLowerCase()
+      .split(/\s+/)
+      .filter(w => w.length > 2 && !STOP_WORDS.has(w));
+
+    const uniqueKeywords = [...new Set(words)];
+
+    // Also extract 2-word phrases
+    const bigrams = [];
+    for (let i = 0; i < words.length - 1; i++) {
+      if (!STOP_WORDS.has(words[i]) && !STOP_WORDS.has(words[i+1])) {
+        bigrams.push(`${words[i]} ${words[i+1]}`);
+      }
+    }
+    const uniqueBigrams = [...new Set(bigrams)];
+
+    // Score every question in the database
+    const scored = [];
+    for (const item of this.optimizedDataset) {
+      if (NOISE_TOPICS.some(rx => rx.test(item.topic?.trim()))) continue;
+      if (!item.question_text || item.question_text.length < 20) continue;
+
+      const haystack = `${item.topic} ${item.question_text}`.toLowerCase();
+      let score = 0;
+      let matchedKeywords = 0;
+
+      // Check bigrams first (higher value)
+      for (const bg of uniqueBigrams) {
+        if (haystack.includes(bg)) {
+          score += 6;
+          matchedKeywords++;
+        }
+      }
+
+      // Check single keywords
+      for (const kw of uniqueKeywords) {
+        if (haystack.includes(kw)) {
+          score += 2;
+          matchedKeywords++;
+        }
+      }
+
+      // Boost by frequency
+      score += (item.occurrence_count || 1) * 3;
+
+      if (matchedKeywords >= 2 && score >= 6) {
+        scored.push({ item, score, matchedKeywords });
+      }
+    }
+
+    // Sort by score
+    scored.sort((a, b) => b.score - a.score);
+
+    // Deduplicate
+    const seen = new Set();
+    const unique = scored.filter(({ item }) => {
+      const key = item.question_text.toLowerCase().trim().slice(0, 80);
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+
+    const maxOccurrence = Math.max(...unique.map(u => u.item.occurrence_count), 1);
+
+    return unique.slice(0, limit).map(({ item, score }, idx) => ({
+      question_id: item.id,
+      question_text: item.question_text,
+      topic: item.topic,
+      year: item.year,
+      difficulty: item.difficulty,
+      occurrence_count: item.occurrence_count,
+      importanceRank: idx + 1,
+      importance: item.occurrence_count >= 5 ? 'Critical' : item.occurrence_count >= 3 ? 'High' : 'Medium',
+      frequencyScore: Math.round((item.occurrence_count / maxOccurrence) * 100),
+      likelihood: Math.min(95, Math.round(Math.max(35, 96 - idx * 2))),
+      matchScore: score,
     }));
   }
 

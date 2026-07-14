@@ -174,14 +174,29 @@ function getImportantTopics(limit = 12) {
 }
 
 function getTrainingRows() {
-  const raw = readFileSync(TRAINING_DATASET_URL, 'utf-8');
-  const [headerLine, ...lines] = raw.split(/\r?\n/).filter(Boolean);
-  const headers = parseCsvLine(headerLine);
+  const optimizedPath = new URL('../../data/optimized_dataset.json', import.meta.url);
+  try {
+    const data = JSON.parse(readFileSync(optimizedPath, 'utf-8'));
+    return data.map(item => ({
+      year: item.year || 'Unknown',
+      sample_question_id: item.id || '',
+      normalized_question: item.normalized_question || '',
+      question_text: item.question_text || '',
+      topic: item.topic || 'General',
+      source_file: item.source || 'unknown',
+      occurrence_count: String(item.occurrence_count || 1),
+      first_line: '0'
+    }));
+  } catch (err) {
+    const raw = readFileSync(TRAINING_DATASET_URL, 'utf-8');
+    const [headerLine, ...lines] = raw.split(/\r?\n/).filter(Boolean);
+    const headers = parseCsvLine(headerLine);
 
-  return lines.map((line) => {
-    const values = parseCsvLine(line);
-    return Object.fromEntries(headers.map((header, index) => [header, values[index] ?? '']));
-  });
+    return lines.map((line) => {
+      const values = parseCsvLine(line);
+      return Object.fromEntries(headers.map((header, index) => [header, values[index] ?? '']));
+    });
+  }
 }
 
 function getDatasetTopics(limit = 40) {
@@ -495,6 +510,28 @@ function buildLocalAnalysis(syllabusText = '') {
     });
   }
 
+  // Generate top 20 important + repeated questions from RAG
+  let topImportantRepeated = [];
+  if (ragBridge.initialized) {
+    for (const topicItem of topics.slice(0, 5)) {
+      const importantRepeated = ragBridge.getTop30ImportantRepeated(topicItem.topic, 5);
+      topImportantRepeated.push(...importantRepeated);
+    }
+    const seen = new Set();
+    topImportantRepeated = topImportantRepeated.filter(q => {
+      const key = q.question_text.toLowerCase();
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+
+    topImportantRepeated = topImportantRepeated.slice(0, 20);
+    topImportantRepeated = topImportantRepeated.map((q, idx) => ({
+      ...q,
+      importanceRank: idx + 1,
+    }));
+  }
+
   return {
     summary: 'General analysis from trained BIAS past-paper dataset (no syllabus-specific match found).',
     totalTopics: topics.length,
@@ -508,6 +545,10 @@ function buildLocalAnalysis(syllabusText = '') {
       reason: `Appeared ${item.questionCount} times in the BIAS question dataset.`,
     })),
     exactQuestions,
+    topImportantRepeated: {
+      totalFound: topImportantRepeated.length,
+      questions: topImportantRepeated,
+    },
     studyTips: [
       'Start with the highest ranked topics before moving to low-frequency topics.',
       'Prepare one short answer and one long answer for every top prediction.',
@@ -723,7 +764,7 @@ app.post('/api/analyze-syllabus', (req, res, next) => {
       
       if (ragBridge.initialized) {
         const extractedTopics = trainedMatch.topPredictions
-          .slice(0, 3)
+          .slice(0, 5)
           .map(t => t.topic)
           .join(' ');
         
@@ -734,22 +775,39 @@ app.post('/api/analyze-syllabus', (req, res, next) => {
         });
         
         // Get top 30 most important + repeated questions for each topic
-        for (const topicItem of trainedMatch.topPredictions.slice(0, 3)) {
+        for (const topicItem of trainedMatch.topPredictions.slice(0, 5)) {
           const importantRepeated = ragBridge.getTop30ImportantRepeated(topicItem.topic, 10);
           topImportantRepeated.push(...importantRepeated);
         }
         
-        // Remove duplicates and limit to 30
+        // Remove duplicates
         const seen = new Set();
         topImportantRepeated = topImportantRepeated.filter(q => {
           const key = q.question_text.toLowerCase();
           if (seen.has(key)) return false;
           seen.add(key);
           return true;
-        }).slice(0, 30);
+        });
+        
+        topImportantRepeated = topImportantRepeated.slice(0, 20);
+        // Re-rank after merging
+        topImportantRepeated = topImportantRepeated.map((q, idx) => ({
+          ...q,
+          importanceRank: idx + 1,
+        }));
         
         console.log(`  📚 RAG found ${ragMatches.length} matching questions and ${topImportantRepeated.length} important + repeated questions`);
       }
+
+      // Merge topImportantRepeated inside analysis so frontend can access via result.topImportantRepeated
+      trainedMatch.topImportantRepeated = {
+        totalFound: topImportantRepeated.length,
+        questions: topImportantRepeated
+      };
+      trainedMatch.ragMatches = {
+        totalFound: ragMatches.length,
+        questions: ragMatches
+      };
 
       return res.json({
         success: true,
@@ -757,14 +815,6 @@ app.post('/api/analyze-syllabus', (req, res, next) => {
         usedVision,
         trainedModelUsed: true,
         analysis: trainedMatch,
-        ragMatches: {
-          totalFound: ragMatches.length,
-          questions: ragMatches
-        },
-        topImportantRepeated: {
-          totalFound: topImportantRepeated.length,
-          questions: topImportantRepeated
-        }
       });
     }
 
@@ -793,6 +843,7 @@ app.post('/api/analyze-syllabus', (req, res, next) => {
         
         // Use RAG to find up to 30 matching questions
         let ragMatches = [];
+        let topImportantRepeated = [];
         if (ragBridge.initialized) {
           const topTopics = parsed.topPredictions
             ?.slice(0, 5)
@@ -802,7 +853,29 @@ app.post('/api/analyze-syllabus', (req, res, next) => {
             keywords: topTopics,
             limit: 30
           });
-          console.log(`  📚 RAG found ${ragMatches.length} matching questions`);
+
+          // Generate top 20 important + repeated questions
+          const parsedTopics = parsed.topPredictions?.slice(0, 5) || [];
+          for (const topicItem of parsedTopics) {
+            const importantRepeated = ragBridge.getTop30ImportantRepeated(topicItem.topic, 5);
+            topImportantRepeated.push(...importantRepeated);
+          }
+          // Deduplicate
+          const seen = new Set();
+          topImportantRepeated = topImportantRepeated.filter(q => {
+            const key = q.question_text.toLowerCase();
+            if (seen.has(key)) return false;
+            seen.add(key);
+            return true;
+          });
+
+          topImportantRepeated = topImportantRepeated.slice(0, 20);
+          topImportantRepeated = topImportantRepeated.map((q, idx) => ({
+            ...q,
+            importanceRank: idx + 1,
+          }));
+
+          console.log(`  📚 RAG found ${ragMatches.length} matching questions and ${topImportantRepeated.length} important + repeated questions`);
         }
         
         analysis = {
@@ -813,6 +886,10 @@ app.post('/api/analyze-syllabus', (req, res, next) => {
           ragMatches: {
             totalFound: ragMatches.length,
             questions: ragMatches
+          },
+          topImportantRepeated: {
+            totalFound: topImportantRepeated.length,
+            questions: topImportantRepeated
           }
         };
         anthropicUsed = true;
@@ -824,13 +901,37 @@ app.post('/api/analyze-syllabus', (req, res, next) => {
         if (ragBridge.initialized) {
           console.log('  [Step 4] Trying RAG as fallback...');
           try {
-            const ragFallback = ragBridge.comprehensiveSearch({
-              keywords: syllabusText.substring(0, 500),
-              limit: 30
-            });
+            const ragFallback = ragBridge.getQuestionsFromSyllabus(syllabusText, 30);
             
             if (ragFallback.length > 0) {
               console.log(`  ✅ RAG fallback found ${ragFallback.length} questions`);
+              
+              // Build standard analysis object for frontend compatibility
+              const localAnalysis = buildLocalAnalysis(syllabusText);
+              
+              // Format matched questions for exactQuestions
+              const exactQuestions = ragFallback.map((q, idx) => ({
+                question: q.question_text,
+                topic: q.topic,
+                year: q.year,
+                occurrenceCount: q.occurrence_count,
+                difficulty: q.difficulty === 'easy' ? 'Easy' : q.difficulty === 'hard' ? 'Hard' : 'Medium',
+                marks: q.question_text.length > 95 ? 10 : q.question_text.length > 55 ? 7 : 5,
+                likelihood: q.likelihood || Math.max(35, Math.round(96 - idx * 1.5))
+              }));
+
+              const analysisObj = {
+                ...localAnalysis,
+                summary: `Syllabus match completed via local search database. Found ${ragFallback.length} exact questions.`,
+                estimatedQuestions: ragFallback.length,
+                exactQuestions: exactQuestions,
+                topImportantRepeated: {
+                  totalFound: ragFallback.length,
+                  questions: ragFallback
+                },
+                source: 'rag-fallback'
+              };
+
               return res.status(200).json({
                 success: true,
                 anthropicUsed: false,
@@ -838,9 +939,7 @@ app.post('/api/analyze-syllabus', (req, res, next) => {
                 usedVision,
                 notFound: false,
                 source: 'rag-fallback',
-                message: 'Questions found using RAG system',
-                matchingQuestions: ragFallback,
-                totalMatches: ragFallback.length
+                analysis: analysisObj
               });
             }
           } catch (ragErr) {

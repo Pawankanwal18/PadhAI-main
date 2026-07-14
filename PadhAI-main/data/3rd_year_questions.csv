@@ -1,0 +1,657 @@
+year,sample_question_id,normalized_question,question_text,topic,source_file,occurrence_count,first_line
+3rd Year,534e8c894772,t o,T.O.,General Computer Science,CSE-3rd-year.pdf,4,3467
+3rd Year,7de9e4fd1cca,define the following terms,Define the following terms:,General Computer Science,CSE-3rd-year.pdf,3,1729
+3rd Year,c95ee47689a0,tech,TECH. (CSE) (SEMESTER-V),B.TECH. (CSE) (SEMESTER-V),CSE-3rd-year.pdf,3,1719
+3rd Year,a6b9690c150c,a data file of characters contains only the,"A data file of 100,000 characters contains only the",General Computer Science,CSE-3rd-year.pdf,2,7217
+3rd Year,d814b0059152,a what do you understand by directive principles of state policy,a) What do you understand by Directive Principles of State Policy?,CONSTITUTION OF INDIA,CSE-3rd-year.pdf,2,2594
+3rd Year,3e460ee5ca60,apply and show stepwise,Apply and show stepwise,General Computer Science,CSE-3rd-year.pdf,2,7153
+3rd Year,618e82323171,attempt any two parts of the following,Attempt any TWO parts of the following,General Computer Science,CSE-3rd-year.pdf,2,432
+3rd Year,e9d71f5ee7c9,b,b),CONSTITUTION OF INDIA,CSE-3rd-year.pdf,2,2594
+3rd Year,ef7573952f0b,constitution,constitution?,CONSTITUTION OF INDIA,CSE-3rd-year.pdf,2,2599
+3rd Year,eb050e6342d5,differentiate between min heap and max heap,Differentiate between Min-Heap and Max-Heap?,General Computer Science,CSE-3rd-year.pdf,2,7153
+3rd Year,426fe37bf4fe,differentiate between sparse and dense graphs,Differentiate between sparse and dense graphs?,General Computer Science,CSE-3rd-year.pdf,2,7158
+3rd Year,249d56e4f1fa,discuss the fundamental rights conferred to citizens as per the indian constitution,Discuss the Fundamental Rights conferred to citizens as per the Indian  Constitution.,CONSTITUTION OF INDIA,CSE-3rd-year.pdf,2,2595
+3rd Year,7f04fe5a3c8e,discuss time complexity of insertion sort algorithm in its best case,Discuss time complexity of Insertion Sort Algorithm in its best case.,General Computer Science,CSE-3rd-year.pdf,2,7185
+3rd Year,f7c1380a0d71,explain,Explain.,ST021_005 | 103.170.7,CSE-3rd-year.pdf,2,2316
+3rd Year,a70e34c32a84,explain how we can solve a given knapsack problem with the help of branch and bound techniques,Explain how we can solve a given 0/1 Knapsack problem with the help of Branch and Bound techniques,General Computer Science,CSE-3rd-year.pdf,2,7166
+3rd Year,ad958fbce0a4,give algorithm of heap sort,Give algorithm of Heap Sort,General Computer Science,CSE-3rd-year.pdf,2,7175
+3rd Year,5200bd4849c5,give algorithm to solve the queen problem using backtracking approach,Give algorithm to solve the 8-Queen problem using backtracking approach.,General Computer Science,CSE-3rd-year.pdf,2,7171
+3rd Year,de5029608724,give bellman ford algorithm for single source shortest path,Give bellman-ford algorithm for single source shortest path.,General Computer Science,CSE-3rd-year.pdf,2,7126
+3rd Year,7737ffcc12c1,have multiple spanning trees,have multiple spanning trees?,03 [P.T.O.],CSE-3rd-year.pdf,2,7138
+3rd Year,c1c01d7e3936,if yes provide a suitable example,"If yes, provide a suitable example.",03 [P.T.O.],CSE-3rd-year.pdf,2,7138
+3rd Year,c1c01d7e3936,if yes provide a suitable example,"If yes, provide a suitable example.",General Computer Science,CSE-3rd-year.pdf,2,7124
+3rd Year,662893da2fe1,is better and inwhich case,is better and inwhich case?,General Computer Science,CSE-3rd-year.pdf,2,7160
+3rd Year,908786afd3a1,is it possible for a graph to,Is it possible for a graph to,Computer Graphics,CSE-3rd-year.pdf,2,7136
+3rd Year,93558813002b,is it possible for a graph to have,Is it possible for a graph to have,Computer Graphics,CSE-3rd-year.pdf,2,7122
+3rd Year,dd10a31b68b1,length encoding,length encoding?,General Computer Science,CSE-3rd-year.pdf,2,7225
+3rd Year,6dce0043c03e,multiple spanning trees,multiple spanning trees?,General Computer Science,CSE-3rd-year.pdf,2,7124
+3rd Year,b8c36a065388,per indian constitution,per  Indian Constitution?,CONSTITUTION OF INDIA,CSE-3rd-year.pdf,2,2609
+3rd Year,289d2310e55f,please explain using a suitable example,Please explain using a suitable example,03 [P.T.O.],CSE-3rd-year.pdf,2,7143
+3rd Year,7efabe9841dd,recurrence tree what do you understand by this analysis,recurrence tree. What do you understand by this analysis?,Data Structures,CSE-3rd-year.pdf,2,7230
+3rd Year,ec4ab08b2f4f,sic,0sic,General Computer Science,CSE-3rd-year.pdf,2,7076
+3rd Year,bbb930cc4265,statement,statement?,03 [P.T.O.],CSE-3rd-year.pdf,2,7143
+3rd Year,969053fe8adf,union territories,Union  Territories?,CONSTITUTION OF INDIA,CSE-3rd-year.pdf,2,2632
+3rd Year,25f2b830275e,what do you understand by minimum spanning tree,What do you understand by minimum spanning tree?,Data Structures,CSE-3rd-year.pdf,2,7136
+3rd Year,25f2b830275e,what do you understand by minimum spanning tree,What do you understand by minimum spanning tree?,Data Structures,CSE-3rd-year.pdf,2,7122
+3rd Year,8ac55f925a16,what do you understand by these two programming paradigm i e greedy approach and dynamic programming,What do you understand by these two programming paradigm i.e. Greedy approach and Dynamic programming?,General Computer Science,CSE-3rd-year.pdf,2,7115
+3rd Year,49b87130b089,what will be thespace complexity of this program and why,What will be thespace complexity of this program and why?,General Computer Science,CSE-3rd-year.pdf,2,7215
+3rd Year,e59bf67cefa5,which representation of graph,Which representation of graph,Computer Graphics,CSE-3rd-year.pdf,2,7158
+3rd Year,31b2dc51c4c2,why do we use huffman codes,Why do we use Huffman codes?,General Computer Science,CSE-3rd-year.pdf,2,7217
+3rd Year,86f7e437faa5,a,a.,General Computer Science,CSE-3rd-year.pdf,1,5745
+3rd Year,0cf2089974cb,a define hdfs,a) Define HDFS?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6920
+3rd Year,61d07a564c96,a what are the different components of modern graphics display,a. What are the different components of modern graphics display?,(4X5=20),CSE-3rd-year.pdf,1,498
+3rd Year,1b266715f544,a what are the three modes that hadoop can run,a)What are the three modes that Hadoop can Run?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6866
+3rd Year,06f8b68fe413,a what are two reasons for using layered protocols,a) What are two reasons for using layered protocols?,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3138
+3rd Year,4819f7d6ceaa,a what do you understand by quality of service,a) (i) What do you understand by Quality of Service?,CST021_005 |,CSE-3rd-year.pdf,1,2366
+3rd Year,6b91e41d229d,a what is difference between compiler and interpreter,a) What is difference between Compiler and Interpreter?,Compiler Design,CSE-3rd-year.pdf,1,1001
+3rd Year,53ee1a2088fc,a what is dynamic programming,a) What is dynamic programming?,ANALYSIS OF ALGORITHMS,CSE-3rd-year.pdf,1,3050
+3rd Year,006d565066e5,a what is hadoop,a) What is Hadoop?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6911
+3rd Year,edf16d2e30e4,a what is pig,a) What is PIG?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6930
+3rd Year,ca6557469155,a what is transmission media,a) What is transmission media?,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3204
+3rd Year,c662180230ca,address,address?,5X4=20,CSE-3rd-year.pdf,1,863
+3rd Year,d8d511b38140,addressing is performed,addressing is  performed?,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3149
+3rd Year,9a53b0819e7b,algorithm,algorithm?,General Computer Science,CSE-3rd-year.pdf,1,6765
+3rd Year,f12522613125,algorithm what are firewalls,algorithm.  (ii) What are firewalls?,CST021_005 |,CSE-3rd-year.pdf,1,2377
+3rd Year,09706c418809,also,Also,OLI OTOD OS => [,CSE-3rd-year.pdf,1,5585
+3rd Year,09706c418809,also,Also,General Computer Science,CSE-3rd-year.pdf,1,2501
+3rd Year,5fdc4368e0f8,also discuss the,Also discuss the,OM HOR,CSE-3rd-year.pdf,1,5432
+3rd Year,869543a8022a,also explain b trees,Also explain B trees,General Computer Science,CSE-3rd-year.pdf,1,7618
+3rd Year,580a67cd1516,also explain delay,Also explain delay,203-30T,CSE-3rd-year.pdf,1,4455
+3rd Year,55427488a202,also use this algorithm to,also Use this algorithm to,General Computer Science,CSE-3rd-year.pdf,1,754
+3rd Year,7b366274960d,an atm network uses a token bucket scheme for traffic shaping a new token is put into a bucket every micro seconds what is maximum sustainable net data rate excluding header bits,An ATM network uses a token bucket scheme for traffic shaping. A new token is put into a bucket every 5 micro seconds. What is maximum sustainable net data rate excluding header bits?,Computer Networks,CSE-3rd-year.pdf,1,5755
+3rd Year,cffa50a32cb1,and,"1, 6, 30), and (d1, d2, …..,  d7) = (1, 3, 4, 3, 2, 1, 2)?",ANALYSIS OF ALGORITHMS,CSE-3rd-year.pdf,1,3046
+3rd Year,beb952e847bd,and microprocessor,80386 and 80486 microprocessor?,General Computer Science,CSE-3rd-year.pdf,1,5032
+3rd Year,ed0801914378,and why,and why?,General Computer Science,CSE-3rd-year.pdf,1,5726
+3rd Year,507d9c0648b0,and why are they important in databases,and why are they important in databases?,Database Management System,CSE-3rd-year.pdf,1,7031
+3rd Year,a64bdc61e48c,anova provide an example of when anova would be used,ANOVA. Provide an  example of when ANOVA would be used?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6893
+3rd Year,1b992db01de0,answer any two parts of the following,170.70.207 | 18/06/2025 12Answer any two parts of the following. (10x2= 20),ST021_005 | 103.170.7,CSE-3rd-year.pdf,1,2325
+3rd Year,1b992db01de0,answer any two parts of the following,170.70.207 | 18/06/202Answer any two parts of the following. (10x2= 20),CST021_005 |,CSE-3rd-year.pdf,1,2364
+3rd Year,3c02c101f6fa,answer any two parts of the following a what is the data model,Answer any two parts of the following. (10x2= 20) a) (i) What is the Data Model?,Database Management System,CSE-3rd-year.pdf,1,6977
+3rd Year,f380cbcd9a79,architecture,architecture?,ΑΠΟ ΠΟ,CSE-3rd-year.pdf,1,6225
+3rd Year,f78c5a76a138,are there any conflict entries,Are there any conflict entries?,OM HOR,CSE-3rd-year.pdf,1,5432
+3rd Year,8b3c2ce1b48e,assumptions made in the case of non parametric tests,assumptions made in the  case of Non-Parametric tests?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6896
+3rd Year,e44ea7dfe894,attached to production,attached to production?,S🡪AA,CSE-3rd-year.pdf,1,1193
+3rd Year,1d6a9fe8214c,attempt any four,Attempt any four:,Computer Networks,CSE-3rd-year.pdf,1,2145
+3rd Year,3fae9237dd4a,attempt any four of the following,2. Attempt any four of the following:,Computer Graphics,CSE-3rd-year.pdf,1,3533
+3rd Year,eff23463dd3b,attempt any four parts of the following,1. Attempt any four parts of the following:,NETWORKS,CSE-3rd-year.pdf,1,2414
+3rd Year,eff23463dd3b,attempt any four parts of the following,2. Attempt any four parts of the following:,General Computer Science,CSE-3rd-year.pdf,1,2445
+3rd Year,eff23463dd3b,attempt any four parts of the following,Attempt any FOUR parts of the following,General Computer Science,CSE-3rd-year.pdf,1,386
+3rd Year,eff23463dd3b,attempt any four parts of the following,Attempt any FOUR parts of the following.,NOTE:,CSE-3rd-year.pdf,1,348
+3rd Year,ff14e1c3a6cc,attempt any four questions,Attempt any four questions(4 × 5 = 20),General Computer Science,CSE-3rd-year.pdf,1,1289
+3rd Year,829b528241be,attempt any two of the following,3. Attempt any two of the following:,General Computer Science,CSE-3rd-year.pdf,1,3562
+3rd Year,829b528241be,attempt any two of the following,4. Attempt any two of the following:,General Computer Science,CSE-3rd-year.pdf,1,3578
+3rd Year,829b528241be,attempt any two of the following,5. Attempt any two of the following:,General Computer Science,CSE-3rd-year.pdf,1,3614
+3rd Year,618e82323171,attempt any two parts of the following,5. Attempt any two parts of the following:,General Computer Science,CSE-3rd-year.pdf,1,2517
+3rd Year,618e82323171,attempt any two parts of the following,Attempt any TWO parts of the following,5 X 4,CSE-3rd-year.pdf,1,410
+3rd Year,b4084b27c67c,attempt any two questions,5. Attempt any two Questions:,T -> T*FIF,CSE-3rd-year.pdf,1,1457
+3rd Year,0b24173904cf,b c what is activation record,(a*b)+(c-d)*(a*b)+b c) What is activation record?,General Computer Science,CSE-3rd-year.pdf,1,1026
+3rd Year,bd78d3f576b4,b describe map reduce framework in detail,b) Describe map reduce framework in detail?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6931
+3rd Year,7c77038feda3,b draw the syntax tree and dag for the following expression,b) Draw the syntax tree and DAG for the following expression:,Compiler Design,CSE-3rd-year.pdf,1,1025
+3rd Year,39f828db0518,b explain the positional parameters in unix,b) Explain the positional parameters in Unix?,Operating Systems,CSE-3rd-year.pdf,1,4054
+3rd Year,734b00440486,b explain the process of installing hive features of hive,b) Explain the process of installing HIVE & features of HIVE?,Operating Systems,CSE-3rd-year.pdf,1,6914
+3rd Year,32afc057185d,b explain the steps involved,(5 marks)  b) Explain the steps involved,Database Management System,CSE-3rd-year.pdf,1,7031
+3rd Year,1e86a9ce72f4,b how will you carry out independence of attributes test,b) How will you carry out Independence of Attributes test?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6868
+3rd Year,ec59d2159ff3,b o big oh,b) O (Big-Oh?,General Computer Science,CSE-3rd-year.pdf,1,7527
+3rd Year,cf63be6a4460,b what are different routing algorithms,b) What are different routing algorithms?,CST021_005 |,CSE-3rd-year.pdf,1,2360
+3rd Year,1c784f369475,b what is a boot block super block and data block,"b) What is a Boot block, super block and data block?",General Computer Science,CSE-3rd-year.pdf,1,4187
+3rd Year,cb9721a7f575,b what is code optimization,b) What is code optimization?,General Computer Science,CSE-3rd-year.pdf,1,1073
+3rd Year,1fb76b6d4933,b what is computer graphics,b. what is computer graphics?,(4X5=20),CSE-3rd-year.pdf,1,500
+3rd Year,1fc6bd0e57dd,b what is difference between prim s and kruskal s algorithm,b) What is difference between Prim’s and Kruskal’s algorithm?,ANALYSIS OF ALGORITHMS,CSE-3rd-year.pdf,1,3061
+3rd Year,4a29b73ef128,b what is osi model,b) What is OSI model?,Computer Networks,CSE-3rd-year.pdf,1,2320
+3rd Year,e62af65c9869,b what is zookeeper explain its features with applications,b) What is Zookeeper explain its features with applications?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6923
+3rd Year,20a7a245e6af,backward chaining in inference engine of expert system,backward chaining in inference engine of expert system?,Artificial Intelligence,CSE-3rd-year.pdf,1,5166
+3rd Year,21480c8c819c,be the correct code,be the correct code?,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3213
+3rd Year,92f30ccd8c0b,besu po,besu PO,A B C D,CSE-3rd-year.pdf,1,3874
+3rd Year,b2db08f5cf51,between a port address a logical address and a physical address,"between a port address, a logical address and a physical address?",Computer Networks,CSE-3rd-year.pdf,1,2159
+3rd Year,f92c9b01f65a,between informed and uninformed search strategies in ai,between informed and uninformed search strategies in AI?,Artificial Intelligence,CSE-3rd-year.pdf,1,19
+3rd Year,decbb600b13b,binomial trees,Binomial trees?,General Computer Science,CSE-3rd-year.pdf,1,6655
+3rd Year,4d7be7dcbbc1,blocks f what is control and data flow analysis,Blocks. f) What is control and data flow analysis?,General Computer Science,CSE-3rd-year.pdf,1,1031
+3rd Year,f4dba81fc002,bop in what is difference between inductive deductive abductive learning,"bop(A) in What is difference between inductive, deductive, abductive learning?",10X 2,CSE-3rd-year.pdf,1,454
+3rd Year,cc56ed1a9dd1,briefly,(ii) Briefly,Artificial Intelligence,CSE-3rd-year.pdf,1,66
+3rd Year,cd1394b67d39,briefly describe the techniques that prevent congestion,Briefly describe the techniques that prevent congestion.,CST021_005 |,CSE-3rd-year.pdf,1,2372
+3rd Year,3152bd223a8f,briefly explain the,Briefly explain the,DATA ANALYTICS,CSE-3rd-year.pdf,1,6895
+3rd Year,9668654ebded,bs what is an intelligent agent,(d) bs What is an intelligent agent?,Artificial Intelligence,CSE-3rd-year.pdf,1,5107
+3rd Year,967024626345,buffer method and its disadvantages,Buffer Method and its disadvantages,General Computer Science,CSE-3rd-year.pdf,1,802
+3rd Year,82d0c3da0468,builder classes,Builder classes?,General Computer Science,CSE-3rd-year.pdf,1,4389
+3rd Year,3ef63bcd1dd1,business in detail,Business in detail?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6926
+3rd Year,b3f6e7edefd0,by mime headers why,by MIME headers why?,General Computer Science,CSE-3rd-year.pdf,1,5660
+3rd Year,9d69063f6e61,c explain grouping join cogroup cross group in data,"c) Explain Grouping, Join, CoGroup, Cross, & Group in data?",DATA ANALYTICS,CSE-3rd-year.pdf,1,6916
+3rd Year,b47f9b65f451,c explain the following commands,c) Explain the following commands?,General Computer Science,CSE-3rd-year.pdf,1,4062
+3rd Year,8fd39428a753,c in a two way anova the number of,"c) In a two-way ANOVA, the number of",DATA ANALYTICS,CSE-3rd-year.pdf,1,6885
+3rd Year,d0673c0acb50,c what are joins,c) What are Joins?,Database Management System,CSE-3rd-year.pdf,1,6995
+3rd Year,e5447f3f5e0b,c what is big data,c) What is Big Data?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6870
+3rd Year,04f3699f087f,c what is congestion,c) What is congestion?,CST021_005 |,CSE-3rd-year.pdf,1,2372
+3rd Year,b5027396ae7d,c what is lalr parser,c) What is LALR parser?,Compiler Design,CSE-3rd-year.pdf,1,1056
+3rd Year,7569005356f6,c what is open source technology,c) What is open-source technology?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6933
+3rd Year,c158caa3cd06,c what is randomized algorithm,c) What is randomized algorithm?,ANALYSIS OF ALGORITHMS,CSE-3rd-year.pdf,1,3094
+3rd Year,330290c64918,c what is unicast routing,c) What is unicast routing?,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3243
+3rd Year,2ecc33473c6b,clipping procedure in detail,clipping procedure in detail?,Computer Graphics,CSE-3rd-year.pdf,1,816
+3rd Year,1f12cf7dd36b,codes,codes?,General Computer Science,CSE-3rd-year.pdf,1,1674
+3rd Year,37929e0a3b9a,commands,commands?,General Computer Science,CSE-3rd-year.pdf,1,4042
+3rd Year,df52c918d94e,compare and contrast csma cd with csma ca,Compare and contrast CSMA/CD with CSMA/CA.,General Computer Science,CSE-3rd-year.pdf,1,2454
+3rd Year,d9625fca09a7,compare and contrast tcp with rtp are both doing the same things,Compare and contrast TCP with RTP. Are both doing the same things?,Computer Networks,CSE-3rd-year.pdf,1,2546
+3rd Year,81c9bafce0ff,compare p and np,Compare P and NP.,General Computer Science,CSE-3rd-year.pdf,1,6780
+3rd Year,2d3d57cb8939,compare the orthographic and oblique types of parallel projections and also explain,Compare the orthographic and oblique types of parallel projections and also explain,General Computer Science,CSE-3rd-year.pdf,1,734
+3rd Year,f3b666877354,compute worst time complexity of this algorithm,Compute worst time complexity of this algorithm?,General Computer Science,CSE-3rd-year.pdf,1,7623
+3rd Year,24f08a134c98,computers jabal and pcs,computers Jabal and PCs ?,Operating Systems,CSE-3rd-year.pdf,1,6201
+3rd Year,11713c8b8632,consider both the,Consider both the,General Computer Science,CSE-3rd-year.pdf,1,6248
+3rd Year,de8acbe23cf9,construct the set of lr items for this,Construct the set of LR(1) items for this,General Computer Science,CSE-3rd-year.pdf,1,1056
+3rd Year,d6365ebb495b,constructed and how can inference be performed using it,"constructed, and how can  inference be performed using it?",Artificial Intelligence,CSE-3rd-year.pdf,1,55
+3rd Year,649895bbd6cf,contd,[Contd...,General Computer Science,CSE-3rd-year.pdf,1,5599
+3rd Year,d31e12a38bcc,crt,CRT?,(4X5=20),CSE-3rd-year.pdf,1,506
+3rd Year,eaab99aec218,d differentiate between null and alternative hypotheses,d) Differentiate between Null and Alternative Hypotheses?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6872
+3rd Year,1009a5ac8b03,d how queen s problem can be solved using back tracking,d) How 8-Queen’s problem can be solved using back tracking?,ANALYSIS OF ALGORITHMS,CSE-3rd-year.pdf,1,3019
+3rd Year,1dbbc55c16f3,d what are data processing operations in pig,d) What are data processing operations in PIG?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6890
+3rd Year,abd16be2c8a9,d what is ip addressing,d) What is IP addressing?,Computer Networks,CSE-3rd-year.pdf,1,3148
+3rd Year,a22c6a976d98,define,Define,General Computer Science,CSE-3rd-year.pdf,1,7545
+3rd Year,c737ee258803,define complete kmp algorithm for string matching it should give the preprocessing and searching algorithms separately given the pattern and string,Define complete KMP algorithm for string matching. It should give the preprocessing and searching algorithms separately. Given the pattern: 101001 and string:,General Computer Science,CSE-3rd-year.pdf,1,6685
+3rd Year,3db80ca5b8ed,define eulerian and hamiltonian graph draw a,Define Eulerian and Hamiltonian graph. Draw a,Computer Graphics,CSE-3rd-year.pdf,1,6012
+3rd Year,70fd402522d6,define expert system also explain mycin expert system,Define expert system. Also explain MYCIN expert system.,Artificial Intelligence,CSE-3rd-year.pdf,1,297
+3rd Year,916aa03e85bb,define heuristic search explain the steps in best first search and illustrate it,"Define ""Heuristic Search"". Explain the steps in ""Best First Search"" and illustrate it",Artificial Intelligence,CSE-3rd-year.pdf,1,129
+3rd Year,994fe0438389,define incidence matrix of a graph prove that if a is an incidence matrix of a connected graph g with n vertices then rank of a is n,Define incidence matrix of a graph. Prove that if A(G) is an incidence matrix of a connected graph G with n vertices then rank of A(G) is n-1.,Computer Graphics,CSE-3rd-year.pdf,1,6128
+3rd Year,5a942dbc380a,define queue and its possible operations,Define Queue and its possible operations.,Data Structures,CSE-3rd-year.pdf,1,6790
+3rd Year,84b6f1f23d7f,define the asymptotic notations used for best case average case and worst case analysis of algorithms,Define the asymptotic notations used for best case average case and worst case analysis of algorithms.,General Computer Science,CSE-3rd-year.pdf,1,6416
+3rd Year,0613dc7b2bb1,define the code optimization with the help of any example,Define the code optimization with the help of any example.,General Computer Science,CSE-3rd-year.pdf,1,1617
+3rd Year,a6178e16c93f,define the terms eccentricity and center in,Define the terms eccentricity and center in,M03-29T,CSE-3rd-year.pdf,1,6043
+3rd Year,4efe157104a3,define the various data compression techniques used in network,(10 × 2 = 20) Define the various data compression techniques used in network?,Computer Networks,CSE-3rd-year.pdf,1,2525
+3rd Year,c615c1daa535,define third normal form discuss the differences between nf and nf with examples why is nf important in database design,Define Third Normal Form (3NF). Discuss the differences between 2NF and 3NF with examples. Why  is 3NF important in database design? (10 marks),Database Management System,CSE-3rd-year.pdf,1,7008
+3rd Year,040922e4ca61,define windowing and viewport derive window to viewport transformation,Define windowing and viewport. Derive window to viewport transformation.,Computer Graphics,CSE-3rd-year.pdf,1,2014
+3rd Year,242171d53549,describe boot strapping and its uses in compiler design,Describe Boot strapping and its uses in compiler design.,Compiler Design,CSE-3rd-year.pdf,1,1287
+3rd Year,b6723eb66c3a,describe d projection,Describe 3-D projection,Computer Graphics,CSE-3rd-year.pdf,1,814
+3rd Year,f09210498f28,describe namenode datanode and block explain,"Describe namenode, datanode and block. Explain",DATA ANALYTICS,CSE-3rd-year.pdf,1,6920
+3rd Year,c8e2fad04ceb,describe optimal binary search tree using dynamic programming approach c describe chained matrix multiplication recurrence relation consider a a a and a be four matrices of dimensions and respectively describe the minimum number of scalar multiplications,"Describe optimal binary search tree (BST) using dynamic programming approach. (10 marks) c) Describe chained matrix multiplication recurrence relation. Consider A1, A2, A3 and A4 be four  matrices of dimensions 10×5, 5×20, 20×10 and 10×5, respectively. Describe the minimum number of  scalar multiplications",Discrete Structures,CSE-3rd-year.pdf,1,7706
+3rd Year,b2d395fd707f,describe the bootstrapping and its importance,Describe the bootstrapping and its importance,BCST-603,CSE-3rd-year.pdf,1,4660
+3rd Year,356a3d29d8be,describe the chromatic number required using graph coloring technique of the given connected graph,Describe the chromatic number required using graph coloring  technique of the given connected graph. (10,Computer Graphics,CSE-3rd-year.pdf,1,7664
+3rd Year,74e718c5e2aa,describe the cohen sutherland polygon algorithm with suitable example,Describe the Cohen Sutherland polygon algorithm with suitable example.,Computer Graphics,CSE-3rd-year.pdf,1,2030
+3rd Year,aee25fe9468b,describe the following,Describe the following :,General Computer Science,CSE-3rd-year.pdf,1,7685
+3rd Year,c6f632cec543,describe the preemptive and non preemptive,Describe the preemptive and non-preemptive,General Computer Science,CSE-3rd-year.pdf,1,3732
+3rd Year,17dccc2101d2,describe the tasks that are performed by semantic analysis phase of compiler,Describe the tasks that are performed by semantic analysis phase of compiler.,Compiler Design,CSE-3rd-year.pdf,1,1555
+3rd Year,13f1d84a15b3,describe the techniques that prevent,Describe the techniques that prevent,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3188
+3rd Year,e1b25b50dad2,describe the various storage management techniques in detail also describe,Describe the various storage management techniques in detail. Also describe,T -> T*FIF,CSE-3rd-year.pdf,1,1465
+3rd Year,f2a365b41708,describe the various technologies that can be used to form a lan,Describe the various technologies that can be used to form a LAN.,General Computer Science,CSE-3rd-year.pdf,1,5695
+3rd Year,f244d1d2f201,describe the working principle of carrier sense multiple access with collision,Describe the working principle of Carrier sense multiple access with collision,Computer Networks,CSE-3rd-year.pdf,1,2133
+3rd Year,c28d2a593baf,describe three circumstances under which blocking,Describe three circumstances under which blocking,General Computer Science,CSE-3rd-year.pdf,1,6153
+3rd Year,8cc1db608374,detect the presence of a negative weight cycle,detect the  presence of a negative weight cycle?,ANALYSIS OF ALGORITHMS,CSE-3rd-year.pdf,1,3014
+3rd Year,4fad1dd35c7e,determine whether the given r is in nf,determine  whether the given R is in 2NF?,Database Management System,CSE-3rd-year.pdf,1,7007
+3rd Year,d279a1ff318b,different from csma ca protocol,different from CSMA/CA  protocol?,ST021_005 | 103.170.7,CSE-3rd-year.pdf,1,2335
+3rd Year,9f5534a8ca11,different from dhcp,different from DHCP?,CST021_005 |,CSE-3rd-year.pdf,1,2355
+3rd Year,232279857c17,differentiate among divide and conquer dynamic programming and,"Differentiate among Divide and conquer, Dynamic Programming and",General Computer Science,CSE-3rd-year.pdf,1,6784
+3rd Year,55da2e163881,differentiate between,Differentiate between,NETWORKS,CSE-3rd-year.pdf,1,2432
+3rd Year,2cb56df1c5c7,differentiate between beam penetration and shadow mask method using suitable,Differentiate between beam-penetration and shadow mask method using suitable,General Computer Science,CSE-3rd-year.pdf,1,1777
+3rd Year,3fb3fb7f854c,differentiate between bezier and b spline curve,Differentiate between Bezier and B-spline curve.,Computer Graphics,CSE-3rd-year.pdf,1,1761
+3rd Year,988cd3601be7,differentiate between bfs and dfs,Differentiate between BFS and DFS.,General Computer Science,CSE-3rd-year.pdf,1,6796
+3rd Year,06b9b0c13419,differentiate between circuit switching packet switching and message,"Differentiate between Circuit Switching, Packet Switching and Message",Computer Networks,CSE-3rd-year.pdf,1,2173
+3rd Year,0f16a05583bb,differentiate between flow control and error control what is the difference,Differentiate between Flow control and Error control. What is the difference,Computer Networks,CSE-3rd-year.pdf,1,2157
+3rd Year,356991526738,differentiate between greedy and dynamic algorithms with appropriate examples,Differentiate between Greedy and Dynamic Algorithms with appropriate examples?,DESIGN & ANALYSIS OF ALGORITHM,CSE-3rd-year.pdf,1,6611
+3rd Year,d90879ffa94b,differentiate between osi and tcp ip reference models,Differentiate between OSI and TCP/IP reference models.,Computer Networks,CSE-3rd-year.pdf,1,2131
+3rd Year,d8a14ac3b7da,differentiate between passive and active ftp what are the,Differentiate between passive and active FTP. What are the,General Computer Science,CSE-3rd-year.pdf,1,2534
+3rd Year,abedf4445950,differentiate between raster scan and random scan systems,Differentiate between raster scan and random scan systems.,Computer Graphics,CSE-3rd-year.pdf,1,1816
+3rd Year,fcd88527f1a5,differentiate between symmetric key cryptography and,Differentiate between symmetric key cryptography and,Cryptography and Network Security,CSE-3rd-year.pdf,1,2509
+3rd Year,a01c63cfb32d,differentiate between tcp and udp with frame format,differentiate  between TCP and UDP with frame format.,Computer Networks,CSE-3rd-year.pdf,1,3200
+3rd Year,33198488f0ad,differentiate the syntactic phase errors and semantic errors,Differentiate the syntactic phase errors and semantic errors.,General Computer Science,CSE-3rd-year.pdf,1,1613
+3rd Year,1b7949a7060d,discuss,(ii) Discuss,Artificial Intelligence,CSE-3rd-year.pdf,1,19
+3rd Year,577007e09432,discuss all types of joins with the help of suitable examples,Discuss all types of Joins with the help of suitable examples.,Database Management System,CSE-3rd-year.pdf,1,6995
+3rd Year,46ee780f6c2f,discuss analysis of variances and correlation indicators of linear,Discuss Analysis of Variances (ANOVA) and correlation indicators of linear,General Computer Science,CSE-3rd-year.pdf,1,4704
+3rd Year,1e7c263e8dbe,discuss ao algorithm give one example where ao is suitable to apply,Discuss AO* algorithm. Give one example where AO* is suitable to apply.,Artificial Intelligence,CSE-3rd-year.pdf,1,123
+3rd Year,b7dee86a750d,discuss different standards of ethernet,Discuss different standards of Ethernet.,Computer Networks,CSE-3rd-year.pdf,1,2163
+3rd Year,dad58ecab40d,discuss memory representations of a graph,Discuss memory representations of a graph,Computer Graphics,CSE-3rd-year.pdf,1,6800
+3rd Year,098d4e3ff577,discuss reachability c give the dag representation of basic blocks and perform code improving transformations on the code represented by the block also explain peephole optimization,"discuss reachability. (10 marks) c) Give the DAG representation of basic blocks and perform code improving transformations on the  code represented by the block. Also, explain peephole optimization. (10 marks)",Compiler Design,CSE-3rd-year.pdf,1,1199
+3rd Year,1e1cab1c795a,discuss the impact of ai on society,Discuss the impact of AI on society?,Artificial Intelligence,CSE-3rd-year.pdf,1,5111
+3rd Year,52a8923647e6,discuss the important design issues for various layers write a short notes on connection oriented and connectionless services,Discuss the important design issues for various layers. Write a short notes on connection oriented and connectionless services.,General Computer Science,CSE-3rd-year.pdf,1,5699
+3rd Year,5c792e8d8d85,discuss the matrix chain,Discuss the matrix chain,General Computer Science,CSE-3rd-year.pdf,1,7579
+3rd Year,f50d461e198d,discuss the role of protocols in lan technology with examples also state advantages and disadvantages of fddi and ethernet lan technologies,Discuss the role of protocols in LAN technology with examples also state advantages and disadvantages of FDDI and Ethernet LAN technologies.,Computer Networks,CSE-3rd-year.pdf,1,5742
+3rd Year,3a7b3cfbed6c,discuss the role of various phases of complier in translation of,Discuss the role of various phases of complier in translation of,General Computer Science,CSE-3rd-year.pdf,1,1668
+3rd Year,d207c7e65aff,discuss the traveling salesman problem,Discuss the traveling salesman problem.,General Computer Science,CSE-3rd-year.pdf,1,5930
+3rd Year,29537c416970,discuss the use of udp,discuss the use of UDP.,General Computer Science,CSE-3rd-year.pdf,1,2503
+3rd Year,38831b356425,discuss the various approaches used for organization of symbol,Discuss the various approaches used for organization of symbol,OLI OTOD OS => [,CSE-3rd-year.pdf,1,5590
+3rd Year,68c0369d1f1c,discuss unicast routing protocols,Discuss unicast routing protocols.,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3243
+3rd Year,87c5f0c760e2,distinguish between forward and backward chaining,Distinguish between forward and backward chaining?,General Computer Science,CSE-3rd-year.pdf,1,362
+3rd Year,1b67381eec4d,do you analyze the data in hadoop,do you analyze the  data in Hadoop?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6912
+3rd Year,fdf6f3a242a0,do you think we will stop using the,Do you think we will stop using the,General Computer Science,CSE-3rd-year.pdf,1,2535
+3rd Year,91be5e02e08f,does greedy method effective to solve the,Does greedy method effective to solve the 0/1,General Computer Science,CSE-3rd-year.pdf,1,7566
+3rd Year,df45a03b5ce4,does it occur,does it occur?,General Computer Science,CSE-3rd-year.pdf,1,6400
+3rd Year,a9cdfafca7a3,draw a b tree of order inserting the following elements in sequence,Draw a B-tree of order 3 inserting the following elements in sequence,Data Structures,CSE-3rd-year.pdf,1,7554
+3rd Year,376b86aa4d4a,draw a complete graph with n,Draw a complete graph with n=4.,Computer Graphics,CSE-3rd-year.pdf,1,3535
+3rd Year,6cd7f3087ec5,draw a directed weighted graph g with vertices and edges such that g contains a minimum weight cycle with at least edges show that the bellman ford algorithm will find this cycle,"Draw a (simple) directed weighted graph G with 10 vertices and 18 edges, such that G contains a minimum-weight cycle with at least 4 edges. Show that the Bellman-Ford algorithm will find this cycle.",Computer Graphics,CSE-3rd-year.pdf,1,6499
+3rd Year,5e07041e6bf0,draw architectural diagram for,Draw architectural diagram for,DATA ANALYTICS,CSE-3rd-year.pdf,1,6932
+3rd Year,4fa8c717207e,draw diagram to discuss features of hadoop how,Draw diagram to discuss features of Hadoop. How,DATA ANALYTICS,CSE-3rd-year.pdf,1,6911
+3rd Year,098ec04db0f0,draw the flow chart for midpoint circle generation algorithm,Draw the flow chart for midpoint circle generation algorithm.?,Computer Graphics,CSE-3rd-year.pdf,1,659
+3rd Year,c9a03b01b4e4,draw the isdn communication architecture,Draw the ISDN communication architecture?,NETWORKS,CSE-3rd-year.pdf,1,2432
+3rd Year,3a6115976128,e what are basic blocks,e) What are basic blocks?,General Computer Science,CSE-3rd-year.pdf,1,1030
+3rd Year,9c4d6a9b0d0d,e what is congestion,e) What is congestion?,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3188
+3rd Year,1f0528a10b39,each other,each other?,BCST-604A,CSE-3rd-year.pdf,1,4772
+3rd Year,83ae30764516,entering polygons,entering polygons?,COMPUTER GRAPHICS,CSE-3rd-year.pdf,1,681
+3rd Year,c6e454d960df,environment,environment?,General Computer Science,CSE-3rd-year.pdf,1,3339
+3rd Year,c3499c272973,example,example?,BCST-602,CSE-3rd-year.pdf,1,4531
+3rd Year,f7c1380a0d71,explain,Explain,General Computer Science,CSE-3rd-year.pdf,1,4225
+3rd Year,f7c1380a0d71,explain,Explain,DATA ANALYTICS,CSE-3rd-year.pdf,1,6931
+3rd Year,f7c1380a0d71,explain,Explain,General Computer Science,CSE-3rd-year.pdf,1,3824
+3rd Year,f7c1380a0d71,explain,Explain :,General Computer Science,CSE-3rd-year.pdf,1,790
+3rd Year,f7c1380a0d71,explain,Explain.,203-30T,CSE-3rd-year.pdf,1,4459
+3rd Year,f7c1380a0d71,explain,Explain.,ANALYSIS OF ALGORITHMS,CSE-3rd-year.pdf,1,3019
+3rd Year,f7c1380a0d71,explain,Explain.,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3144
+3rd Year,f7c1380a0d71,explain,Explain.,General Computer Science,CSE-3rd-year.pdf,1,5974
+3rd Year,f7c1380a0d71,explain,Explain.,General Computer Science,CSE-3rd-year.pdf,1,3828
+3rd Year,f7c1380a0d71,explain,Explain.,General Computer Science,CSE-3rd-year.pdf,1,4389
+3rd Year,f7c1380a0d71,explain,explain.,General Computer Science,CSE-3rd-year.pdf,1,3844
+3rd Year,6eecf83ccfe4,explain a algorithm by an example,Explain A* Algorithm by an example.,Artificial Intelligence,CSE-3rd-year.pdf,1,119
+3rd Year,0014082f030d,explain a searching technique in detail with example discuss conditions for,Explain A* searching technique in detail with example. Discuss conditions for,General Computer Science,CSE-3rd-year.pdf,1,422
+3rd Year,6363ea3fd392,explain about role of minimum distance in error correction and detection calculate crc for a bit sequence the generator polynomial is x x,Explain about role of minimum distance in error correction and detection. Calculate CRC for a 10 bit sequence 1010011110. The generator polynomial is x3+x+1.,General Computer Science,CSE-3rd-year.pdf,1,5737
+3rd Year,e32108ef2803,explain about the communication taking place between the session layer presentation layer and transport layer also explain the duties of presentation layer,"Explain about the communication taking place between the session layer, presentation layer and transport layer. Also explain the duties of presentation layer.",General Computer Science,CSE-3rd-year.pdf,1,5771
+3rd Year,9d4c353a7194,explain about the painter s algorithm explain the situation where the painter s,Explain about the painter's algorithm. Explain the situation where the painter's,COMPUTER GRAPHICS,CSE-3rd-year.pdf,1,685
+3rd Year,05932bc38800,explain advantages and limitations of these days expert,Explain advantages and limitations of these days expert,General Computer Science,CSE-3rd-year.pdf,1,5203
+3rd Year,c82bacd175c8,explain all the issues in knowledge representation,(A) Explain all the issues in knowledge representation?,10X2,CSE-3rd-year.pdf,1,436
+3rd Year,a1ddd25fcf77,explain any five applications area of al in short,Explain any five applications area of Al in short.,Artificial Intelligence,CSE-3rd-year.pdf,1,110
+3rd Year,36acb0282db0,explain any one of them,Explain any one of them.,General Computer Science,CSE-3rd-year.pdf,1,2054
+3rd Year,52e4ba521349,explain back propagation algorithm for neural nets learning,Explain back propagation algorithm for neural nets learning?,General Computer Science,CSE-3rd-year.pdf,1,428
+3rd Year,ef119bf67b94,explain backtracking why it is required,Explain backtracking why it is required?,General Computer Science,CSE-3rd-year.pdf,1,7618
+3rd Year,836ba606d844,explain boyer moore algorithm for string matching,Explain Boyer-Moore algorithm for string matching,General Computer Science,CSE-3rd-year.pdf,1,7620
+3rd Year,a9579685777f,explain breadth first search algorithm,(B) Explain breadth first search algorithm?,General Computer Science,CSE-3rd-year.pdf,1,390
+3rd Year,f112b3c5218d,explain briefly the bus backbone and star backbone also state and explain different types of delays,Explain briefly the bus backbone and star backbone also state and explain different types of delays.,General Computer Science,CSE-3rd-year.pdf,1,5710
+3rd Year,9a4353d5feed,explain co axial cable in brief,Explain co-axial cable in brief.,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3205
+3rd Year,f5bc70ecd4b1,explain data independence with a suitable diagram explain the structure of relational databases with examples b consider the following schema for institute library student book issue,"Explain Data independence with a suitable diagram. (5 marks) (ii) Explain the Structure of Relational Databases with examples. (5 marks)  b) Consider the following schema for institute library: (10 marks) Student (RollNo, Name, Father_ Name, Branch) Book (ISBN, Title, Author, Publisher) Issue (RollNo, ISBN, Date-of –Issue)",Database Management System,CSE-3rd-year.pdf,1,6978
+3rd Year,1bc2a130d8d9,explain difference between polygon relative and polygon absolute algorithm of,Explain difference between polygon relative and polygon absolute algorithm of,COMPUTER GRAPHICS,CSE-3rd-year.pdf,1,679
+3rd Year,87e72c0265c0,explain differences of inter and trans firewall analytics,Explain differences of inter and trans firewall  analytics?,Cryptography and Network Security,CSE-3rd-year.pdf,1,6934
+3rd Year,8ab6f7e4cef1,explain different types of,Explain different types of,General Computer Science,CSE-3rd-year.pdf,1,5692
+3rd Year,ea15ec5234bd,explain disjoint set operations also explain the applications of disjoint set data,Explain disjoint set Operations Also Explain the applications of Disjoint -Set data,DESIGN & ANALYSIS OF ALGORITHM,CSE-3rd-year.pdf,1,6643
+3rd Year,28254013806d,explain fifo policy in detail,Explain FIFO policy in detail.,General Computer Science,CSE-3rd-year.pdf,1,3832
+3rd Year,ece93254005f,explain finite state machines and regular expressions with the help of one example,Explain Finite state machines and regular expressions with the help of one example.,General Computer Science,CSE-3rd-year.pdf,1,1587
+3rd Year,7bed278ca7a7,explain greedy algorithms with the help of suitable examples,Explain greedy algorithms with the help of suitable examples?,General Computer Science,CSE-3rd-year.pdf,1,7612
+3rd Year,5ebc2ae3fbcc,explain heap sort with suitable examples,Explain Heap sort with suitable examples.,General Computer Science,CSE-3rd-year.pdf,1,7502
+3rd Year,ddb1b86b4914,explain how one can check the intelligence of a machine,Explain how one can check the intelligence of a machine?,Artificial Intelligence,CSE-3rd-year.pdf,1,5095
+3rd Year,541f8c8a8c96,explain how rasterization accuracy is preserved despite using integer arithmetic,Explain how rasterization accuracy is preserved despite using integer arithmetic?,COMPUTER GRAPHICS,CSE-3rd-year.pdf,1,655
+3rd Year,592a17a9e0a4,explain how the transfer protocol clients servers are configured discuss the various ftp and telnet commands,Explain how the transfer protocol clients servers are configured. Discuss the various FTP and telnet commands.,General Computer Science,CSE-3rd-year.pdf,1,5656
+3rd Year,75d23be5da6e,explain how they can be,Explain how they can be,APPLE,CSE-3rd-year.pdf,1,149
+3rd Year,1532342939e3,explain how to display file structure and control test,Explain how to display file structure and control test?,GRAPHICS,CSE-3rd-year.pdf,1,1954
+3rd Year,a1692cb50155,explain in detail,Explain in detail.,General Computer Science,CSE-3rd-year.pdf,1,2865
+3rd Year,8ca7cdd1584c,explain in detail dda algorithm of line,Explain in detail DDA algorithm of line?,GRAPHICS,CSE-3rd-year.pdf,1,1958
+3rd Year,f1173d239cd3,explain in detail travelling salesman,Explain in detail travelling salesman,General Computer Science,CSE-3rd-year.pdf,1,7623
+3rd Year,13fb82eaf15f,explain interface hierarchies with,Explain interface hierarchies with,203-30T,CSE-3rd-year.pdf,1,4445
+3rd Year,738e5db15773,explain it with suitable,Explain it with suitable,General Computer Science,CSE-3rd-year.pdf,1,4407
+3rd Year,e11d5911bedf,explain it with suitable examples,Explain it with suitable examples.,General Computer Science,CSE-3rd-year.pdf,1,4361
+3rd Year,11e28baf8a8e,explain it with the help of suitable diagram and how much time is spent scanning across each row of pixels during screen refresh on a raster system with a resolution of,explain it with the help of suitable diagram And how much time is spent scanning across each row of pixels during screen refresh on a raster system with a resolution of 640*480,Artificial Intelligence,CSE-3rd-year.pdf,1,1895
+3rd Year,f8e6811f6cab,explain iterative deepening depth first search algorithm,Explain iterative deepening depth first search algorithm?,General Computer Science,CSE-3rd-year.pdf,1,448
+3rd Year,a76f4eb8d5f3,explain its application and working,Explain its application and working.,10X 2,CSE-3rd-year.pdf,1,457
+3rd Year,0e689b43dd7a,explain its architecture with suitable diagram in qu,Explain its architecture with suitable diagram. In qu,Artificial Intelligence,CSE-3rd-year.pdf,1,5107
+3rd Year,fa45aff395a3,explain its capabilities also mention the name,"Explain its capabilities, also Mention the name",General Computer Science,CSE-3rd-year.pdf,1,1436
+3rd Year,ccf705868c02,explain its importance,Explain its importance.,General Computer Science,CSE-3rd-year.pdf,1,1583
+3rd Year,75319181ccfe,explain its installing process and two execution types or,Explain its installing process and two execution types or,Operating Systems,CSE-3rd-year.pdf,1,6930
+3rd Year,f77da057d0c0,explain its significance in ai reasoning under uncertainty what is the role of conditional probability in bayesian networks,explain its significance in AI reasoning under uncertainty.  (ii) What is the role of conditional probability in Bayesian networks?,Artificial Intelligence,CSE-3rd-year.pdf,1,51
+3rd Year,23d42b8d4ffe,explain knowledge based agent with example,Explain knowledge based agent with example.,Artificial Intelligence,CSE-3rd-year.pdf,1,157
+3rd Year,da5c1b45a54f,explain liang barsky line clipping algorithm,Explain Liang barsky line clipping algorithm..,Computer Graphics,CSE-3rd-year.pdf,1,2032
+3rd Year,261db50c3727,explain lisp and prolog conditional statements constructs with suitable programming illustration,Explain LISP and PROLOG conditional statements constructs with suitable programming illustration.,General Computer Science,CSE-3rd-year.pdf,1,5162
+3rd Year,9a1a2b2c7b3d,explain list any two applications,Explain. List any  two applications.,ANALYSIS OF ALGORITHMS,CSE-3rd-year.pdf,1,3063
+3rd Year,7dcae3c82df3,explain machine dependent and,Explain machine dependent and,General Computer Science,CSE-3rd-year.pdf,1,1073
+3rd Year,357685aac280,explain master s theorem,Explain Master's Theorem.,General Computer Science,CSE-3rd-year.pdf,1,7516
+3rd Year,a31c6370d800,explain merge sort technique discuss the time complexity of merge sort f explain strassen s matrix multiplication and its time complexity,Explain Merge sort technique. Discuss the time complexity of merge sort. f) Explain Strassen’s matrix multiplication and its time complexity.,ANALYSIS OF ALGORITHMS,CSE-3rd-year.pdf,1,3004
+3rd Year,09e06ae0c3e8,explain multi agent planning with the help of example,Explain multi-agent planning with the help of example?,Artificial Intelligence,CSE-3rd-year.pdf,1,402
+3rd Year,ba195dab57de,explain n queens problem with an algorithm explain why backtracking is defined as a default procedure of last resort for solving problems,Explain N-queens problem with an algorithm. Explain why backtracking is defined as a default procedure of last resort for solving problems.,General Computer Science,CSE-3rd-year.pdf,1,6459
+3rd Year,427e706e9c11,explain nagel s algorithm and,Explain Nagel's algorithm and,General Computer Science,CSE-3rd-year.pdf,1,2514
+3rd Year,48c1687bdbe0,explain performance issues for the following data link layer protocols,Explain performance issues for the following data link layer protocols:,General Computer Science,CSE-3rd-year.pdf,1,2469
+3rd Year,a3a7f699e8a5,explain propositional and predicate logic,Explain propositional and predicate logic?,Artificial Intelligence,CSE-3rd-year.pdf,1,392
+3rd Year,e7b1a9a70cc4,explain resolution process explain about a typical,Explain resolution process. Explain about a typical,Artificial Intelligence,CSE-3rd-year.pdf,1,5661
+3rd Year,fbef299def56,explain scanline fill algorithm with an example showing necessary vertex list edge,"Explain scanline fill algorithm with an example showing necessary vertex list, edge",COMPUTER GRAPHICS,CSE-3rd-year.pdf,1,648
+3rd Year,33ce640e7fcd,explain semantic net frame with suitable example,Explain Semantic Net & Frame with suitable example.,General Computer Science,CSE-3rd-year.pdf,1,175
+3rd Year,51e130a71a6d,explain state space approach for solving any ai problem,Explain state space approach for solving any AI problem.,General Computer Science,CSE-3rd-year.pdf,1,376
+3rd Year,75fff8663eab,explain strong slot filler with example,Explain Strong slot filler with example?,General Computer Science,CSE-3rd-year.pdf,1,179
+3rd Year,78b1c719e071,explain the application and working of ant,Explain the application and working of Ant,General Computer Science,CSE-3rd-year.pdf,1,291
+3rd Year,62d7147bcf20,explain the basic concept of midpoint ellipse drawing algorithm derive the decision,Explain the basic concept of midpoint ellipse drawing algorithm. Derive the decision,COMPUTER GRAPHICS,CSE-3rd-year.pdf,1,663
+3rd Year,b638a5788fa1,explain the brief various application areas of computer,Explain the brief various application areas of computer,(4X5=20),CSE-3rd-year.pdf,1,500
+3rd Year,ceec8ee55544,explain the causes of,Explain the causes of,General Computer Science,CSE-3rd-year.pdf,1,2232
+3rd Year,57e75a14fbb5,explain the cohen sutherland line clipping algorithm,Explain the Cohen Sutherland Line Clipping Algorithm?,Computer Graphics,CSE-3rd-year.pdf,1,754
+3rd Year,98eabeda23dd,explain the concept of fractured segment with suitable diagram if required you,Explain the concept of fractured segment with suitable diagram if required. You,GRAPHICS,CSE-3rd-year.pdf,1,2008
+3rd Year,a56c58bf5325,explain the concept of input buffering with sentinel in lexical analysis,Explain the concept of input buffering with sentinel in lexical analysis.,Compiler Design,CSE-3rd-year.pdf,1,1601
+3rd Year,d1b7cc001574,explain the concept of isomorphism and,Explain the concept of 1-isomorphism and,M03-29T,CSE-3rd-year.pdf,1,6079
+3rd Year,d3955b603a96,explain the concept of planning with state space search with an example explain,Explain the concept of planning with state space search with an example. Explain,General Computer Science,CSE-3rd-year.pdf,1,251
+3rd Year,b2d168975702,explain the concept of reinforcement learning with a real world example b discuss different types of planning strategies in ai including state space search conditional planning continuous planning and multi agent planning how do these approaches handle dynamic environments and uncertainty,"explain the concept of reinforcement learning with a real-world example.  b) Discuss different types of planning strategies in AI, including state space search, conditional  planning, continuous planning, and multi-agent planning. How do these approaches handle dynamic  environments and uncertainty?",Artificial Intelligence,CSE-3rd-year.pdf,1,67
+3rd Year,c7937df91ff7,explain the congestion control mechanisms to regulate the traffic in a data network discuss rpc and various design issues of presentation layer and transport layer explain routing and bellman ford algorithm,Explain the congestion control mechanisms to regulate the traffic in a data network. Discuss RPC and various design issues of presentation layer and transport layer. Explain routing and bellman ford algorithm.,Computer Networks,CSE-3rd-year.pdf,1,2493
+3rd Year,c561c8e105ae,explain the construction of syntax tree with an,Explain the construction of syntax tree with an,Data Structures,CSE-3rd-year.pdf,1,4530
+3rd Year,23446e1fa5c8,explain the context free grammar with suitable example,Explain the context free grammar with suitable example.,Compiler Design,CSE-3rd-year.pdf,1,1609
+3rd Year,4186a0defb17,explain the dag representation of basic blocks value numbers and algebraic laws with the help of suitable example,"Explain the DAG representation of basic blocks, value numbers and algebraic laws with the help of suitable example.",Compiler Design,CSE-3rd-year.pdf,1,1680
+3rd Year,8f9f0555ff9f,explain the different,Explain the different,CST021_005 |,CSE-3rd-year.pdf,1,2377
+3rd Year,639b8a0907ea,explain the different display devices,Explain the different display devices?,GRAPHICS,CSE-3rd-year.pdf,1,1970
+3rd Year,cbbaad24b479,explain the different polygon filling algorithms,Explain the different polygon filling algorithms.,GRAPHICS,CSE-3rd-year.pdf,1,1992
+3rd Year,3888cb87f6e0,explain the different type of header supportted by ipv what is the difference,Explain the different type of header supportted by IPv6. What is the difference,Computer Networks,CSE-3rd-year.pdf,1,2204
+3rd Year,4e6fe53369b2,explain the display file structure,Explain the display file structure.,GRAPHICS,CSE-3rd-year.pdf,1,1978
+3rd Year,e28bcb135d5c,explain the following expert system,Explain the following expert system:,Artificial Intelligence,CSE-3rd-year.pdf,1,440
+3rd Year,25fb971fda7b,explain the following uniformed search strategies,Explain the following uniformed search strategies:,General Computer Science,CSE-3rd-year.pdf,1,3421
+3rd Year,a8244463aede,explain the functions of session presentation and application layer in osi,"Explain the functions of session, presentation and application layer in OSI",General Computer Science,CSE-3rd-year.pdf,1,2214
+3rd Year,331ba9bee09c,explain the importance of intermediate code generation phase in phases complier what are the different issues that must be considered in the selection of intermediate,Explain the importance of intermediate code generation phase in phases complier. What are the different issues that must be considered in the selection of intermediate,Compiler Design,CSE-3rd-year.pdf,1,1671
+3rd Year,ca2fb84a6617,explain the local access network design in details what are the name the four,Explain the Local Access Network Design in details. What are the name the four,Computer Networks,CSE-3rd-year.pdf,1,2153
+3rd Year,1f97712fb307,explain the logical phase error and syntatic phase error also suggest methods,Explain the logical Phase Error and Syntatic phase error. Also suggest methods,General Computer Science,CSE-3rd-year.pdf,1,1430
+3rd Year,a90b6d18c13e,explain the method of hill climbing also explain the problems associated with hill climbing and possible solutions,Explain the method of Hill climbing. Also explain the problems associated with hill climbing and possible solutions.,Artificial Intelligence,CSE-3rd-year.pdf,1,114
+3rd Year,cacec6687692,explain the operations of union intersection exhsm isto and symmetric difference of two simple smit when loups vnes graphs with an example for each,"Explain the operations of union, intersection 00: exhsM Isto and symmetric difference of two simple smiT when loups vnes graphs with an example for each.",M03-29T,CSE-3rd-year.pdf,1,6005
+3rd Year,8bc1845ed74c,explain the process of deletion in red black tree,Explain the process of deletion in red black tree.,Operating Systems,CSE-3rd-year.pdf,1,6667
+3rd Year,ac6ef87851f4,explain the setting up a hadoop cluster,Explain the setting up a Hadoop cluster,General Computer Science,CSE-3rd-year.pdf,1,4701
+3rd Year,b1c386f09be2,explain the worst and best case time complexity of quick sort consider the quick sort algorithm with the last element chosen as the pivot if the goal is to sort the given a array a in ascending order how many swaps will occur during the execution of the algorithm,"Explain the worst and best case time complexity of Quick sort. Consider the Quick Sort algorithm with  the last element chosen as the pivot. If the goal is to sort the given a=[30,40,50,60,70,80]  array a=[30,40,50,60,70,80] in ascending order, how many swaps will occur during the execution of the  algorithm? (10 marks)",General Computer Science,CSE-3rd-year.pdf,1,7652
+3rd Year,39f863d54f85,explain traveling salesman problem with,Explain traveling salesman problem with,General Computer Science,CSE-3rd-year.pdf,1,6715
+3rd Year,0acab42dee82,explain unification in predicate logic also discuss the steps of converting,Explain unification in predicate logic. Also discuss the steps of converting,Artificial Intelligence,CSE-3rd-year.pdf,1,167
+3rd Year,583f1e408835,explain unix boot process yooo,Explain Unix boot process. yooo,Operating Systems,CSE-3rd-year.pdf,1,4189
+3rd Year,388f41c78c75,explain v model in big data,Explain 5V model in Big Data?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6870
+3rd Year,b08ff6ed5b9c,explain various knowledge acquisition strategies with suitable examples,Explain various knowledge acquisition strategies with suitable examples.,General Computer Science,CSE-3rd-year.pdf,1,5150
+3rd Year,86f73aebe305,explain various methods for problem representation in artificial intelligence,Explain various methods for problem representation in artificial intelligence.,Artificial Intelligence,CSE-3rd-year.pdf,1,5103
+3rd Year,3cf63ff06a13,explain various quality of,Explain various Quality of,CST021_005 |,CSE-3rd-year.pdf,1,2366
+3rd Year,c4aecb72f1ed,explain various steps in natural language processing with suitable diagram and examples,Explain various steps in natural language processing with suitable diagram and examples.,General Computer Science,CSE-3rd-year.pdf,1,5137
+3rd Year,51f824c0a978,explain visibility in detail,Explain visibility in detail.,GRAPHICS,CSE-3rd-year.pdf,1,2004
+3rd Year,99dab6e7eea8,explain what do you mean by opengl api,Explain what do you mean by OpenGL API?,GRAPHICS,CSE-3rd-year.pdf,1,1982
+3rd Year,5188eccd3883,explain with example,Explain with example,General Computer Science,CSE-3rd-year.pdf,1,225
+3rd Year,5188eccd3883,explain with example,Explain with example.,General Computer Science,CSE-3rd-year.pdf,1,384
+3rd Year,5188eccd3883,explain with example,Explain with example.,General Computer Science,CSE-3rd-year.pdf,1,1031
+3rd Year,fb71584c6913,explain with reasons what do you mean by domain name,Explain with reasons. What do you mean by domain name,General Computer Science,CSE-3rd-year.pdf,1,5660
+3rd Year,cfe98e1008b4,explain with the help of diagram the global data flow analysis,Explain with the help of diagram the Global Data-Flow analysis.,General Computer Science,CSE-3rd-year.pdf,1,1591
+3rd Year,1a601ea53897,explain your answer with suitable reasoning qmoti,Explain your answer with suitable reasoning.qmoti,Artificial Intelligence,CSE-3rd-year.pdf,1,5111
+3rd Year,15552438ab0c,f describe the character,f. Describe the character,(4X5=20),CSE-3rd-year.pdf,1,506
+3rd Year,8a1c5ec07edf,f what is ambiguous grammar,f) What is ambiguous grammar?,Compiler Design,CSE-3rd-year.pdf,1,1015
+3rd Year,bcd0cd977e28,f why do we need non parametric tests,f) Why do we need Non-Parametric tests?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6895
+3rd Year,833196916234,find the order of parenthesization for,Find the order of parenthesization for,ANALYSIS OF ALGORITHMS,CSE-3rd-year.pdf,1,3050
+3rd Year,94b74f370d00,find the same in the graph given below,Find the same in the graph given below:,Computer Graphics,CSE-3rd-year.pdf,1,3588
+3rd Year,693328ada68f,for interaction,for  interaction?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6888
+3rd Year,b4639356e761,frame realy,Frame Realy,10X2=20,CSE-3rd-year.pdf,1,942
+3rd Year,7229ddabe893,from ipv to ipv,from IPV6 to IPV4?,Computer Networks,CSE-3rd-year.pdf,1,933
+3rd Year,4d8a2edfba13,from other runtimes available,from other runtimes available?,General Computer Science,CSE-3rd-year.pdf,1,4303
+3rd Year,4783bae17969,give a formula in,Give a formula in,0=4X2,CSE-3rd-year.pdf,1,6279
+3rd Year,6b7107b4fd66,give a single homogenous coordinate transformation matrix which will have same,"Give a single 3*3 homogenous coordinate transformation matrix, which will have same",Computer Graphics,CSE-3rd-year.pdf,1,1836
+3rd Year,5b0350ea694c,give an analysis of worst case running time of quicksort when,Give an analysis of worst case running time of quicksort. When,General Computer Science,CSE-3rd-year.pdf,1,6398
+3rd Year,e0254f0433ba,give an array of elements which is the worst case for,Give an array of 8 elements which is the worst case for,General Computer Science,CSE-3rd-year.pdf,1,6410
+3rd Year,07d2c1783384,give an example for each tovor,Give an example for each tovor,General Computer Science,CSE-3rd-year.pdf,1,5973
+3rd Year,d4180360d9d5,give the syntax directed translation scheme to translate the while control,Give the syntax directed translation scheme to translate the while control,Compiler Design,CSE-3rd-year.pdf,1,1469
+3rd Year,529a4c6b26fb,given a graph g and vertices s and t does g contain,"Given a graph G and vertices s and t, does G contain",Computer Graphics,CSE-3rd-year.pdf,1,6526
+3rd Year,85bf98024248,graphics,graphics?,(4X5=20),CSE-3rd-year.pdf,1,520
+3rd Year,ad2eba147368,habiano,habiano?,General Computer Science,CSE-3rd-year.pdf,1,6176
+3rd Year,e1bf4555cb26,handed system to left handed system,handed system to left handed system?,General Computer Science,CSE-3rd-year.pdf,1,2865
+3rd Year,132b6cecdd65,hdfs operations in detail,HDFS operations in  detail?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6921
+3rd Year,80449f39da87,holding time is msec what is the maximum achieveable efficiency of the ring,holding time is 10 msec. What is the maximum achieveable efficiency of the ring?,10X2=20,CSE-3rd-year.pdf,1,910
+3rd Year,1006ba32aa90,hood,Hood,General Computer Science,CSE-3rd-year.pdf,1,3339
+3rd Year,b57cf465728c,hooned say,hooned say,ΑΠΟ ΠΟ,CSE-3rd-year.pdf,1,6220
+3rd Year,8b88747dc205,how a query is processed and optimized c define data warehousing and its significance in decision making discuss the various components of a data warehouse architecture,how a query is processed and optimized. (10 marks)  c) Define data warehousing and its significance in decision-making. Discuss the various components of  a data warehouse architecture (10 marks),Database Management System,CSE-3rd-year.pdf,1,7033
+3rd Year,0dce66a62ee6,how al handles reasoning under uncertainty,How Al handles reasoning under uncertainty?,Physics,CSE-3rd-year.pdf,1,223
+3rd Year,acfb0f892fc9,how can a sequence of three address,How can a sequence of three-address,DOAG),CSE-3rd-year.pdf,1,5455
+3rd Year,74e9afb1fc3f,how can the,How can the,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3143
+3rd Year,6aacef0f69a9,how can you represent the resolution of predicate oorgeemlogic,(1) How can you represent the resolution of predicate oorgeeMlogic?,Artificial Intelligence,CSE-3rd-year.pdf,1,3351
+3rd Year,0f75f043dbc2,how do,How do,ANALYSIS OF ALGORITHMS,CSE-3rd-year.pdf,1,3061
+3rd Year,15e037ae8d0c,how does ftp work,How does FTP work?,General Computer Science,CSE-3rd-year.pdf,1,2534
+3rd Year,14ccb53d76d9,how does it work,How does it work?,General Computer Science,CSE-3rd-year.pdf,1,5661
+3rd Year,66d17617e8a9,how explain the following in context with interface,How (b) Explain the following in context with interface:,203-30T,CSE-3rd-year.pdf,1,4437
+3rd Year,cb1bfc4a2919,how guided media differ from,How guided media differ from,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3204
+3rd Year,b386e791d988,how is it connected to isophirsm and,How is it connected to 1-isophirsm and 2-,General Computer Science,CSE-3rd-year.pdf,1,3566
+3rd Year,a3f6390c7378,how is segment table created,how is segment table created?,COMPUTER GRAPHICS,CSE-3rd-year.pdf,1,693
+3rd Year,8aebc3fbedca,how is segment useful to draw and redraw a part of image and,How is segment useful to draw and redraw a part of image and,COMPUTER GRAPHICS,CSE-3rd-year.pdf,1,691
+3rd Year,3e3ba6b95e56,how is subnet,How is subnet,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3148
+3rd Year,8a31ed2e1431,how is subnet addressing is performed,How is subnet addressing is performed?,General Computer Science,CSE-3rd-year.pdf,1,2251
+3rd Year,3b535d44158a,how it is classified,How it is classified?,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3148
+3rd Year,3b535d44158a,how it is classified,How it is classified?,General Computer Science,CSE-3rd-year.pdf,1,2251
+3rd Year,aeeeb3e3c3a5,how map reduce jobs run on yarn,how map reduce jobs run on  YARN?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6932
+3rd Year,b9b07c91f200,how s,How S,General Computer Science,CSE-3rd-year.pdf,1,4054
+3rd Year,8a5eb27e2b0c,how tell and ask are used in first order logic,How TELL and ASK are used in first-order-logic?,General Computer Science,CSE-3rd-year.pdf,1,3343
+3rd Year,e53d478287e6,how the grammar is made,How the grammar is made,Compiler Design,CSE-3rd-year.pdf,1,1303
+3rd Year,ed4b436c7545,hypothesis,hypothesis?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6876
+3rd Year,eabef3e44734,identify whether following grammar is,identify whether following grammar is,Compiler Design,CSE-3rd-year.pdf,1,1015
+3rd Year,958f57f57d72,if,If,General Computer Science,CSE-3rd-year.pdf,1,4379
+3rd Year,cd666de6c2ec,if not convert it into nf c,"If not, convert it into 2 NF (10 marks)  c)",Database Management System,CSE-3rd-year.pdf,1,7007
+3rd Year,21500f19a8ad,if so how these conflicts are resolved,If so how these conflicts are resolved?,OM HOR,CSE-3rd-year.pdf,1,5432
+3rd Year,87e13b07c7db,if you want to view an assembly how delay,If you want to view an assembly how delay,General Computer Science,CSE-3rd-year.pdf,1,4329
+3rd Year,2e45f4ee955e,illustrate with a,Illustrate with a,General Computer Science,CSE-3rd-year.pdf,1,4714
+3rd Year,3e7ce50be818,immediately,immediately?,(OS=S-ON),CSE-3rd-year.pdf,1,3922
+3rd Year,db6e9a72a666,implement a sample,Implement a sample,General Computer Science,CSE-3rd-year.pdf,1,4391
+3rd Year,16d4272751c0,in code optimization islava sost aldstiu discuss the loop optimization technique,in code optimization?islava sost aldstiu (b) Discuss the loop optimization technique,General Computer Science,CSE-3rd-year.pdf,1,5265
+3rd Year,a490c9b99ffe,initial red black tree,initial red-black tree?,Data Structures,CSE-3rd-year.pdf,1,6446
+3rd Year,2293dd66907f,inting,inting?,General Computer Science,CSE-3rd-year.pdf,1,4223
+3rd Year,08e59743da37,is it possible to have two main in a c code,(d) Is it possible to have two Main() in a C# code?,General Computer Science,CSE-3rd-year.pdf,1,4379
+3rd Year,c0bfa0cf104c,is n o,Is 22n O(2)?,General Computer Science,CSE-3rd-year.pdf,1,6389
+3rd Year,d08302f8e0c6,is the system in a safe state,(ii) Is the system in a safe state?,(OS-SX0),CSE-3rd-year.pdf,1,3914
+3rd Year,1c66f949006b,isomorphism,isomorphism?,General Computer Science,CSE-3rd-year.pdf,1,3568
+3rd Year,f8b4f2ae5183,isomrphism with an example for each,isomrphism with an example for each.,M03-29T,CSE-3rd-year.pdf,1,6087
+3rd Year,67073ca5d930,justify presentation layer carries,Justify: presentation layer carries,General Computer Science,CSE-3rd-year.pdf,1,5777
+3rd Year,5ae1c8a812f9,justify your,Justify your,BCST-604A,CSE-3rd-year.pdf,1,4772
+3rd Year,5ae1c8a812f9,justify your,Justify your,Compiler Design,CSE-3rd-year.pdf,1,1153
+3rd Year,81ce0b28dc0d,justify your answer,Justify your answer.,10X2=20,CSE-3rd-year.pdf,1,933
+3rd Year,16276e4f79e4,knapsack problem,knapsack problem?,General Computer Science,CSE-3rd-year.pdf,1,7567
+3rd Year,cce245fbd902,knowledge,knowledge?,General Computer Science,CSE-3rd-year.pdf,1,420
+3rd Year,6ed91b8a65d0,knowledge based agents and what are their advantages and limitations,"knowledge-based agents, and what are their advantages and limitations?",Artificial Intelligence,CSE-3rd-year.pdf,1,43
+3rd Year,f2581530065d,knowledge representation,knowledge  representation?,Artificial Intelligence,CSE-3rd-year.pdf,1,35
+3rd Year,5e245bf761d3,list active edge list etc,"list, active edge list etc.?",COMPUTER GRAPHICS,CSE-3rd-year.pdf,1,650
+3rd Year,12c1eed20ac6,list all the applications of fuzzy logic,List all the applications of fuzzy logic.,Soft Computing,CSE-3rd-year.pdf,1,394
+3rd Year,a05d1512d08e,list four steps needed to run a program on a completely dedicated machine,List four steps needed to run a program on a completely dedicated machine.,Operating Systems,CSE-3rd-year.pdf,1,6198
+3rd Year,153308509fc3,list some applications appropriate for each of the display technologies,List some applications appropriate for each of the display technologies.,General Computer Science,CSE-3rd-year.pdf,1,2828
+3rd Year,85176f4df7a0,list the different input and output components that are typically used with virtual reality systems also explain how users interact with a virtual scene displayed with different output devices,List the different input and output components that are typically used with virtual reality systems. Also explain how users interact with a virtual scene displayed with different output devices.,General Computer Science,CSE-3rd-year.pdf,1,2832
+3rd Year,4932676b3342,list the operating characteristics for the following display technologies raster refresh system vector refresh system plasma panel and lcd how much time is spent scanning across each row of pixels during screen refresh on a raster system with a resolution of by and a refresh rate of frames per second,"List the operating characteristics for the following display technologies: raster refresh system, vector refresh system, plasma panel and LCD. How much time is spent scanning across each row of pixels during screen refresh on a raster system with a resolution of 1280 by 1024 and a refresh rate of 60 frames per second?",Artificial Intelligence,CSE-3rd-year.pdf,1,2813
+3rd Year,14dcfd7df2ff,list the properties of animating interactive programs,List the properties of Animating Interactive Programs?,General Computer Science,CSE-3rd-year.pdf,1,814
+3rd Year,9e338e73f4b1,matching how it is related to bipartite graph,matching. How it is related to bipartite graph?,Computer Graphics,CSE-3rd-year.pdf,1,3527
+3rd Year,22b79dfd4d56,mention the criteria for achieving machine independent,Mention the criteria for achieving machine independent,BCST-602,CSE-3rd-year.pdf,1,4545
+3rd Year,deef9b38c757,mention the objectives,Mention the objectives,General Computer Science,CSE-3rd-year.pdf,1,3692
+3rd Year,b0f07182404c,modes in pig,modes in PIG?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6931
+3rd Year,cd8fa10d9db7,modes in which they work,modes in which they work?,General Computer Science,CSE-3rd-year.pdf,1,2083
+3rd Year,d1854cae891e,n,1 0 7 8-N,E-1 0 7 8-N,CSE-3rd-year.pdf,1,5298
+3rd Year,5a5c66d7b62a,need for sequence numbers,need for sequence numbers?,General Computer Science,CSE-3rd-year.pdf,1,2257
+3rd Year,72770f03078d,notxixitq qool or ausai what is basic block,notxixitq qool or ausai (d) What is basic block?,DOAG),CSE-3rd-year.pdf,1,5455
+3rd Year,7a81af3e591a,o,O(2n)?,General Computer Science,CSE-3rd-year.pdf,1,6389
+3rd Year,3d807cf5f355,of a frame buffer using the binary arithmetic operations,of a frame buffer using the binary arithmetic operations?,General Computer Science,CSE-3rd-year.pdf,1,2914
+3rd Year,72ce1e1c7a7f,of assembly,of assembly?,General Computer Science,CSE-3rd-year.pdf,1,4329
+3rd Year,cbcb0a0e947e,of network architecture,of network architecture?,Computer Networks,CSE-3rd-year.pdf,1,2316
+3rd Year,1397ee74ecbb,of the packet is corrupted what happens to the packet,of the packet is  corrupted. What happens to the packet?,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3143
+3rd Year,cb5f781d0baa,on one processor how many different schedules mare possible,"on one processor, how many different schedules mare possible?",0=4X2,CSE-3rd-year.pdf,1,6279
+3rd Year,e6b02ea05414,orgnuging,orgnuging,10X 2,CSE-3rd-year.pdf,1,456
+3rd Year,4e6a0ad87a65,osi,OSI?,OSI?,CSE-3rd-year.pdf,1,867
+3rd Year,ef366d1b5798,out the job of transition what are the various security threats,out the job of transition. What are the various security threats?,General Computer Science,CSE-3rd-year.pdf,1,5778
+3rd Year,516b9783fca5,p,P,General Computer Science,CSE-3rd-year.pdf,1,6176
+3rd Year,daa93cfff1f4,parameter for the algorithm,parameter for the algorithm ?,COMPUTER GRAPHICS,CSE-3rd-year.pdf,1,665
+3rd Year,862e818c3eba,particular file,particular file?,General Computer Science,CSE-3rd-year.pdf,1,6337
+3rd Year,953b88970306,physical organization of nodes,physical organization of nodes?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6933
+3rd Year,b403bd8c4903,planning and how does it differ from classical state space planning,"planning, and how does it differ from classical state space planning?",Artificial Intelligence,CSE-3rd-year.pdf,1,66
+3rd Year,93372c2da389,possible disadvantage of using layered protocols,possible  disadvantage of using layered protocols?,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3139
+3rd Year,a72f630f36d2,powers of,powers of 2?,General Computer Science,CSE-3rd-year.pdf,1,6295
+3rd Year,24d69dd6f3ab,prevention of deadlock,prevention of deadlock?,Distributed Systems,CSE-3rd-year.pdf,1,3812
+3rd Year,a5a0d15d4ae8,problem,problem?,General Computer Science,CSE-3rd-year.pdf,1,7624
+3rd Year,c854b1a23f9f,problem is np complete,problem is NP-Complete?,General Computer Science,CSE-3rd-year.pdf,1,6526
+3rd Year,f08e978ac76d,problems for full implementation of voice over ip,problems for full implementation of voice over IP?,Computer Networks,CSE-3rd-year.pdf,1,2535
+3rd Year,3ecbedd0d6a1,processes of kb kb kb and kb,"processes of 212 KB, 417 KB, 112 KB, and 426 KB (in order)?",General Computer Science,CSE-3rd-year.pdf,1,3852
+3rd Year,6dd8429cc900,processing,processing?,General Computer Science,CSE-3rd-year.pdf,1,372
+3rd Year,f05977cc41b6,processor how yacc can be used to generate a parser,processor. How YACC can be used to generate a parser?,Compiler Design,CSE-3rd-year.pdf,1,5372
+3rd Year,462a880588b6,programming solution to a problem,programming solution to a problem?,General Computer Science,CSE-3rd-year.pdf,1,6456
+3rd Year,bf4b0d4c4e6a,prove that a red black tree with n internal nodes has height almost log,Prove that a red-black tree with n internal nodes has height almost 2log (n+1)?,Data Structures,CSE-3rd-year.pdf,1,7545
+3rd Year,de2472c10072,provide a suitable,Provide a suitable,Artificial Intelligence,CSE-3rd-year.pdf,1,55
+3rd Year,1e01d215bc09,rate,rate?,NETWORKS,CSE-3rd-year.pdf,1,2437
+3rd Year,dd730dfac570,reference take,reference take?,General Computer Science,CSE-3rd-year.pdf,1,6307
+3rd Year,b6b571acd11a,regard to process aslubomanagement m wod,regard to process aslubomanagement ?m wod,Operating Systems,CSE-3rd-year.pdf,1,6213
+3rd Year,4432d55c405e,repeat arq over go back n arq protocol,Repeat ARQ over Go Back-N ARQ protocol?,ST021_005 | 103.170.7,CSE-3rd-year.pdf,1,2338
+3rd Year,623e76c36aa2,require,require?,GRAPHICS,CSE-3rd-year.pdf,1,1966
+3rd Year,acaf32254355,rotation,Rotation,General Computer Science,CSE-3rd-year.pdf,1,2042
+3rd Year,622d87b4493c,sbermo what is the content of the matrix need,Sbermo (i) What is the content of the matrix Need?,(OS-SX0),CSE-3rd-year.pdf,1,3912
+3rd Year,c7711334ec43,scaling,scaling,General Computer Science,CSE-3rd-year.pdf,1,2044
+3rd Year,9a9e56edb7dc,scheme,scheme?,General Computer Science,CSE-3rd-year.pdf,1,6296
+3rd Year,9f4bfc58c3f6,search technique,search technique?,General Computer Science,CSE-3rd-year.pdf,1,3313
+3rd Year,f9109a70ae70,secondary storage management,secondary-storage management ?,ΑΠΟ ΠΟ,CSE-3rd-year.pdf,1,6220
+3rd Year,292dea2572a6,segment such a system what would be its advantages and disadvantages,segment such a system. What would be its advantages and disadvantages?,General Computer Science,CSE-3rd-year.pdf,1,780
+3rd Year,83f8c9a33f31,separable graph,separable graph?,Computer Graphics,CSE-3rd-year.pdf,1,3584
+3rd Year,0c5fe90169d9,shearing,shearing,General Computer Science,CSE-3rd-year.pdf,1,2046
+3rd Year,47e5593a16c8,shell in unix,shell in Unix?,Operating Systems,CSE-3rd-year.pdf,1,4169
+3rd Year,f67eb31a86bd,show that the next fit algorithm for bp achieves an asymptotic ratio of show that ff nf,Show that the Next-Fit algorithm for BP (BIN-PACKING) achieves an asymptotic ratio of 2. Show that FF(I) ≤NF(I).,General Computer Science,CSE-3rd-year.pdf,1,6538
+3rd Year,daba95913211,show the use,Show the use,203-30T,CSE-3rd-year.pdf,1,4417
+3rd Year,3e4c73d6e3e3,show with examples timila,Show with examples. timila,DOAG),CSE-3rd-year.pdf,1,5456
+3rd Year,db1453a05708,slotted aloha,Slotted ALOHA,TOTE 2. ISDN,CSE-3rd-year.pdf,1,948
+3rd Year,f4a55a196594,so how is it resolved,"so, how is it resolved?",General Computer Science,CSE-3rd-year.pdf,1,4383
+3rd Year,cde8d96ef5d4,solve the following instance of the single source shortest paths problem with vertex v as the source,"Solve the following instance of the single-source shortest paths problem with vertex ""v3"" as the source.",General Computer Science,CSE-3rd-year.pdf,1,6476
+3rd Year,0c4b5cdd0940,source computer be informed of the situation,source computer be informed  of the situation?,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3144
+3rd Year,399a58d1041a,sourcing involved in analytics,sourcing involved in analytics?,DATA ANALYTICS,CSE-3rd-year.pdf,1,6885
+3rd Year,dd1511711f93,spanning tree,Spanning tree?,Data Structures,CSE-3rd-year.pdf,1,3588
+3rd Year,48939eb7de81,starve cpu bound betudniaid programs,starve CPU-bound betudniaid programs?,0=4X2,CSE-3rd-year.pdf,1,6272
+3rd Year,8357cbe3ff90,state and explain the weileratherton polygon clipping algorithm with proper diagram,State and explain the weileratherton polygon clipping algorithm with proper diagram.,Computer Graphics,CSE-3rd-year.pdf,1,1797
+3rd Year,3cadc4703953,state and prove the following d transformations matrix,state and prove the following 2d transformations matrix,General Computer Science,CSE-3rd-year.pdf,1,2038
+3rd Year,77fbfed27aa6,state if backtracking always produces optimal solution describe how to implement a queue using two stacks and o additional memory so that the amortized time for any,"State if backtracking always produces optimal solution. Describe how to implement a queue using two stacks and O(1) additional memory, so that the amortized time for any",Data Structures,CSE-3rd-year.pdf,1,6464
+3rd Year,2c2acc09e9ff,state sutherland hodgeman polygon clipping algorithm and also mention its advantages and state the differences between concave amp convex polygon,State Sutherland-hodgeman polygon clipping algorithm and also mention its advantages and state the differences between concave &amp; convex polygon.,Computer Graphics,CSE-3rd-year.pdf,1,1868
+3rd Year,1113fac36108,state the baye s theorem explain bayesian network in detail,State the Baye's theorem. Explain Bayesian Network in detail.,Computer Networks,CSE-3rd-year.pdf,1,227
+3rd Year,db749924c943,state the various design issues for the data link layer sketch the manchester and differential manchester encoding for the bit stream,State the various design issues for the data link layer. Sketch the Manchester and differential Manchester encoding for the bit stream 0001110101,General Computer Science,CSE-3rd-year.pdf,1,5734
+3rd Year,a63e05762dd6,statements be transformed into a list a list of blocks,statements be transformed into a list a list of blocks?,DOAG),CSE-3rd-year.pdf,1,5456
+3rd Year,3d493d194618,store bits pixel,store 12 bits/pixel?,(4X5=20),CSE-3rd-year.pdf,1,517
+3rd Year,10c6780a5460,strings what is knapsack problem,strings. What is 0/1 knapsack problem?,General Computer Science,CSE-3rd-year.pdf,1,7566
+3rd Year,41b426fb69c8,structures,Structures?,DESIGN & ANALYSIS OF ALGORITHM,CSE-3rd-year.pdf,1,6645
+3rd Year,3b07acc26e2c,substructure property in a dynamic programming problem,"substructure property"""" in a dynamic programming problem?",General Computer Science,CSE-3rd-year.pdf,1,6457
+3rd Year,9379b009148c,summarize function of preprocessor,(c) Summarize function of preprocessor?,BCST-602,CSE-3rd-year.pdf,1,4514
+3rd Year,7085f4b5a4d6,suppose we need a dataword of at least bits,Suppose we need a dataword of at least 7 bits.,ST021_005 | 103.170.7,CSE-3rd-year.pdf,1,2331
+3rd Year,317f1e761f2f,system,System?,General Computer Science,CSE-3rd-year.pdf,1,3708
+3rd Year,317f1e761f2f,system,system?,General Computer Science,CSE-3rd-year.pdf,1,5661
+3rd Year,8efd86fb78a5,t,30T,203-30T,CSE-3rd-year.pdf,1,4413
+3rd Year,534e8c894772,t o,T.O,General Computer Science,CSE-3rd-year.pdf,1,7582
+3rd Year,c3ee137d4f22,table,table?,General Computer Science,CSE-3rd-year.pdf,1,1025
+3rd Year,0200d6bad125,take a graph and draw its,Take a graph and draw its,Computer Graphics,CSE-3rd-year.pdf,1,3620
+3rd Year,9d1048b01b56,tasmsigmi jton vw,tasmsigmi 120jton vW,General Computer Science,CSE-3rd-year.pdf,1,6296
+3rd Year,c95ee47689a0,tech,TECH (CSE) (SEMESTER-V),B.TECH (CSE) (SEMESTER-V),CSE-3rd-year.pdf,1,2101
+3rd Year,c95ee47689a0,tech,TECH. (SEMESTER-V),B.TECH. (SEMESTER-V),CSE-3rd-year.pdf,1,6573
+3rd Year,c95ee47689a0,tech,TECH. (SEMESTER-VI),B.TECH. (SEMESTER-VI),CSE-3rd-year.pdf,1,1234
+3rd Year,c95ee47689a0,tech,Tech,NOTE:,CSE-3rd-year.pdf,1,328
+3rd Year,c95ee47689a0,tech,Tech (SEM.VI),TCS 604,CSE-3rd-year.pdf,1,3508
+3rd Year,c95ee47689a0,tech,Tech.,TCS 603,CSE-3rd-year.pdf,1,486
+3rd Year,c95ee47689a0,tech,Tech.,General Computer Science,CSE-3rd-year.pdf,1,2789
+3rd Year,c95ee47689a0,tech,Tech.,General Computer Science,CSE-3rd-year.pdf,1,848
+3rd Year,c95ee47689a0,tech,Tech.,General Computer Science,CSE-3rd-year.pdf,1,5642
+3rd Year,c95ee47689a0,tech,Tech.,General Computer Science,CSE-3rd-year.pdf,1,6371
+3rd Year,c95ee47689a0,tech,Tech.,General Computer Science,CSE-3rd-year.pdf,1,5067
+3rd Year,c95ee47689a0,tech,Tech. (CS) (6TH Semester),General Computer Science,CSE-3rd-year.pdf,1,4276
+3rd Year,c95ee47689a0,tech,Tech. (CS) (6TH Semester),General Computer Science,CSE-3rd-year.pdf,1,3672
+3rd Year,c95ee47689a0,tech,Tech. (Computer Science Engg.) (SEMESTER-VI),General Computer Science,CSE-3rd-year.pdf,1,1511
+3rd Year,c95ee47689a0,tech,Tech. (SEMESTER-VI),Artificial Intelligence,CSE-3rd-year.pdf,1,81
+3rd Year,835e293d6a56,tech sed,TECH. (SEMESTER-V) sed,General Computer Science,CSE-3rd-year.pdf,1,624
+3rd Year,161951980579,tech th semester cse,Tech. 4th Semester CSE,General Computer Science,CSE-3rd-year.pdf,1,3966
+3rd Year,825347985204,telephone network very soon,telephone network very soon?,Computer Networks,CSE-3rd-year.pdf,1,2536
+3rd Year,b3d23398142a,the difference between http and https protocol,the difference between http and https protocol?,Computer Networks,CSE-3rd-year.pdf,1,2526
+3rd Year,9720dd72d878,the effective memory reference time,the effective memory reference time?,General Computer Science,CSE-3rd-year.pdf,1,6310
+3rd Year,93d264da4b0e,the various clipping parameters in d clipping,the various clipping parameters in 3D clipping?,Computer Graphics,CSE-3rd-year.pdf,1,736
+3rd Year,1014c14dc602,time complexity of your algorithm,time complexity of your algorithm?,General Computer Science,CSE-3rd-year.pdf,1,7482
+3rd Year,12d5ce0ff77c,tomit,0 TomiT,General Computer Science,CSE-3rd-year.pdf,1,3742
+3rd Year,cf68b44af7a7,transmission impairment,transmission impairment?,General Computer Science,CSE-3rd-year.pdf,1,2234
+3rd Year,36f343d2194d,tree for this string what language does this grammar generate,tree for this string.  What language does this grammar generate?,Compiler Design,CSE-3rd-year.pdf,1,1153
+3rd Year,706d704f3668,unguided media,unguided media?,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3205
+3rd Year,b3ec2aeb25e3,unhandled exceptions,unhandled exceptions?,General Computer Science,CSE-3rd-year.pdf,1,4407
+3rd Year,2a1e2f47b171,use the network architecture knowledge to compare,Use the network architecture knowledge to compare,Computer Networks,CSE-3rd-year.pdf,1,2320
+3rd Year,691a77cd21a3,vs,vs,Operating Systems,CSE-3rd-year.pdf,1,6201
+3rd Year,a110e6b9a361,what,What,General Computer Science,CSE-3rd-year.pdf,1,4028
+3rd Year,83a8677e40d9,what are approximation algorithms,(a) What are approximation algorithms?,General Computer Science,CSE-3rd-year.pdf,1,6715
+3rd Year,165b1a0162ee,what are different types of jit,(b) What are different types of JIT?,General Computer Science,CSE-3rd-year.pdf,1,4307
+3rd Year,fdf4a8cc5a01,what are problems with the crt as a computer display,What are problems with the CRT as a computer display?,(4X5=20),CSE-3rd-year.pdf,1,506
+3rd Year,eba804536baf,what are reasons for using layered protocols,What are reasons for using layered protocols?,NETWORKS,CSE-3rd-year.pdf,1,2430
+3rd Year,34e7f51ca67d,what are s attributed and l attributed definition,(e) What are S-attributed and L-attributed definition?,BCST-602,CSE-3rd-year.pdf,1,4535
+3rd Year,52d2b29377dc,what are shared assemblies,(a) What are Shared Assemblies?,203-30T,CSE-3rd-year.pdf,1,4455
+3rd Year,84d73b6eeae6,what are the advantages and disadvantage of transport laver,What are the advantages and disadvantage of transport laver?,Computer Networks,CSE-3rd-year.pdf,1,2129
+3rd Year,dda99d1e0189,what are the advantages and disadvantages of recording the name of the creating program with the file s attributes,What are the advantages and disadvantages of recording the name of the creating program with the file's attributes.,General Computer Science,CSE-3rd-year.pdf,1,6332
+3rd Year,148f92ea583c,what are the benefits and the detriments of each of the following,(b) What are the benefits and the detriments of each of the following?,General Computer Science,CSE-3rd-year.pdf,1,6248
+3rd Year,8cff945696fd,what are the differences and similarities between problem solving and planning,What are the differences and similarities between problem solving and planning?,General Computer Science,CSE-3rd-year.pdf,1,380
+3rd Year,8f0695e217f8,what are the different types,What are the different types,General Computer Science,CSE-3rd-year.pdf,1,4325
+3rd Year,0a19a9a77878,what are the different types of transmission technology,What are the different types of transmission technology?,General Computer Science,CSE-3rd-year.pdf,1,5692
+3rd Year,d3009b74269c,what are the limitations of propositional logic,What are the limitations of Propositional Logic?,Discrete Structures,CSE-3rd-year.pdf,1,149
+3rd Year,e506b1d8a4a7,what are the network design issues involved in designing a typical network and what are the supporting design tools available to make the design as a good design explain how these design tools help to address design issues,What are the network design issues involved in designing a typical network and what are the supporting design tools available to make the design as a good design. Explain how these design tools help to address design issues.,Computer Networks,CSE-3rd-year.pdf,1,5751
+3rd Year,7ee435cad347,what are the responsibilities of session layer,(a) What are the responsibilities of session layer?,General Computer Science,CSE-3rd-year.pdf,1,858
+3rd Year,adaae45ab715,what are the values of snr and snrdb,What are the  values of SNR and SNRdB.,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3181
+3rd Year,fb04dda6449b,what are the various design issues for the layers,(c) What are the various design issues for the layers?,5X4-20,CSE-3rd-year.pdf,1,884
+3rd Year,eaea130b2259,what are the various logical graphics input primitives,What are the various logical graphics input primitives?,General Computer Science,CSE-3rd-year.pdf,1,2081
+3rd Year,309b9f02af6a,what are the various stages in big data analytics life cycle,(b) What are the various stages in big data analytics life cycle?,General Computer Science,CSE-3rd-year.pdf,1,4714
+3rd Year,fa70e39de1a6,what are types of enumeration,What are types of enumeration?,General Computer Science,CSE-3rd-year.pdf,1,5974
+3rd Year,599dfffc82da,what are various back face detection algorithm,What are various back face detection algorithm?,General Computer Science,CSE-3rd-year.pdf,1,2054
+3rd Year,ec1c3983410e,what do we understand by the optimal,"(B) What do we understand by the ""optimal",General Computer Science,CSE-3rd-year.pdf,1,6456
+3rd Year,22302f5797ca,what do you mean by application layer,What do you mean by application layer?,General Computer Science,CSE-3rd-year.pdf,1,5659
+3rd Year,68056acd9de4,what do you mean by congestion control and qos,What do you mean by congestion control and QoS?,General Computer Science,CSE-3rd-year.pdf,1,5777
+3rd Year,688b9de5dd8c,what do you mean by encapsulation,(b) What do you mean by Encapsulation?,203-30T,CSE-3rd-year.pdf,1,4417
+3rd Year,2411b241e071,what do you mean by looping unrolling,What do you mean by Looping unrolling?,General Computer Science,CSE-3rd-year.pdf,1,1583
+3rd Year,88fea92b8d6c,what do you mean by reflection and shearing explain with diagram and matrix form,"What do you mean by reflection and shearing, explain with diagram and matrix form.",General Computer Science,CSE-3rd-year.pdf,1,1773
+3rd Year,5fa82abcf33a,what do you mean by transmission impairment,What do you mean by transmission impairment?,General Computer Science,CSE-3rd-year.pdf,1,2232
+3rd Year,c853e31434f3,what do you understand by ambiguity in grammar,What do you understand by ambiguity in grammar?,Compiler Design,CSE-3rd-year.pdf,1,1303
+3rd Year,8df422c18dcf,what do you understand by incidence matrix,(b) What do you understand by incidence matrix?,General Computer Science,CSE-3rd-year.pdf,1,3620
+3rd Year,f245d3be163b,what do you understand by lexical phase error and syntactic phase error,(b) What do you understand by Lexical phase error and syntactic phase error?,Compiler Design,CSE-3rd-year.pdf,1,5585
+3rd Year,4f3ff4c9472f,what do you understand by sliding window protocol and data link protocols,What do you understand by Sliding Window protocol and Data Link Protocols?,Computer Networks,CSE-3rd-year.pdf,1,2242
+3rd Year,1a2fe145f4b7,what happens when we use the goemans williamson algorithm for max cut on a triangle square pentagon specifically what can be inferred on the algorithm s ratio and on the integrality ratio of the relaxation,"What happens when we use the Goemans-Williamson algorithm for MAX-CUT on a triangle? Square? Pentagon? Specifically, what can be inferred on the algorithm's ratio and on the integrality ratio of the relaxation?",General Computer Science,CSE-3rd-year.pdf,1,6534
+3rd Year,f8359e59868f,what is,What is,General Computer Science,CSE-3rd-year.pdf,1,2525
+3rd Year,00600d43d4f0,what is a algorithm search method,(A) What is A* algorithm search method?,General Computer Science,CSE-3rd-year.pdf,1,388
+3rd Year,0415138c1c4e,what is a b tree,What is a B-Tree?,Data Structures,CSE-3rd-year.pdf,1,7554
+3rd Year,100e05f351e3,what is a graph,(a) What is a Graph?,Computer Graphics,CSE-3rd-year.pdf,1,3535
+3rd Year,86cb8f0c95eb,what is a segment and segment table,What is a segment and segment table?,GRAPHICS,CSE-3rd-year.pdf,1,2000
+3rd Year,83272f4acb28,what is a spanning tree and a minimum spanni tree,What is a spanning tree and a minimum spanni tree?,Data Structures,CSE-3rd-year.pdf,1,5973
+3rd Year,fede4b97ae1e,what is a turing machine,What is a Turing machine?,Artificial Intelligence,CSE-3rd-year.pdf,1,5095
+3rd Year,81d8a8eb1117,what is al,What is Al?,Artificial Intelligence,CSE-3rd-year.pdf,1,110
+3rd Year,f902e3da58e7,what is an assembly,(d) What is an Assembly?,General Computer Science,CSE-3rd-year.pdf,1,4325
+3rd Year,27b5c4b643e1,what is an indexer in c,(f) What is an Indexer in C#?,General Computer Science,CSE-3rd-year.pdf,1,4391
+3rd Year,ea7509c65965,what is ant colony system,(C) What is Ant-Colony System?,10X 2,CSE-3rd-year.pdf,1,457
+3rd Year,f139f22f3884,what is artificial intelligence,What is Artificial Intelligence?,Artificial Intelligence,CSE-3rd-year.pdf,1,384
+3rd Year,a6fe4194722f,what is b and b tree,What is B and B+ tree?,Data Structures,CSE-3rd-year.pdf,1,6589
+3rd Year,22a9183b10a7,what is cluster,(a) What is Cluster?,General Computer Science,CSE-3rd-year.pdf,1,4701
+3rd Year,a21c967a480d,what is code optimization,(b) What is Code Optimization?,BCST-602,CSE-3rd-year.pdf,1,4545
+3rd Year,f801c8c5ed65,what is context switching,(c) What is Context switching?,General Computer Science,CSE-3rd-year.pdf,1,3740
+3rd Year,18ebc56c2ac7,what is cryptography,What is cryptography?,Cryptography and Network Security,CSE-3rd-year.pdf,1,2509
+3rd Year,51cf23d867e3,what is dll hell problem,(b) What is DLL Hell problem?,203-30T,CSE-3rd-year.pdf,1,4459
+3rd Year,de6af60c3e71,what is expert system,(a) What is expert system?,Artificial Intelligence,CSE-3rd-year.pdf,1,5203
+3rd Year,2d29b238190e,what is expert system and characteristics of expert system with example,(B) What is expert system and characteristics of expert system with example?,Artificial Intelligence,CSE-3rd-year.pdf,1,456
+3rd Year,6ba3d40b19c5,what is fuzzy logic,What is fuzzy logic?,Soft Computing,CSE-3rd-year.pdf,1,394
+3rd Year,4053d9947b3e,what is global data flow analysis,(a) What is global data flow analysis?,General Computer Science,CSE-3rd-year.pdf,1,5259
+3rd Year,9a50f906771b,what is ieee standards used for lan and wireless explain,What is IEEE standards used for lan and wireless explain?,General Computer Science,CSE-3rd-year.pdf,1,2458
+3rd Year,4444e2381bda,what is interface,(c) What is Interface?,203-30T,CSE-3rd-year.pdf,1,4445
+3rd Year,59ef094cae27,what is ip addressing,(b) What is IP Addressing?,Computer Networks,CSE-3rd-year.pdf,1,2251
+3rd Year,e16273aaeabe,what is isdn,What is ISDN?,NETWORKS,CSE-3rd-year.pdf,1,2432
+3rd Year,df351e6f414f,what is isomorphism,(a) What is isomorphism?,General Computer Science,CSE-3rd-year.pdf,1,3566
+3rd Year,fe18600401b8,what is its use,What is its use,General Computer Science,CSE-3rd-year.pdf,1,5259
+3rd Year,2aef3e0d2256,what is lex and yacc what is the format of lex input file,What is LEX and YACC. What is the format of LEX input file.,General Computer Science,CSE-3rd-year.pdf,1,1262
+3rd Year,4681151e3ae9,what is lexical analysis discuss the design of a lexical analyzer generator,(d) What is lexical analysis discuss the design of a lexical analyzer generator?,Compiler Design,CSE-3rd-year.pdf,1,4518
+3rd Year,05c26bfdefdb,what is meant by syntax tree,(c) What is meant by syntax tree?,Data Structures,CSE-3rd-year.pdf,1,4530
+3rd Year,7bcfc35d2e21,what is minimum spanning tree,What is minimum spanning tree?,Data Structures,CSE-3rd-year.pdf,1,6601
+3rd Year,35ff056923dd,what is multipurpose internet mail extension and for what it is used,What is multipurpose Internet Mail Extension (MIME) and for what it is used?,General Computer Science,CSE-3rd-year.pdf,1,2544
+3rd Year,cd3c3f112791,what is multitasking and real time operating,What is Multitasking and real time Operating,General Computer Science,CSE-3rd-year.pdf,1,3706
+3rd Year,14db5099ebcb,what is non monotonic reasoning,What is non-monotonic reasoning?,General Computer Science,CSE-3rd-year.pdf,1,223
+3rd Year,e68d183cce29,what is one,What is one,COMPUTER NETWORKS,CSE-3rd-year.pdf,1,3138
+3rd Year,69ff8fa87e68,what is operating system,(a) What is operating system?,Operating Systems,CSE-3rd-year.pdf,1,3692
+3rd Year,f152a650f065,what is piggybacking,(ii) What is piggybacking?,ST021_005 | 103.170.7,CSE-3rd-year.pdf,1,2331
+3rd Year,b8ec24f95f74,what is point to point protocol,What is point-to-point protocol?,General Computer Science,CSE-3rd-year.pdf,1,2244
+3rd Year,ca7ba79388ff,what is seek time and rotational latency,(a) What is seek time and rotational latency?,General Computer Science,CSE-3rd-year.pdf,1,3824
+3rd Year,6d5cfe42f352,what is segment,What is segment?,COMPUTER GRAPHICS,CSE-3rd-year.pdf,1,691
+3rd Year,5fa245236650,what is separable graph,(a) What is Separable Graph?,Computer Graphics,CSE-3rd-year.pdf,1,3582
+3rd Year,eeedec1f0bdc,what is silly window syndrome in tcp flow control,What is silly window syndrome in TCP flow control?,Computer Networks,CSE-3rd-year.pdf,1,2514
+3rd Year,93040cb7fa2b,what is string matching algorithm,What is string matching algorithm?,General Computer Science,CSE-3rd-year.pdf,1,7620
+3rd Year,63d26c20f22a,what is symbol table,What is Symbol Table?,General Computer Science,CSE-3rd-year.pdf,1,1436
+3rd Year,63d26c20f22a,what is symbol table,What is symbol table?,OLI OTOD OS => [,CSE-3rd-year.pdf,1,5590
+3rd Year,5e1f380719a5,what is the common way to represent and parse grammars for natural language,What is the common way to represent and parse Grammars for natural language,General Computer Science,CSE-3rd-year.pdf,1,370
+3rd Year,b1edfa57ca4b,what is the computer network,What is the computer Network?,Computer Networks,CSE-3rd-year.pdf,1,2111
+3rd Year,23c531ac2a40,what is the concept of boxing and unboxing,(a) What is the concept of boxing and unboxing?,General Computer Science,CSE-3rd-year.pdf,1,4359
+3rd Year,05b42191797a,what is the difference between strong artificial and week artificial intelligence,What is the difference between strong artificial and week artificial intelligence.,Artificial Intelligence,CSE-3rd-year.pdf,1,360
+3rd Year,b780ffb200d4,what is the importance of connectivity in,What is the importance of Connectivity in,General Computer Science,CSE-3rd-year.pdf,1,3582
+3rd Year,9f157dd1d29f,what is the importance of travelling salesman problem in graph theory,(a) What is the importance of Travelling Salesman Problem in Graph Theory?,Computer Graphics,CSE-3rd-year.pdf,1,3618
+3rd Year,e8162d8ebacf,what is the maximum and minimum size of a udp datagram,What is the maximum and minimum size of a UDP datagram?,General Computer Science,CSE-3rd-year.pdf,1,2501
+3rd Year,f3383ea9b729,what is the network structure and architecture,What is the Network structure and architecture?,Computer Networks,CSE-3rd-year.pdf,1,2111
+3rd Year,072c25f1f73a,what is the osi reference model,What is the OSI reference model?,Computer Networks,CSE-3rd-year.pdf,1,2113
+3rd Year,3b828ad7debb,what is the reason for its inefficiency and how is it,What is the reason for its inefficiency and how is it,General Computer Science,CSE-3rd-year.pdf,1,2257
+3rd Year,5cfec68b21d7,what is the role of kernal and shell in unix,What is the role of kernal and shell in Unix?,Operating Systems,CSE-3rd-year.pdf,1,4004
+3rd Year,d9ffa0837fc2,what is the role of lexical analyzer expain the process of constructing the nfa from regular expression,What is the role of lexical analyzer. Expain the process of constructing the NFA from regular expression.,Compiler Design,CSE-3rd-year.pdf,1,1268
+3rd Year,713ed7a45817,what is the significance of scatter plot matrix,(d) What is the significance of scatter plot matrix?,BCST-603,CSE-3rd-year.pdf,1,4664
+3rd Year,24f6c5978f88,what is the swarm intelligent system,(b) What is the swarm intelligent system?,General Computer Science,CSE-3rd-year.pdf,1,291
+3rd Year,da6b091932a8,what is the various input,What is the various input,General Computer Science,CSE-3rd-year.pdf,1,2081
+3rd Year,722c6c77f4c1,what is thrashing,(b) What is thrashing?,Operating Systems,CSE-3rd-year.pdf,1,3828
+3rd Year,ce98688885a7,what is topological sorting,What is Topological sorting?,Data Structures,CSE-3rd-year.pdf,1,6770
+3rd Year,d16b0d0e10f2,what is translator,What is Translator?,General Computer Science,CSE-3rd-year.pdf,1,1668
+3rd Year,5f3f4251f782,what is udp,What is UDP?,General Computer Science,CSE-3rd-year.pdf,1,2501
+3rd Year,b0640ad3f241,what language is generated by the following grammar,What language is generated by the following grammar?,Compiler Design,CSE-3rd-year.pdf,1,1345
+3rd Year,e9c5c91535ae,what steps are required to generate a circle using the polynomial method,What steps are required to generate a circle using the polynomial method,",C(60,40), D(20,40).",CSE-3rd-year.pdf,1,1818
+3rd Year,69db37a421d1,what steps are required to scan convert a circle using bresenham s algorithm,What steps are required to scan convert a circle using Bresenham's algorithm.,General Computer Science,CSE-3rd-year.pdf,1,1781
+3rd Year,619f0c8997ec,what would you gain and what would you lose by using this policy rather than lru,What would you gain and what would you lose by using this policy rather than LRU.,General Computer Science,CSE-3rd-year.pdf,1,6316
+3rd Year,c0e317a5e5ae,when and how dynamic programming approach is applicable,When and how dynamic programming approach is applicable?,General Computer Science,CSE-3rd-year.pdf,1,7579
+3rd Year,ef775618c5f6,when does it occur,When does it occur?,General Computer Science,CSE-3rd-year.pdf,1,3828
+3rd Year,fab9df75fe66,when web pages are sent out they are prefixed,"When web pages are sent out, they are prefixed",Web Technology,CSE-3rd-year.pdf,1,5659
+3rd Year,6cf970be9e7d,which algorithm makes the most efficient use of memory,Which algorithm makes the most efficient use of memory?,General Computer Science,CSE-3rd-year.pdf,1,3854
+3rd Year,7f55485d746f,why are multiple passes required in a compiler describe strategies for reducing the number of passes,Why are multiple passes required in a compiler. Describe strategies for reducing the number of passes.,Compiler Design,CSE-3rd-year.pdf,1,1282
+3rd Year,fb5df1c4717c,why bolare segmentation and paging sometimes combined bos into one,Why bolare segmentation and paging sometimes combined bos into one,General Computer Science,CSE-3rd-year.pdf,1,6295
+3rd Year,9cf16234247a,why do we need bloom filter in filtering streams,(e) Why do we need Bloom filter in filtering streams?,BCST-603,CSE-3rd-year.pdf,1,4666
+3rd Year,acb9894bd42b,why should page replacement be performed,(c) Why should page replacement be performed?,Operating Systems,CSE-3rd-year.pdf,1,3830
+3rd Year,734b27e39b15,why they are needed,Why they are needed?,CST021_005 |,CSE-3rd-year.pdf,1,2377
+3rd Year,921488d1f536,with a neat schematic explain the frame structure of,With a neat schematic explain the frame structure of,General Computer Science,CSE-3rd-year.pdf,1,2244
+3rd Year,bb875a97f0a8,would you go about it,would you go about it?,General Computer Science,CSE-3rd-year.pdf,1,4331
+3rd Year,56576390164e,write a routine to implement,Write a routine to implement,General Computer Science,CSE-3rd-year.pdf,1,2914
+3rd Year,b048c9560078,write about various classes of ip addresses,Write about various classes of IP addresses?,Computer Networks,CSE-3rd-year.pdf,1,2113
+3rd Year,ac0976e3db80,write advantage and disadvantage of,Write advantage and disadvantage of,ANALYSIS OF ALGORITHMS,CSE-3rd-year.pdf,1,3094
+3rd Year,81dc9594bdaa,write complete algorithm for topological sort,Write complete algorithm for Topological Sort.,General Computer Science,CSE-3rd-year.pdf,1,6770
+3rd Year,74408f722f63,write four differences between them,Write four differences between them.,DESIGN & ANALYSIS OF ALGORITHM,CSE-3rd-year.pdf,1,6589
+3rd Year,a2c591e3346b,write notes on rgb and hsv color models,Write notes on RGB and HSV color models?,General Computer Science,CSE-3rd-year.pdf,1,2079
+3rd Year,8b2484d21801,write procedures for creation and deletion of segement with suitable examples,Write procedures for creation and deletion of segement with suitable examples?,GRAPHICS,CSE-3rd-year.pdf,1,1998
+3rd Year,fa816a149659,write short notes on open gl api and sierpinski gasket,(a) Write Short Notes on Open GL API and Sierpinski Gasket?,General Computer Science,CSE-3rd-year.pdf,1,810
+3rd Year,811b2ee05a53,write the algorithm for partitioning into,Write the algorithm for partitioning into,General Computer Science,CSE-3rd-year.pdf,1,1030
+3rd Year,041f7cd49497,write the implementation of shortest,Write the implementation of shortest,CST021_005 |,CSE-3rd-year.pdf,1,2360
+3rd Year,37d4a4cf0968,write the sequence of vertices and cost of the shortest path from s to t,Write the sequence of vertices and cost of the shortest path from S to T.,General Computer Science,CSE-3rd-year.pdf,1,6765
+3rd Year,2627daced00e,write the utility of segment,Write the utility of segment.,GRAPHICS,CSE-3rd-year.pdf,1,2000
+3rd Year,d9dde960ae4a,write the various,Write the various,General Computer Science,CSE-3rd-year.pdf,1,1026
+3rd Year,b98e33841ddc,write two difference between prism and kruskal,Write two difference between prism and kruskal.,DESIGN & ANALYSIS OF ALGORITHM,CSE-3rd-year.pdf,1,6601
+3rd Year,11f6ad8ec52a,x,X3+1?,X3+1?,CSE-3rd-year.pdf,1,892
+3rd Year,abc51b014dcd,you access command line arguments from within a shell script,you access command line arguments from within a shell script?,Operating Systems,CSE-3rd-year.pdf,1,4058
+3rd Year,cd8ad7a326ab,you construct a minimum spanning tree using kruskal s algorithm,you  construct a minimum Spanning tree using Kruskal’s algorithm?,Data Structures,CSE-3rd-year.pdf,1,3062

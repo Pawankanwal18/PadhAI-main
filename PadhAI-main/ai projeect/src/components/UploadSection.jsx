@@ -79,7 +79,12 @@ const UploadSection = () => {
 
       if (!res.ok) throw new Error(data.error || 'Analysis failed');
       setStage(3);
-      setResult(data.analysis);
+      // Merge topImportantRepeated into analysis if it exists at the top level (backward compat)
+      const analysis = data.analysis || {};
+      if (data.topImportantRepeated && !analysis.topImportantRepeated) {
+        analysis.topImportantRepeated = data.topImportantRepeated;
+      }
+      setResult(analysis);
       setResultMeta({ trainedModelUsed: data.trainedModelUsed, geminiUsed: data.geminiUsed });
     } catch (err) {
       setError(err.message);
@@ -390,44 +395,18 @@ const UploadSection = () => {
                   </div>
                 )}
 
-                {/* Questions */}
-                {result.exactQuestions?.length > 0 && (
-                  <div>
-                    <h4 className="font-space font-semibold" style={{ color: '#0a0a0a', fontSize: '13px', marginBottom: '10px', display: 'flex', alignItems: 'center', gap: '6px' }}>
-                      <FiFileText style={{ color: '#06b6d4' }} /> Predicted Exam Questions
-                    </h4>
-                    <div style={{ display: 'flex', flexDirection: 'column', gap: '8px', maxHeight: '500px', overflowY: 'auto', paddingRight: '4px' }}>
-                      {result.exactQuestions.slice(0, 60).map((q, i) => (
-                        <div key={i} style={{ background: '#fff', border: '1px solid #e8e8e8', borderRadius: '10px', padding: '12px 16px' }}>
-                          <div style={{ display: 'flex', gap: '10px', alignItems: 'flex-start' }}>
-                            <span className="font-orbitron font-bold" style={{ fontSize: '10px', color: '#06b6d4', background: 'rgba(6,182,212,0.08)', border: '1px solid rgba(6,182,212,0.2)', padding: '2px 8px', borderRadius: '6px', flexShrink: 0 }}>Q{i + 1}</span>
-                            <div style={{ flex: 1 }}>
-                              <p className="font-space" style={{ color: '#222', fontSize: '13px', lineHeight: 1.7, margin: 0 }}>{q.question}</p>
-                              <div style={{ display: 'flex', gap: '6px', flexWrap: 'wrap', marginTop: '8px' }}>
-                                <span className="font-space" style={{ fontSize: '10px', color: '#3b82f6', background: 'rgba(59,130,246,0.08)', border: '1px solid rgba(59,130,246,0.2)', padding: '2px 8px', borderRadius: '100px' }}>{q.topic}</span>
-                                <span className="font-space" style={{ fontSize: '10px', color: '#666', background: '#f5f5f5', border: '1px solid #e8e8e8', padding: '2px 8px', borderRadius: '100px' }}>{q.marks} Marks</span>
-                                <span className="font-space" style={{ fontSize: '10px', color: '#f59e0b', background: 'rgba(245,158,11,0.08)', border: '1px solid rgba(245,158,11,0.2)', padding: '2px 8px', borderRadius: '100px' }}>{q.likelihood}% likely</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                )}
-
-                {/* Top 30 Important + Repeated Questions */}
+                {/* ── TOP 20 IMPORTANT QUESTIONS (shown first, prominently) ── */}
                 {result.topImportantRepeated?.questions?.length > 0 && (
                   <div>
                     <h4 className="font-space font-semibold" style={{ color: '#0a0a0a', fontSize: '14px', marginBottom: '12px', display: 'flex', alignItems: 'center', gap: '8px' }}>
                       <span style={{ display: 'inline-flex', alignItems: 'center', justifyContent: 'center', width: '24px', height: '24px', borderRadius: '50%', background: 'linear-gradient(135deg, #f59e0b, #ef4444)', color: '#fff', fontWeight: 'bold', fontSize: '12px' }}>⭐</span>
-                      30 Most Important & Repeated Questions
+                      {result.topImportantRepeated.questions.length} Most Important & Repeated Questions
                     </h4>
                     <p className="font-space" style={{ fontSize: '12px', color: '#666', marginBottom: '12px' }}>
                       These are the questions that appear most frequently in past papers. Focus on these topics for your exam preparation!
                     </p>
                     <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '12px', maxHeight: '800px', overflowY: 'auto', paddingRight: '4px' }}>
-                      {result.topImportantRepeated.questions.slice(0, 30).map((q, i) => (
+                      {result.topImportantRepeated.questions.slice(0, 20).map((q, i) => (
                         <motion.div
                           key={i}
                           initial={{ opacity: 0, y: 10 }}
@@ -482,6 +461,32 @@ const UploadSection = () => {
                             </div>
                           </div>
                         </motion.div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+
+                {/* Predicted Exam Questions (general list, shown after important questions) */}
+                {result.exactQuestions?.length > 0 && (
+                  <div>
+                    <h4 className="font-space font-semibold" style={{ color: '#0a0a0a', fontSize: '13px', marginBottom: '10px', display: 'flex', alignItems: 'center', gap: '6px' }}>
+                      <FiFileText style={{ color: '#06b6d4' }} /> All Predicted Exam Questions
+                    </h4>
+                    <div style={{ display: 'flex', flexDirection: 'column', gap: '8px', maxHeight: '500px', overflowY: 'auto', paddingRight: '4px' }}>
+                      {result.exactQuestions.slice(0, 60).map((q, i) => (
+                        <div key={i} style={{ background: '#fff', border: '1px solid #e8e8e8', borderRadius: '10px', padding: '12px 16px' }}>
+                          <div style={{ display: 'flex', gap: '10px', alignItems: 'flex-start' }}>
+                            <span className="font-orbitron font-bold" style={{ fontSize: '10px', color: '#06b6d4', background: 'rgba(6,182,212,0.08)', border: '1px solid rgba(6,182,212,0.2)', padding: '2px 8px', borderRadius: '6px', flexShrink: 0 }}>Q{i + 1}</span>
+                            <div style={{ flex: 1 }}>
+                              <p className="font-space" style={{ color: '#222', fontSize: '13px', lineHeight: 1.7, margin: 0 }}>{q.question}</p>
+                              <div style={{ display: 'flex', gap: '6px', flexWrap: 'wrap', marginTop: '8px' }}>
+                                <span className="font-space" style={{ fontSize: '10px', color: '#3b82f6', background: 'rgba(59,130,246,0.08)', border: '1px solid rgba(59,130,246,0.2)', padding: '2px 8px', borderRadius: '100px' }}>{q.topic}</span>
+                                <span className="font-space" style={{ fontSize: '10px', color: '#666', background: '#f5f5f5', border: '1px solid #e8e8e8', padding: '2px 8px', borderRadius: '100px' }}>{q.marks} Marks</span>
+                                <span className="font-space" style={{ fontSize: '10px', color: '#f59e0b', background: 'rgba(245,158,11,0.08)', border: '1px solid rgba(245,158,11,0.2)', padding: '2px 8px', borderRadius: '100px' }}>{q.likelihood}% likely</span>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
                       ))}
                     </div>
                   </div>
